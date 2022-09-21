@@ -1,0 +1,11 @@
+[Index]
+
+[Notes]
+
+Dremel Digilab 3D45 Advanced Idea Builder 3D Printer
+	https://3dprinting.com/products/3d-printer/dremel-digilab-3d45/
+
+Print dimensions
+	10 x 6 x 6.7 inches
+	254 x 152 x 170 mm
+

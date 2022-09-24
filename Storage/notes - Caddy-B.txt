@@ -1,0 +1,58 @@
+
+[notes regarding container]
+
+Rubbermaid 
+	TakeAlongs 
+	"Deep Rectangles"
+	8 cup
+	1.8 L
+	
+	
+
+
+Pricing 
+	(price for a pair)
+	6.29	local giant
+	4.00	online, dollargeneral.com
+	3.99	online, kroger.com
+	3.89	online, meijer.com
+
+
+
+[notes calculating dimensions]
+
+160mm wide
+
+16" on center
+studs are 1-1/2" (x 3-1/2")
+
+3/2"
+14-1/2" space
+368.3mm
+355 mm wide target
+
+
+2x 160 = 320
+355 - 320 = 35
+
+11mm x3 walls
+10mm x3 walls
+160 + 10 + 10 = 180mm wide
+
+[printer notes]
+
+	printing in draft
+		0.34mm	later height
+		0.3mm	wall
+		0.3mm	top/bottom
+		6%	infill
+			zigzag
+
+[stacking dimensions]
+	taken from model
+
+	tray
+		96mm tall
+	load points (ear-cab)
+		radius: 8mm
+		distance: 61mm

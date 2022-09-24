@@ -1,0 +1,2505 @@
+
+ Volume in drive <share> is <label>
+ Volume Serial Number is FE10-1952
+
+ Directory of <share>\Files\3D Printing\Print Projects
+
+2022-09-24  12:45 AM    <DIR>          .
+2020-05-20  11:25 AM    <DIR>          ..
+...
+2020-05-28  04:24 AM    <DIR>          20200528 - Tesla Wall Connector Organizer
+2020-10-14  08:58 PM    <DIR>          20200602 - RPi HS Case Mount
+2021-04-04  11:59 PM    <DIR>          20200604 - Wire Management
+2020-06-06  08:56 PM    <DIR>          20200606 - Soda Bottle Organizer
+2020-10-14  08:34 PM    <DIR>          20200609 - Netgear Orbi Mount
+2020-07-02  04:09 PM    <DIR>          20200624 - Alien Facehugger
+2020-07-08  02:56 AM    <DIR>          20200708 - Samsung TV Remote Foot
+2020-10-14  08:32 PM    <DIR>          20200719 - Badge Holder
+2020-09-26  01:38 PM    <DIR>          20200808 - Shelf Spacer
+2020-10-14  09:40 PM    <DIR>          20200809 - Desk Accessories
+2020-10-18  05:51 PM    <DIR>          20200819 - Plinth Block
+2020-09-06  04:02 PM    <DIR>          20200830 - 322 Monitor Support
+2020-10-14  09:42 PM    <DIR>          20200831 - RPi AutoHat Enclosure
+2022-09-20  09:11 PM    <DIR>          20200913 - Home Theater
+2020-10-14  07:49 PM    <DIR>          20201011 - RPi SPi Touchscreen back mount
+2020-10-31  07:35 PM    <DIR>          20201031 - Monitor Mount Accessories
+2022-09-23  11:49 PM    <DIR>          20210116 - Security Camera Mount
+2021-02-23  11:49 PM    <DIR>          20210222 - Camera Tripod Mount
+2021-05-15  12:59 PM    <DIR>          20210425 - Garage Door Insulation Panel
+2021-05-15  01:06 PM    <DIR>          20210425 - Sound Dampening Panel
+2021-09-18  01:56 PM    <DIR>          20210515 - Theater Proscenium Bar
+2021-09-18  01:55 PM    <DIR>          20210530 - Theater Base Bar
+2021-06-20  05:28 PM    <DIR>          20210610 - Kitchen Faucet Extension
+2021-06-27  04:41 PM    <DIR>          20210627 - Front Door Camera
+2021-09-30  10:40 PM    <DIR>          20210918 - Rack Tray Mounts
+2022-05-16  09:22 PM    <DIR>          20211212 - Door Hook
+2022-01-28  09:22 PM    <DIR>          20211224 - Partition Shelf Brace
+2022-09-20  09:15 PM    <DIR>          20220107 - BST-2 Sactional Mount, related accessories
+2022-01-28  09:16 PM    <DIR>          20220109 - Remote Control Holder
+2022-05-16  09:28 PM    <DIR>          20220126 - Monitor Stand
+2022-05-16  09:27 PM    <DIR>          20220300 - IR-Illuminator
+2022-09-23  11:53 PM    <DIR>          20220503 - Storage Trays
+2022-09-20  09:12 PM    <DIR>          20220716 - Battery Charger Mount
+2022-09-20  09:14 PM    <DIR>          20220918 - Window Shutter Accessories
+2022-09-23  11:48 PM    <DIR>          20220920 - 3D Printer Accessories
+2022-09-20  09:10 PM    <DIR>          20220920 - Small Device Mount
+2022-09-24  12:45 AM                81 all.dir
+2021-05-30  02:52 AM             1,581 notes.txt
+               4 File(s)     81,958,644 bytes
+
+...
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200528 - Tesla Wall Connector Organizer
+
+2020-05-28  04:24 AM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-05-28  04:32 AM    <DIR>          43337601
+2020-05-27  10:41 PM            94,907 43337601.zip
+2020-05-28  04:24 AM    <DIR>          Tesla_Wall_Connector_Cable_Organizer
+2020-05-27  10:40 PM         1,027,061 Tesla_Wall_Connector_Cable_Organizer.zip
+               2 File(s)      1,121,968 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200528 - Tesla Wall Connector Organizer\43337601
+
+2020-05-28  04:32 AM    <DIR>          .
+2020-05-28  04:24 AM    <DIR>          ..
+2020-08-10  07:52 AM    <DIR>          files
+2019-07-02  09:23 AM    <DIR>          images
+2019-07-02  09:23 AM                25 LICENSE.txt
+2019-07-02  09:23 AM                10 README.txt
+               2 File(s)             35 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200528 - Tesla Wall Connector Organizer\43337601\files
+
+2020-08-10  07:52 AM    <DIR>          .
+2020-05-28  04:32 AM    <DIR>          ..
+2020-05-28  05:30 AM         1,169,280 Holder_F3-01_001.f3d
+2020-05-28  05:31 AM           210,284 Holder_F3-01_001.stl
+2020-05-28  06:10 AM         3,237,128 Holder_F3-01_002.f3d
+2020-05-28  06:10 AM           231,084 Holder_F3-01_002.stl
+2020-05-28  07:33 AM           230,884 Holder_F3-01_002_01.stl
+2020-05-28  02:17 PM               425 index.txt
+2019-07-02  09:23 AM             4,902 tesla_plug_holder_with_hook.v1.scad
+2019-07-02  09:23 AM           352,224 tesla_plug_holder_with_hook.v1.stl
+2019-07-02  09:23 AM             4,898 tesla_plug_holder_with_hook.v2.scad
+2019-07-02  09:23 AM           385,483 tesla_plug_holder_with_hook.v2.stl
+              10 File(s)      5,826,592 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200528 - Tesla Wall Connector Organizer\43337601\images
+
+2019-07-02  09:23 AM    <DIR>          .
+2020-05-28  04:32 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200528 - Tesla Wall Connector Organizer\Tesla_Wall_Connector_Cable_Organizer
+
+2020-05-28  04:24 AM    <DIR>          .
+2020-05-28  04:24 AM    <DIR>          ..
+2016-02-02  05:34 PM             2,014 attribution_card.html
+2020-05-28  04:24 AM    <DIR>          files
+2020-06-07  01:42 AM    <DIR>          images
+2016-02-02  05:34 PM            19,667 LICENSE.txt
+2016-02-02  05:34 PM             1,867 README.txt
+               3 File(s)         23,548 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200528 - Tesla Wall Connector Organizer\Tesla_Wall_Connector_Cable_Organizer\files
+
+2020-05-28  04:24 AM    <DIR>          .
+2020-05-28  04:24 AM    <DIR>          ..
+2016-02-02  05:34 PM         1,628,284 tesla_bracket_wall_connector.stl
+               1 File(s)      1,628,284 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200528 - Tesla Wall Connector Organizer\Tesla_Wall_Connector_Cable_Organizer\images
+
+2020-06-07  01:42 AM    <DIR>          .
+2020-05-28  04:24 AM    <DIR>          ..
+2016-02-02  05:34 PM            96,382 02bc77486d29ba477b3af66b633a0159_preview_featured.jpg
+2016-02-02  05:34 PM            82,622 20160101_211205_preview_featured.jpg
+2016-02-02  05:34 PM            91,405 20160101_211211_preview_featured.jpg
+2016-02-02  05:34 PM            20,636 7789299b0954ae76f62d1400d77a1d37_preview_featured.jpg
+2016-02-02  05:34 PM            42,443 tesla_bracket_wall_connector_preview_featured.jpg
+               5 File(s)        333,488 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200602 - RPi HS Case Mount
+
+2020-10-14  08:58 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-06-05  12:47 PM             1,646 index.txt
+2020-06-02  06:11 AM            31,756 RPiHS-Mount_F3-01_001.f3d
+2020-06-02  08:15 AM             7,473 RPiHS-Mount_F3-01_001.png
+2020-06-02  04:15 PM            83,169 RPiHS-Mount_F3-01_002.f3d
+2020-06-02  04:15 PM            30,384 RPiHS-Mount_F3-01_002.stl
+2020-06-02  05:25 PM            82,662 RPiHS-Mount_F3-01_003.f3d
+2020-06-02  05:26 PM            25,484 RPiHS-Mount_F3-01_003.stl
+2020-06-02  06:46 PM            86,433 RPiHS-Mount_F3-01_004.f3d
+2020-06-02  06:46 PM            31,384 RPiHS-Mount_F3-01_004.stl
+2020-06-02  07:52 PM            97,284 RPiHS-Mount_F3-01_005.f3d
+2020-06-02  07:52 PM            30,984 RPiHS-Mount_F3-01_005.stl
+2020-06-02  09:42 PM           142,389 RPiHS-Mount_F3-01_006.f3d
+2020-06-02  09:43 PM            67,684 RPiHS-Mount_F3-01_006.stl
+2020-06-02  11:05 PM           271,676 RPiHS-Mount_F3-01_008.f3d
+2020-06-02  11:05 PM            86,384 RPiHS-Mount_F3-01_008.stl
+2020-06-03  12:11 AM           408,442 RPiHS-Mount_F3-01_009.f3d
+2020-06-03  12:07 AM           209,784 RPiHS-Mount_F3-01_009.stl
+2020-06-03  02:31 AM           469,568 RPiHS-Mount_F3-01_010.f3d
+2020-06-03  02:31 AM           286,784 RPiHS-Mount_F3-01_010.stl
+2020-06-03  07:09 AM           652,243 RPiHS-Mount_F3-01_011.f3d
+2020-06-03  07:09 AM           407,784 RPiHS-Mount_F3-01_011.stl
+2020-06-03  04:12 PM           650,574 RPiHS-Mount_F3-01_012.f3d
+2020-06-03  04:12 PM           415,884 RPiHS-Mount_F3-01_012.stl
+2020-06-03  08:12 PM           903,388 RPiHS-Mount_F3-01_013.f3d
+2020-06-03  08:12 PM           614,484 RPiHS-Mount_F3-01_013.stl
+2020-06-03  08:38 PM           926,692 RPiHS-Mount_F3-01_014.f3d
+2020-06-03  08:38 PM           688,384 RPiHS-Mount_F3-01_014.stl
+2020-06-03  11:26 PM         1,003,976 RPiHS-Mount_F3-01_015.f3d
+2020-06-04  01:35 AM            16,832 RPiHS-Mount_F3-01_015.png
+2020-06-03  11:26 PM         1,014,884 RPiHS-Mount_F3-01_015.stl
+2020-06-04  03:09 AM         1,192,028 RPiHS-Mount_F3-01_016.f3d
+2020-06-04  03:09 AM         1,492,584 RPiHS-Mount_F3-01_016.stl
+2020-06-04  07:09 AM         1,826,599 RPiHS-Mount_F3-01_017.f3d
+2020-06-04  11:21 PM            21,224 RPiHS-Mount_F3-01_017.png
+2020-06-04  07:09 AM         1,667,184 RPiHS-Mount_F3-01_017.stl
+2020-06-04  11:37 PM         1,906,688 RPiHS-Mount_F3-01_018.f3d
+2020-06-13  07:02 AM            20,937 RPiHS-Mount_F3-01_018.png
+2020-10-14  08:58 PM           828,988 RPiHS-Mount_F3-01_018.step
+2020-06-04  11:37 PM         1,682,584 RPiHS-Mount_F3-01_018.stl
+              39 File(s)     20,385,311 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200604 - Wire Management
+
+2021-04-04  11:59 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-06-09  04:49 AM             2,006 index.txt
+2020-06-09  11:11 AM           217,186 OrbiMount_F3-01_005.f3d
+2021-01-09  04:21 PM           341,150 WallHanger_F3-01_001.f3d
+2021-01-09  04:21 PM           798,084 WallHanger_F3-01_001.stl
+2021-01-09  05:28 PM           458,588 WallHanger_F3-01_002.f3d
+2021-01-09  05:29 PM         2,166,084 WallHanger_F3-01_002.stl
+2021-01-09  06:46 PM           759,993 WallHanger_F3-01_003.f3d
+2021-01-09  06:47 PM         3,317,184 WallHanger_F3-01_003.stl
+2021-04-04  11:59 PM         1,083,315 WallHanger_F3-01_004.f3d
+2021-04-04  11:59 PM           723,957 WallHanger_F3-01_004.step
+2021-04-04  11:59 PM         3,449,984 WallHanger_F3-01_004.stl
+2020-06-04  07:48 AM            80,591 WireMgnt_F3-01_001.f3d
+2020-06-04  07:57 AM            98,608 WireMgnt_F3-01_002.f3d
+2020-06-04  07:57 AM            64,384 WireMgnt_F3-01_002.stl
+2020-06-04  08:02 AM            83,897 WireMgnt_F3-01_003.f3d
+2020-06-04  08:02 AM               854 WireMgnt_F3-01_003.png
+2020-06-04  08:02 AM            73,784 WireMgnt_F3-01_003.stl
+2020-06-04  05:55 PM           153,284 WireMgnt_F3-01_004.f3d
+2020-06-04  05:56 PM           424,584 WireMgnt_F3-01_004.stl
+2020-06-04  06:03 PM           170,463 WireMgnt_F3-01_005.f3d
+2020-06-04  06:03 PM           458,184 WireMgnt_F3-01_005.stl
+2020-06-04  07:40 PM           166,084 WireMgnt_F3-01_006-01.stl
+2020-06-04  07:33 PM           181,051 WireMgnt_F3-01_006.f3d
+2020-06-04  07:33 PM           458,184 WireMgnt_F3-01_006.stl
+2020-06-04  08:30 PM             8,484 WireMgnt_F3-01_007-01.stl
+2020-06-04  08:28 PM           243,399 WireMgnt_F3-01_007.f3d
+2020-06-04  08:28 PM           466,584 WireMgnt_F3-01_007.stl
+2020-06-04  11:16 PM           243,123 WireMgnt_F3-01_008.f3d
+2020-06-09  04:49 AM           244,836 WireMgnt_F3-01_009.f3d
+              29 File(s)     16,937,909 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200606 - Soda Bottle Organizer
+
+2020-06-06  08:56 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-06-06  03:15 AM           132,558 BottleOrgzr_F3-01_001.f3d
+2020-06-06  03:17 AM            70,684 BottleOrgzr_F3-01_001.stl
+2020-06-06  04:37 AM           179,093 BottleOrgzr_F3-01_002.f3d
+2020-06-06  04:37 AM           159,984 BottleOrgzr_F3-01_002.stl
+2020-06-06  06:36 AM           197,297 BottleOrgzr_F3-01_003.f3d
+2020-06-06  06:36 AM           188,284 BottleOrgzr_F3-01_003.stl
+2020-06-06  08:00 AM           321,748 BottleOrgzr_F3-01_004.f3d
+2020-06-06  08:01 AM           245,784 BottleOrgzr_F3-01_004.stl
+2020-06-06  09:56 PM               753 index.txt
+               9 File(s)      1,496,185 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200609 - Netgear Orbi Mount
+
+2020-10-14  08:34 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-06-10  03:08 PM             1,410 index.txt
+2020-05-27  10:19 PM               224 Netgear Orbi RBK20 Wall Mount by jlnevill - Thingiverse.URL
+2020-05-27  10:20 PM               224 Netgear Orbi Wall Mount by Cleansweep9 - Thingiverse.URL
+2020-05-27  10:23 PM    <DIR>          Netgear_Orbi_RBK20_Wall_Mount
+2020-05-27  10:18 PM           379,973 Netgear_Orbi_RBK20_Wall_Mount.zip
+2020-05-27  10:22 PM    <DIR>          Netgear_Orbi_Wall_Mount
+2020-05-27  08:36 PM           204,430 Netgear_Orbi_Wall_Mount.zip
+2020-06-09  05:25 AM            89,546 OrbiMount_F3-01_001.f3d
+2020-06-09  05:25 AM            58,684 OrbiMount_F3-01_001.stl
+2020-06-09  07:48 AM            88,791 OrbiMount_F3-01_002.f3d
+2020-06-09  07:48 AM            30,084 OrbiMount_F3-01_002.stl
+2020-06-09  09:02 AM            73,060 OrbiMount_F3-01_003.f3d
+2020-06-09  09:05 AM             4,484 OrbiMount_F3-01_003.stl
+2020-06-09  09:57 AM           137,482 OrbiMount_F3-01_004.f3d
+2020-06-09  09:57 AM            63,884 OrbiMount_F3-01_004.stl
+2020-06-09  11:12 AM           217,024 OrbiMount_F3-01_005.f3d
+2020-06-09  11:12 AM           175,884 OrbiMount_F3-01_005.stl
+2020-06-09  12:48 PM           278,434 OrbiMount_F3-01_006.f3d
+2020-06-09  12:48 PM           225,484 OrbiMount_F3-01_006.stl
+2020-06-09  02:02 PM           279,583 OrbiMount_F3-01_007.f3d
+2020-06-09  02:02 PM           225,484 OrbiMount_F3-01_007.stl
+2020-06-09  03:43 PM           354,255 OrbiMount_F3-01_008.f3d
+2020-06-09  03:43 PM            32,484 OrbiMount_F3-01_008.stl
+2020-06-09  04:34 PM           364,364 OrbiMount_F3-01_009.f3d
+2020-06-09  04:34 PM            32,284 OrbiMount_F3-01_009.stl
+2020-06-10  03:08 PM           581,763 OrbiMount_F3-01_010.f3d
+2020-06-10  03:08 PM           304,384 OrbiMount_F3-01_010.stl
+2020-06-10  06:20 PM           527,128 OrbiMount_F3-01_011.f3d
+2020-10-14  08:34 PM           197,927 OrbiMount_F3-01_011.step
+2020-06-10  06:20 PM         1,604,684 OrbiMount_F3-01_011.stl
+2020-06-10  01:35 PM           124,913 OrbiWallPlate_F3-01_001.f3d
+              29 File(s)      6,658,355 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200609 - Netgear Orbi Mount\Netgear_Orbi_RBK20_Wall_Mount
+
+2020-05-27  10:23 PM    <DIR>          .
+2020-10-14  08:34 PM    <DIR>          ..
+2018-08-28  02:20 PM             2,531 attribution_card.html
+2020-05-27  10:23 PM    <DIR>          files
+2020-05-27  10:23 PM    <DIR>          images
+2018-08-28  02:20 PM               233 LICENSE.txt
+2018-08-28  02:20 PM             1,806 README.txt
+               3 File(s)          4,570 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200609 - Netgear Orbi Mount\Netgear_Orbi_RBK20_Wall_Mount\files
+
+2020-05-27  10:23 PM    <DIR>          .
+2020-05-27  10:23 PM    <DIR>          ..
+2018-08-28  02:20 PM         1,184,284 Orbi_wall_mount_fixed.stl
+               1 File(s)      1,184,284 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200609 - Netgear Orbi Mount\Netgear_Orbi_RBK20_Wall_Mount\images
+
+2020-05-27  10:23 PM    <DIR>          .
+2020-05-27  10:23 PM    <DIR>          ..
+2018-08-28  02:20 PM            36,793 6bf0157959f5b2c2e2da4af4ee19784d_preview_featured.jpg
+2018-08-28  02:20 PM            52,683 d66a83befff1ba8ed0b3edd07b0a7e63_preview_featured.jpg
+               2 File(s)         89,476 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200609 - Netgear Orbi Mount\Netgear_Orbi_Wall_Mount
+
+2020-05-27  10:22 PM    <DIR>          .
+2020-10-14  08:34 PM    <DIR>          ..
+2018-09-01  10:29 PM             2,058 attribution_card.html
+2020-05-27  10:22 PM    <DIR>          files
+2020-05-27  10:22 PM    <DIR>          images
+2018-09-01  10:29 PM               190 LICENSE.txt
+2018-09-01  10:29 PM             1,844 README.txt
+2018-09-01  10:29 PM               105 SOURCES.txt
+               4 File(s)          4,197 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200609 - Netgear Orbi Mount\Netgear_Orbi_Wall_Mount\files
+
+2020-05-27  10:22 PM    <DIR>          .
+2020-05-27  10:22 PM    <DIR>          ..
+2018-09-01  10:29 PM           473,084 Orbi_Wall_Stand_-_Cleansweep9_Version_3.stl
+               1 File(s)        473,084 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200609 - Netgear Orbi Mount\Netgear_Orbi_Wall_Mount\images
+
+2020-05-27  10:22 PM    <DIR>          .
+2020-05-27  10:22 PM    <DIR>          ..
+2018-09-01  10:29 PM            27,026 537418ebb59fe231b1f1b1c0dbdb1481_preview_featured.jpg
+               1 File(s)         27,026 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200624 - Alien Facehugger
+
+2020-07-02  04:09 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-06-24  02:14 PM           793,484 AlienFH-Leg_F3-01_001.stl
+2020-06-24  03:39 PM           895,384 AlienFH-Leg_F3-01_002.stl
+2020-06-24  03:45 PM           895,984 AlienFH-Leg_F3-01_003.stl
+2020-07-02  04:09 PM           414,434 AlienFH-Leg_F3-01_004 (A).stl
+2020-07-02  04:07 PM           482,584 AlienFH-Leg_F3-01_004 (B,C).stl
+2020-06-24  03:50 PM           896,584 AlienFH-Leg_F3-01_004.stl
+2020-06-24  04:08 PM         1,934,684 AlienFH-Tail_F3-01_001.stl
+2020-06-24  04:27 PM         1,938,884 AlienFH-Tail_F3-01_002.stl
+2020-06-24  04:35 PM         1,939,884 AlienFH-Tail_F3-01_003.stl
+2020-06-29  11:25 PM           511,334 AlienFH-Tail_F3-01_004 (A,D).stl
+2020-06-29  11:23 PM         1,018,234 AlienFH-Tail_F3-01_004 (ABCD).stl
+2020-06-29  11:27 PM           506,984 AlienFH-Tail_F3-01_004 (B,C).stl
+2020-06-29  07:51 PM           504,734 AlienFH-Tail_F3-01_004 (E,F).stl
+2020-06-29  05:39 PM           420,334 AlienFH-Tail_F3-01_004 (G,H).stl
+2020-06-24  04:47 PM         1,942,084 AlienFH-Tail_F3-01_004.stl
+2020-06-30  07:08 PM         2,177,434 AlienFH_Body_F3-01_001.stl
+2020-06-30  07:28 PM        12,022,449 AlienFH_Body_F3-02_001.f3d
+2020-06-30  07:46 PM         2,176,884 AlienFH_Body_F3-02_002.stl
+2020-06-30  08:00 PM        12,022,318 AlienFH_Body_F3-03_001.f3d
+2020-07-01  10:56 AM            18,054 AlienFH_Body_F3-03_001.png
+2020-07-01  11:18 AM        12,047,442 AlienFH_Body_F3-03_002.f3d
+2020-07-01  11:48 AM        10,561,793 AlienFH_Body_F3-04_001.f3d
+2020-07-01  12:01 PM        10,630,834 AlienFH_Body_F3-04_002.f3d
+2020-07-01  12:58 PM        20,026,717 AlienFH_Body_F3-04_003.f3d
+2020-07-01  01:35 PM        22,286,941 AlienFH_Body_F3-04_004.f3d
+2020-07-01  01:44 PM        22,368,773 AlienFH_Body_F3-04_005.f3d
+2020-07-01  01:53 PM        22,750,200 AlienFH_Body_F3-04_006.f3d
+2020-07-01  02:15 PM        23,022,716 AlienFH_Body_F3-04_007.f3d
+2020-07-01  02:23 PM        23,100,118 AlienFH_Body_F3-04_008.f3d
+2020-07-01  02:24 PM           279,784 AlienFH_Body_F3-04_008_Rear.stl
+2020-07-01  02:42 PM        23,128,576 AlienFH_Body_F3-04_009.f3d
+2020-07-01  02:43 PM         2,257,184 AlienFH_Body_F3-04_009_Front.stl
+2020-07-01  03:44 PM        23,173,115 AlienFH_Body_F3-04_010.f3d
+2020-06-30  06:17 PM         2,152,134 AlienFH_Body_original.stl
+2020-07-01  11:44 AM         2,142,784 AlienFH_Body_original_MM-Fixed.stl
+2020-06-24  02:11 PM           792,484 AlienFH_Leg_original.stl
+2020-06-24  02:07 PM    <DIR>          Articulated_face_hugger
+2020-06-22  10:21 AM         5,704,558 Articulated_face_hugger.zip
+2020-07-02  04:06 PM               548 notes.txt
+              38 File(s)    269,939,450 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200624 - Alien Facehugger\Articulated_face_hugger
+
+2020-06-24  02:07 PM    <DIR>          .
+2020-07-02  04:09 PM    <DIR>          ..
+2015-09-28  12:13 PM         1,899,334 body.STL
+2015-09-28  12:13 PM         2,149,884 body_V2.stl
+2015-09-28  12:13 PM         1,707,884 cola.STL
+2015-09-28  12:13 PM         1,930,084 cola_V2.stl
+2015-09-28  12:13 PM         2,846,684 pata.STL
+2015-09-28  12:13 PM         3,170,584 pata_V2.stl
+               6 File(s)     13,704,454 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200708 - Samsung TV Remote Foot
+
+2020-07-08  02:56 AM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-07-08  01:38 AM            42,631 RemoteFoot_F3-01_001.f3d
+2020-07-08  01:38 AM            18,284 RemoteFoot_F3-01_001.stl
+2020-07-08  02:14 AM            47,555 RemoteFoot_F3-01_002.f3d
+2020-07-08  02:14 AM            18,284 RemoteFoot_F3-01_002.stl
+2020-07-08  02:56 AM            50,380 RemoteFoot_F3-01_003.f3d
+2020-07-08  02:56 AM            17,884 RemoteFoot_F3-01_003.stl
+               6 File(s)        195,018 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200719 - Badge Holder
+
+2020-10-14  08:32 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-07-19  03:15 PM           468,198 Badge_Holder_F3-01_001.f3d
+2020-07-19  04:09 PM         2,570,744 Badge_Holder_F3-01_002.f3d
+2020-07-19  04:34 PM         2,612,314 Badge_Holder_F3-01_003.f3d
+2020-07-19  04:36 PM         1,023,784 Badge_Holder_F3-01_003.stl
+2020-07-19  07:14 PM         5,429,174 Badge_Holder_F3-01_004.f3d
+2020-07-19  07:31 PM         6,919,158 Badge_Holder_F3-01_005.f3d
+2020-07-19  07:31 PM         1,833,284 Badge_Holder_F3-01_005.stl
+2020-07-19  08:38 PM        11,052,227 Badge_Holder_F3-01_006.f3d
+2020-07-19  08:39 PM         2,819,084 Badge_Holder_F3-01_006.stl
+2020-07-19  09:05 PM        11,040,276 Badge_Holder_F3-01_007.f3d
+2020-07-19  09:05 PM         2,394,984 Badge_Holder_F3-01_007.stl
+2020-07-19  09:13 PM        11,177,679 Badge_Holder_F3-01_008.f3d
+2020-07-19  09:14 PM         2,521,384 Badge_Holder_F3-01_008.stl
+2020-07-20  12:46 AM        11,409,828 Badge_Holder_F3-01_009.f3d
+2020-07-20  12:46 AM         2,949,384 Badge_Holder_F3-01_009.stl
+2020-07-20  02:50 AM        11,186,523 Badge_Holder_F3-01_010.f3d
+2020-07-20  02:51 AM         2,824,284 Badge_Holder_F3-01_010.stl
+2020-07-20  09:08 PM        12,901,806 Badge_Holder_F3-01_011.f3d
+2020-07-20  09:08 PM         2,911,384 Badge_Holder_F3-01_011.stl
+2020-07-20  09:19 PM        12,875,293 Badge_Holder_F3-01_012.f3d
+2020-07-20  09:19 PM         2,901,484 Badge_Holder_F3-01_012.stl
+2020-07-20  11:47 PM        13,009,239 Badge_Holder_F3-01_013.f3d
+2020-07-20  11:47 PM         2,909,184 Badge_Holder_F3-01_013.stl
+2020-07-21  12:14 AM        15,495,680 Badge_Holder_F3-01_014.f3d
+2020-07-21  12:14 AM         2,939,784 Badge_Holder_F3-01_014.stl
+2020-07-21  12:47 AM        15,420,182 Badge_Holder_F3-01_015.f3d
+2020-07-21  01:58 AM         3,110,484 Badge_Holder_F3-01_015.stl
+2020-07-21  03:00 AM        15,608,263 Badge_Holder_F3-01_016.f3d
+2020-07-21  03:06 AM         3,223,084 Badge_Holder_F3-01_016.stl
+2020-07-21  03:27 AM        15,644,606 Badge_Holder_F3-01_017.f3d
+2020-07-21  03:28 AM         3,361,984 Badge_Holder_F3-01_017.stl
+2020-07-21  04:16 AM        15,827,125 Badge_Holder_F3-01_018.f3d
+2020-07-21  04:16 AM         3,498,884 Badge_Holder_F3-01_018.stl
+2020-07-21  10:40 AM        15,935,899 Badge_Holder_F3-01_019.f3d
+2020-07-21  10:40 AM         3,751,084 Badge_Holder_F3-01_019.stl
+2020-07-21  11:14 AM        16,151,297 Badge_Holder_F3-01_020.f3d
+2020-07-21  11:14 AM         3,852,384 Badge_Holder_F3-01_020.stl
+2020-07-21  11:59 AM        16,259,150 Badge_Holder_F3-01_021.f3d
+2020-07-21  12:00 PM         4,282,584 Badge_Holder_F3-01_021.stl
+2020-07-21  12:37 PM        18,097,323 Badge_Holder_F3-01_022.f3d
+2020-07-21  12:38 PM         4,345,684 Badge_Holder_F3-01_022.stl
+2020-08-27  07:56 AM        18,509,811 Badge_Holder_F3-01_023.f3d
+2020-10-14  08:32 PM         4,426,703 Badge_Holder_F3-01_023.step
+2020-08-27  07:58 AM         4,563,484 Badge_Holder_F3-01_023.stl
+2020-08-10  08:03 AM             2,612 ID_Badge_Holder - Shortcut.lnk
+2020-08-10  08:03 AM             2,515 ID_Badge_Holder_v1.6.stl - Shortcut.lnk
+2020-08-27  07:59 AM             1,940 index.txt
+              47 File(s)    342,053,245 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200808 - Shelf Spacer
+
+2020-09-26  01:38 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+...
+2020-08-26  07:54 PM             1,748 index.txt
+2020-09-26  08:03 AM           149,399 Riser_F3_01_001.f3d
+2020-09-26  08:03 AM           445,284 Riser_F3_01_001.stl
+2020-09-26  01:38 PM           275,683 Riser_F3_01_002.f3d
+2020-09-26  01:38 PM           674,684 Riser_F3_01_002.stl
+2020-08-08  01:30 AM           418,310 Spacer_F3-01_001.f3d
+2020-08-08  01:30 AM           937,084 Spacer_F3-01_001.stl
+2020-08-08  01:35 AM           442,968 Spacer_F3-01_002.f3d
+2020-08-08  01:35 AM           981,884 Spacer_F3-01_002.stl
+2020-08-08  01:39 AM           452,048 Spacer_F3-01_003.f3d
+2020-08-08  01:39 AM           979,984 Spacer_F3-01_003.stl
+2020-08-08  03:34 PM           419,685 Spacer_F3-01_004.f3d
+2020-08-08  03:34 PM           876,784 Spacer_F3-01_004.stl
+2020-08-08  03:44 PM           549,409 Spacer_F3-01_005.f3d
+2020-08-08  03:44 PM         1,042,284 Spacer_F3-01_005.stl
+2020-08-08  05:28 PM           544,162 Spacer_F3-01_006.f3d
+2020-08-08  05:28 PM         1,049,984 Spacer_F3-01_006.stl
+2020-08-08  05:31 PM           502,941 Spacer_F3-01_007.f3d
+2020-08-08  05:32 PM         1,023,884 Spacer_F3-01_007.stl
+2020-08-08  05:41 PM           554,025 Spacer_F3-01_008.f3d
+2020-08-08  05:41 PM         1,061,684 Spacer_F3-01_008.stl
+2020-08-08  06:09 PM           595,816 Spacer_F3-01_009.f3d
+2020-08-08  06:09 PM         2,183,084 Spacer_F3-01_009.stl
+2020-08-08  10:28 PM         1,502,766 Spacer_F3-01_010.f3d
+2020-08-08  10:28 PM         1,887,884 Spacer_F3-01_010.stl
+2020-08-25  02:06 AM         6,911,173 Spacer_F3-01_010_01.gcode
+2020-08-25  02:08 AM         6,891,624 Spacer_F3-01_010_02.gcode
+2020-08-25  10:45 PM         1,501,905 Spacer_F3-02_001.f3d
+2020-08-25  10:59 PM         1,386,161 Spacer_F3-02_002.f3d
+2020-08-25  10:59 PM           930,184 Spacer_F3-02_002.stl
+2020-08-26  07:55 PM         1,465,303 Spacer_F3-02_003.f3d
+2020-08-26  07:55 PM         1,073,684 Spacer_F3-02_003.stl
+              32 File(s)     39,713,502 bytes
+
+...
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200809 - Desk Accessories
+
+2020-10-14  09:40 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-09-05  10:37 PM               748 index.txt
+2020-08-09  12:59 AM           102,781 Side_Access_F3-01_001.f3d
+2020-08-09  01:00 AM           245,684 Side_Access_F3-01_001.stl
+2020-08-09  09:55 AM         1,128,990 Side_Access_F3-01_002.f3d
+2020-08-09  09:55 AM           509,284 Side_Access_F3-01_002.stl
+2020-08-09  10:10 AM         1,150,821 Side_Access_F3-01_003.f3d
+2020-08-09  09:59 AM           511,684 Side_Access_F3-01_003.stl
+2020-08-09  12:39 PM         1,254,768 Side_Access_F3-01_004.f3d
+2020-08-09  12:39 PM           615,584 Side_Access_F3-01_004.stl
+2020-08-09  02:59 PM         1,297,519 Side_Access_F3-01_005.f3d
+2020-08-09  02:59 PM           609,584 Side_Access_F3-01_005.stl
+2020-08-10  01:27 AM         1,304,418 Side_Access_F3-01_006.f3d
+2020-08-10  01:27 AM           619,184 Side_Access_F3-01_006.stl
+2020-09-05  10:34 PM         1,350,647 Side_Access_F3-01_007.f3d
+2020-10-14  09:40 PM         1,381,776 Side_Access_F3-01_007.step
+2020-09-05  10:36 PM           543,284 Side_Access_F3-01_007.stl
+              16 File(s)     12,626,756 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200819 - Plinth Block
+
+2020-10-18  05:51 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-08-20  03:15 PM         2,159,002 CameraZOOM-20200820151521932.jpg
+2020-10-18  05:50 PM             3,347 index.txt
+2020-08-19  01:31 PM           154,278 PBlock_F3-01_001.f3d
+2020-08-19  01:31 PM            42,884 PBlock_F3-01_001.stl
+2020-08-19  02:26 PM           167,329 PBlock_F3-01_002.f3d
+2020-08-19  02:26 PM            44,684 PBlock_F3-01_002.stl
+2020-08-19  06:59 PM           148,592 PBlock_F3-01_003.f3d
+2020-08-19  06:59 PM            43,184 PBlock_F3-01_003.stl
+2020-08-19  09:10 PM           165,736 PBlock_F3-01_004.f3d
+2020-08-19  09:11 PM            47,584 PBlock_F3-01_004.stl
+2020-08-19  11:52 PM           164,179 PBlock_F3-01_005.f3d
+2020-08-19  11:52 PM            53,984 PBlock_F3-01_005.stl
+2020-08-20  01:01 AM           171,571 PBlock_F3-01_006.f3d
+2020-08-20  01:01 AM            53,684 PBlock_F3-01_006.stl
+2020-08-20  02:15 AM           161,486 PBlock_F3-01_007.f3d
+2020-08-20  02:15 AM            49,584 PBlock_F3-01_007.stl
+2020-08-20  03:58 AM           154,283 PBlock_F3-01_008.f3d
+2020-08-20  03:58 AM            50,884 PBlock_F3-01_008.stl
+2020-08-20  10:24 AM           192,626 PBlock_F3-01_009.f3d
+2020-08-20  10:24 AM            76,984 PBlock_F3-01_009.stl
+2020-08-20  11:18 AM           184,917 PBlock_F3-01_010.f3d
+2020-08-20  11:18 AM            55,184 PBlock_F3-01_010.stl
+2020-08-20  11:51 AM           186,789 PBlock_F3-01_011.f3d
+2020-08-20  11:51 AM            50,384 PBlock_F3-01_011.stl
+2020-08-20  04:12 PM           234,552 PBlock_F3-01_012.f3d
+2020-08-20  04:13 PM            57,384 PBlock_F3-01_012.stl
+2020-08-20  06:29 PM           248,872 PBlock_F3-01_013.f3d
+2020-08-20  06:29 PM            51,884 PBlock_F3-01_013.stl
+2020-08-20  07:28 PM           251,491 PBlock_F3-01_014.f3d
+2020-08-20  07:28 PM            50,384 PBlock_F3-01_014.stl
+2020-08-20  09:00 PM           255,289 PBlock_F3-01_015.f3d
+2020-08-20  09:00 PM            53,384 PBlock_F3-01_015.stl
+2020-08-20  10:49 PM           255,762 PBlock_F3-01_016.f3d
+2020-08-20  10:49 PM            53,384 PBlock_F3-01_016.stl
+2020-08-20  11:43 PM           257,414 PBlock_F3-01_017.f3d
+2020-08-20  11:44 PM            52,384 PBlock_F3-01_017.stl
+2020-08-21  12:57 AM           258,012 PBlock_F3-01_018.f3d
+2020-08-21  12:57 AM            53,484 PBlock_F3-01_018.stl
+2020-08-21  01:42 AM           256,943 PBlock_F3-01_019.f3d
+2020-08-21  01:42 AM            51,984 PBlock_F3-01_019.stl
+2020-08-21  02:39 AM           907,525 PBlock_F3-01_020.f3d
+2020-08-21  02:40 AM           157,484 PBlock_F3-01_020.stl
+2020-08-21  04:31 AM           982,995 PBlock_F3-01_021.f3d
+2020-08-21  04:31 AM           157,284 PBlock_F3-01_021.stl
+2020-08-21  10:42 AM         1,244,178 PBlock_F3-01_022.f3d
+2020-08-21  10:42 AM           253,684 PBlock_F3-01_022.stl
+2020-08-21  01:38 PM         1,458,357 PBlock_F3-01_023.f3d
+2020-08-21  01:39 PM           172,584 PBlock_F3-01_023.stl
+2020-08-21  04:28 PM         1,461,315 PBlock_F3-01_024.f3d
+2020-08-21  04:52 PM         1,623,339 PBlock_F3-01_025.f3d
+2020-08-21  04:53 PM           287,284 PBlock_F3-01_025.stl
+2020-08-21  05:03 PM         1,745,039 PBlock_F3-01_026.f3d
+2020-08-21  05:03 PM           386,784 PBlock_F3-01_026.stl
+2020-08-22  12:56 AM         1,784,786 PBlock_F3-01_027.f3d
+2020-08-23  04:21 AM         1,793,640 PBlock_F3-01_028.f3d
+2020-08-23  04:21 AM           411,384 PBlock_F3-01_028.stl
+2020-08-30  12:32 AM         1,914,866 PBlock_F3-01_029.f3d
+2020-08-30  12:33 AM           455,384 PBlock_F3-01_029.stl
+2020-08-21  03:03 PM         1,458,321 PBlock_F3-02_001.f3d
+2020-08-21  03:15 PM         1,522,807 PBlock_F3-02_002.f3d
+2020-08-21  03:15 PM           111,384 PBlock_F3-02_002.stl
+2020-08-22  02:37 PM         1,530,791 PBlock_F3-02_003.f3d
+2020-08-22  02:38 PM           111,784 PBlock_F3-02_003.stl
+2020-08-22  04:01 PM         1,521,692 PBlock_F3-02_004.f3d
+2020-08-22  04:01 PM           112,184 PBlock_F3-02_004.stl
+2020-08-22  05:27 PM         1,526,502 PBlock_F3-02_005.f3d
+2020-08-22  05:28 PM           111,784 PBlock_F3-02_005.stl
+2020-08-22  06:34 PM         1,527,860 PBlock_F3-02_006.f3d
+2020-08-22  06:34 PM           112,284 PBlock_F3-02_006.stl
+2020-08-22  07:48 PM         1,738,221 PBlock_F3-02_007.f3d
+2020-08-22  07:48 PM           242,684 PBlock_F3-02_007.stl
+2020-08-22  11:05 PM         2,016,038 PBlock_F3-02_008.f3d
+2020-08-22  11:05 PM           955,084 PBlock_F3-02_008.stl
+2020-08-30  09:21 PM         2,131,711 PBlock_F3-02_009.f3d
+2020-08-30  09:22 PM           983,584 PBlock_F3-02_009.stl
+2020-08-30  09:30 PM         2,265,912 PBlock_F3-02_010.f3d
+2020-08-30  09:30 PM         1,019,784 PBlock_F3-02_010.stl
+2020-08-31  01:37 AM         2,308,353 PBlock_F3-02_011.f3d
+2020-08-31  01:37 AM         1,011,684 PBlock_F3-02_011.stl
+2020-08-31  06:36 PM         2,399,176 PBlock_F3-02_012.f3d
+2020-08-31  06:36 PM         1,072,384 PBlock_F3-02_012.stl
+2020-10-18  05:51 PM         2,679,993 PBlock_F3-02_014.f3d
+2020-10-18  05:51 PM           897,258 PBlock_F3-02_014.step
+2020-10-18  05:51 PM         1,534,584 PBlock_F3-02_014.stl
+2020-08-29  06:59 PM         2,018,081 PBlock_F3-03_001.f3d
+2020-08-29  07:10 PM         2,091,516 PBlock_F3-03_002.f3d
+2020-08-29  07:10 PM           287,384 PBlock_F3-03_002.stl
+2020-08-29  08:39 PM         2,130,871 PBlock_F3-03_003.f3d
+2020-08-29  08:39 PM           261,184 PBlock_F3-03_003.stl
+2020-08-29  10:09 PM         2,349,919 PBlock_F3-03_004.f3d
+2020-08-29  10:09 PM           468,384 PBlock_F3-03_004.stl
+2020-08-29  10:17 PM         2,350,087 PBlock_F3-03_005.f3d
+2020-08-29  10:17 PM           463,984 PBlock_F3-03_005.stl
+2020-08-29  11:41 PM         2,370,784 PBlock_F3-03_006.f3d
+2020-08-29  11:41 PM           459,584 PBlock_F3-03_006.stl
+2020-08-20  03:34 PM           302,606 TrimDetail_01_001.jpg
+              96 File(s)     72,681,905 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200830 - 322 Monitor Support
+
+2020-09-06  04:02 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-08-30  03:45 AM           705,998 324Stand_F3-01_001.f3d
+2020-08-30  03:45 AM         1,012,484 324Stand_F3-01_001.stl
+2020-08-30  04:06 AM           811,391 324Stand_F3-01_002.f3d
+2020-08-30  04:06 AM         1,342,484 324Stand_F3-01_002.stl
+2020-09-06  01:16 AM           901,346 324Stand_F3-01_003.f3d
+2020-09-06  01:16 AM         1,361,284 324Stand_F3-01_003.stl
+2020-09-06  04:02 PM         1,267,096 324Stand_F3-01_004.f3d
+2020-09-06  04:02 PM         1,411,484 324Stand_F3-01_004.stl
+2020-09-06  04:02 PM               452 index.txt
+               9 File(s)      8,814,019 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200831 - RPi AutoHat Enclosure
+
+2020-10-14  09:42 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-08-31  06:52 PM               194 index.txt
+2020-08-31  06:51 PM         1,906,636 RPiAH-Enc_F3-01_001.f3d
+2020-08-31  06:52 PM         1,682,584 RPiAH-Enc_F3-01_001.stl
+2020-08-31  11:19 PM           384,784 RPiAH-Enc_F3-01_002-L.stl
+2020-08-31  11:16 PM         2,181,069 RPiAH-Enc_F3-01_002.f3d
+2020-10-14  09:42 PM           874,542 RPiAH-Enc_F3-01_002.step
+2020-08-31  11:17 PM           456,184 RPiAH-Enc_F3-01_002.stl
+               7 File(s)      7,485,993 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20200913 - Home Theater
+
+2020-10-31  10:27 PM           564,818 (Unsaved).f3d
+2022-09-20  09:11 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-08-07  03:14 AM           215,482 Banana-Plug-Mount_F3-01_001.3mf
+2022-08-07  03:14 AM           207,893 Banana-Plug-Mount_F3-01_001.f3d
+2022-08-07  03:14 AM           139,438 Banana-Plug-Mount_F3-01_001.step
+2022-08-07  05:12 AM           256,309 Banana-Plug-Mount_F3-01_002.3mf
+2022-08-07  05:12 AM           242,889 Banana-Plug-Mount_F3-01_002.f3d
+2022-08-07  05:11 AM           139,666 Banana-Plug-Mount_F3-01_002.step
+2022-08-07  05:16 AM           282,812 Banana-Plug-Mount_F3-01_003.3mf
+2022-08-07  05:17 AM           272,460 Banana-Plug-Mount_F3-01_003.f3d
+2022-08-07  05:17 AM           177,107 Banana-Plug-Mount_F3-01_003.step
+2022-08-07  02:20 PM           275,492 Banana-Plug-Mount_F3-01_004.3mf
+2022-08-07  02:20 PM           301,570 Banana-Plug-Mount_F3-01_004.f3d
+2022-08-07  02:20 PM           189,161 Banana-Plug-Mount_F3-01_004.step
+2022-08-07  03:44 PM           290,706 Banana-Plug-Mount_F3-01_005.3mf
+2022-08-07  03:45 PM           376,459 Banana-Plug-Mount_F3-01_005.f3d
+2022-08-07  03:45 PM           226,526 Banana-Plug-Mount_F3-01_005.step
+2022-08-07  05:41 PM           288,941 Banana-Plug-Mount_F3-01_006.3mf
+2022-08-07  05:41 PM           490,924 Banana-Plug-Mount_F3-01_006.f3d
+2022-08-07  05:41 PM           244,493 Banana-Plug-Mount_F3-01_006.step
+2022-08-08  08:35 PM           288,942 Banana-Plug-Mount_F3-02_007.3mf
+2022-08-08  08:35 PM           490,862 Banana-Plug-Mount_F3-02_007.f3d
+2022-08-08  08:35 PM           244,493 Banana-Plug-Mount_F3-02_007.step
+2022-08-08  09:15 PM           152,967 Banana-Plug-Mount_F3-02_008.3mf
+2022-08-08  09:15 PM           482,835 Banana-Plug-Mount_F3-02_008.f3d
+2022-08-08  09:15 PM           203,294 Banana-Plug-Mount_F3-02_008.step
+2022-08-08  09:23 PM           142,099 Banana-Plug-Mount_F3-02_009.3mf
+2022-08-08  09:23 PM           618,193 Banana-Plug-Mount_F3-02_009.f3d
+2022-08-08  09:24 PM           189,830 Banana-Plug-Mount_F3-02_009.step
+2022-08-09  07:35 PM           226,709 Banana-Plug-Mount_F3-02_010.3mf
+2022-08-09  07:35 PM           826,090 Banana-Plug-Mount_F3-02_010.f3d
+2022-08-09  07:34 PM           331,698 Banana-Plug-Mount_F3-02_010.step
+2022-08-09  09:19 PM           305,635 Banana-Plug-Mount_F3-02_011.3mf
+2022-08-09  09:19 PM           968,844 Banana-Plug-Mount_F3-02_011.f3d
+2022-08-09  09:19 PM           454,071 Banana-Plug-Mount_F3-02_011.step
+2022-08-09  09:32 PM           316,744 Banana-Plug-Mount_F3-02_012.3mf
+2022-08-09  09:32 PM         1,004,000 Banana-Plug-Mount_F3-02_012.f3d
+2022-08-09  09:31 PM           484,497 Banana-Plug-Mount_F3-02_012.step
+2022-08-10  08:34 PM           224,941 Banana-Plug-Mount_F3-02_013.3mf
+2022-08-10  08:34 PM           963,929 Banana-Plug-Mount_F3-02_013.f3d
+2022-08-10  08:34 PM           396,439 Banana-Plug-Mount_F3-02_013.step
+2022-08-10  10:07 PM           289,166 Banana-Plug-Mount_F3-02_014.3mf
+2022-08-10  10:07 PM         1,301,922 Banana-Plug-Mount_F3-02_014.f3d
+2022-08-10  10:07 PM           527,044 Banana-Plug-Mount_F3-02_014.step
+2022-08-11  09:03 AM           300,204 Banana-Plug-Mount_F3-02_015.3mf
+2022-08-11  09:03 AM         1,337,262 Banana-Plug-Mount_F3-02_015.f3d
+2022-08-11  09:03 AM           555,926 Banana-Plug-Mount_F3-02_015.step
+2022-08-20  04:11 PM           250,990 Banana-Plug-Mount_F3-03_001.3mf
+2022-08-20  04:11 PM           431,114 Banana-Plug-Mount_F3-03_001.f3d
+2022-08-20  04:11 PM           484,656 Banana-Plug-Mount_F3-03_001.step
+2022-08-20  06:04 PM           303,049 Banana-Plug-Mount_F3-03_002.3mf
+2022-08-20  06:04 PM           441,180 Banana-Plug-Mount_F3-03_002.f3d
+2022-08-20  06:04 PM           274,925 Banana-Plug-Mount_F3-03_002.step
+2022-08-20  06:08 PM           366,842 Banana-Plug-Mount_F3-03_003.3mf
+2022-08-20  06:08 PM           570,906 Banana-Plug-Mount_F3-03_003.f3d
+2022-08-20  06:08 PM           401,003 Banana-Plug-Mount_F3-03_003.step
+2022-08-20  07:47 PM           388,497 Banana-Plug-Mount_F3-03_004.3mf
+2022-08-20  07:47 PM           563,238 Banana-Plug-Mount_F3-03_004.f3d
+2022-08-20  07:47 PM           434,935 Banana-Plug-Mount_F3-03_004.step
+2022-08-21  01:16 PM           285,405 Banana-Plug-Mount_F3-03_005.3mf
+2022-08-21  01:17 PM           664,685 Banana-Plug-Mount_F3-03_005.f3d
+2022-08-21  01:17 PM           411,203 Banana-Plug-Mount_F3-03_005.step
+2022-08-21  01:25 PM           291,810 Banana-Plug-Mount_F3-03_006.3mf
+2022-08-21  01:25 PM           668,835 Banana-Plug-Mount_F3-03_006.f3d
+2022-08-21  01:25 PM           468,208 Banana-Plug-Mount_F3-03_006.step
+2021-03-13  02:34 PM            65,956 BottomMaskBracket-F3-01_001.f3d
+2021-03-13  02:34 PM            25,884 BottomMaskBracket-F3-01_001.stl
+2021-03-13  03:38 PM            80,268 BottomMaskBracket-F3-01_002.f3d
+2021-03-13  03:38 PM            40,679 BottomMaskBracket-F3-01_002.step
+2021-03-13  03:38 PM            49,084 BottomMaskBracket-F3-01_002.stl
+2021-03-13  04:28 PM            94,500 BottomMaskBracket-F3-01_003.f3d
+2021-03-13  04:28 PM            53,845 BottomMaskBracket-F3-01_003.step
+2021-03-13  04:28 PM            76,684 BottomMaskBracket-F3-01_003.stl
+2021-03-13  06:51 PM           115,176 BottomMaskBracket-F3-01_004.f3d
+2021-03-13  06:52 PM            64,877 BottomMaskBracket-F3-01_004.step
+2021-03-13  06:52 PM            93,484 BottomMaskBracket-F3-01_004.stl
+2021-03-13  07:50 PM           127,351 BottomMaskBracket-F3-01_005.f3d
+2021-03-13  07:50 PM            68,318 BottomMaskBracket-F3-01_005.step
+2021-03-13  07:50 PM            93,484 BottomMaskBracket-F3-01_005.stl
+2021-03-13  08:02 PM           143,158 BottomMaskBracket-F3-01_006.f3d
+2021-03-13  08:02 PM            73,281 BottomMaskBracket-F3-01_006.step
+2021-03-13  08:02 PM           120,884 BottomMaskBracket-F3-01_006.stl
+2021-03-13  08:43 PM           145,196 BottomMaskBracket-F3-01_007.f3d
+2021-03-13  08:43 PM            76,426 BottomMaskBracket-F3-01_007.step
+2021-03-13  08:43 PM           122,484 BottomMaskBracket-F3-01_007.stl
+2021-03-13  10:07 PM           486,775 BottomMaskBracket-F3-01_008.f3d
+2021-03-13  10:08 PM           297,826 BottomMaskBracket-F3-01_008.step
+2021-03-13  10:08 PM           819,784 BottomMaskBracket-F3-01_008.stl
+2021-03-14  01:08 PM           623,707 BottomMaskBracket-F3-01_009.f3d
+2021-03-14  01:08 PM           497,217 BottomMaskBracket-F3-01_009.step
+2021-03-14  01:12 PM           924,484 BottomMaskBracket-F3-01_009.stl
+2020-09-15  01:39 AM           259,275 Cleat_F3-01_001.f3d
+2020-09-15  07:42 PM           522,231 Cleat_F3-02_001.f3d
+2020-09-15  07:42 PM           772,084 Cleat_F3-02_001.stl
+2020-09-16  12:47 AM           693,588 Cleat_F3-03_001.f3d
+2020-09-16  12:48 AM         2,308,084 Cleat_F3-03_001.stl
+2020-09-16  07:59 AM           818,022 Cleat_F3-03_002.f3d
+2020-09-16  07:59 AM         2,290,684 Cleat_F3-03_002.stl
+2020-09-16  07:01 PM         1,307,521 Cleat_F3-03_003.f3d
+2020-09-16  07:02 PM         2,888,084 Cleat_F3-03_003.stl
+2020-09-16  11:03 PM         2,485,828 Cleat_F3-03_003_angled_001.f3d
+2020-09-16  11:03 PM         1,713,184 Cleat_F3-03_003_angled_001.stl
+2020-09-17  08:55 PM         4,449,642 Cleat_F3-03_003_angled_002.f3d
+2020-09-17  08:55 PM         1,877,884 Cleat_F3-03_003_angled_002.stl
+2020-10-31  06:01 PM           197,629 CurtainRodBracket_F3-01_001.f3d
+2020-10-31  06:01 PM           173,207 CurtainRodBracket_F3-01_001.step
+2020-10-31  06:02 PM         1,512,484 CurtainRodBracket_F3-01_001.stl
+2020-10-31  07:34 PM           263,869 CurtainRodBracket_F3-01_002.f3d
+2020-10-31  07:35 PM           237,300 CurtainRodBracket_F3-01_002.step
+2020-10-31  07:34 PM         1,560,884 CurtainRodBracket_F3-01_002.stl
+2020-10-31  10:27 PM           564,733 CurtainRodBracket_F3-01_003 (Side Mount).f3d
+2020-10-31  10:28 PM           565,254 CurtainRodBracket_F3-01_004 (Side Mount).f3d
+2020-10-31  10:28 PM         1,538,284 CurtainRodBracket_F3-01_004 (Side Mount).stl
+2020-11-01  04:44 AM         1,995,260 CurtainRodBracket_F3-01_005 (Top Mount, Open).f3d
+2020-11-01  04:45 AM           443,484 CurtainRodBracket_F3-01_005 (Top Mount, Open).step
+2020-11-01  04:45 AM         2,045,084 CurtainRodBracket_F3-01_005 (Top Mount, Open).stl
+2020-11-01  04:49 AM         2,026,163 CurtainRodBracket_F3-01_006 (Top Mount, Open).f3d
+2020-11-01  04:50 AM           410,072 CurtainRodBracket_F3-01_006 (Top Mount, Open).step
+2020-11-01  04:50 AM         2,048,584 CurtainRodBracket_F3-01_006 (Top Mount, Open).stl
+2020-11-01  02:27 PM         2,370,366 CurtainRodBracket_F3-01_007 (Top Mount, Open).f3d
+2020-11-01  02:28 PM           437,165 CurtainRodBracket_F3-01_007 (Top Mount, Open).step
+2020-11-01  02:28 PM         2,834,384 CurtainRodBracket_F3-01_007 (Top Mount, Open).stl
+2020-11-01  05:49 PM         2,568,802 CurtainRodBracket_F3-01_008 (Top Mount, Open).f3d
+2020-11-01  05:50 PM           564,444 CurtainRodBracket_F3-01_008 (Top Mount, Open).step
+2020-11-01  05:50 PM         3,527,884 CurtainRodBracket_F3-01_008 (Top Mount, Open).stl
+2020-11-15  11:48 PM         2,991,199 CurtainRodBracket_F3-01_009 (Facing Mount, Closed).f3d
+2020-11-15  11:49 PM           260,083 CurtainRodBracket_F3-01_009 (Facing Mount, Closed).step
+2020-11-15  11:49 PM         3,073,684 CurtainRodBracket_F3-01_009 (Facing Mount, Closed).stl
+2020-11-16  02:43 AM         3,177,808 CurtainRodBracket_F3-01_010 (Facing Mount, Closed).f3d
+2020-11-28  02:53 PM         3,552,918 CurtainRodBracket_F3-01_011 (Angled Rod Joiner).f3d
+2020-11-28  03:30 PM         3,857,917 CurtainRodBracket_F3-01_012 (Angled Rod Joiner).f3d
+2020-11-28  03:30 PM         1,626,190 CurtainRodBracket_F3-01_012 (Angled Rod Joiner).step
+2020-11-28  03:33 PM         1,560,284 CurtainRodBracket_F3-01_012 (Angled Rod Joiner).stl
+2020-11-28  08:29 PM         4,382,947 CurtainRodBracket_F3-01_013 (Angled Rod Joiner).f3d
+2020-11-28  08:30 PM           433,347 CurtainRodBracket_F3-01_013 (Angled Rod Joiner).step
+2020-11-28  08:30 PM         3,692,684 CurtainRodBracket_F3-01_013 (Angled Rod Joiner).stl
+2020-11-28  11:49 PM         4,993,617 CurtainRodBracket_F3-01_014 (Angled Rod Joiner).f3d
+2020-11-28  11:51 PM           472,202 CurtainRodBracket_F3-01_014 (Angled Rod Joiner).step
+2020-11-28  11:50 PM         3,541,584 CurtainRodBracket_F3-01_014 (Angled Rod Joiner).stl
+2020-11-29  01:04 AM         6,241,427 CurtainRodBracket_F3-01_015 (Rod Hook).f3d
+2020-11-29  01:04 AM           478,294 CurtainRodBracket_F3-01_015 (Rod Hook).step
+2020-11-29  01:04 AM         2,081,984 CurtainRodBracket_F3-01_015 (Rod Hook).stl
+2020-11-29  04:31 AM         6,625,813 CurtainRodBracket_F3-01_016 (Rod Hook).f3d
+2020-11-29  04:32 AM           657,457 CurtainRodBracket_F3-01_016 (Rod Hook).step
+2020-11-29  04:33 AM         2,185,384 CurtainRodBracket_F3-01_016 (Rod Hook).stl
+2020-11-29  06:02 AM         7,092,449 CurtainRodBracket_F3-01_017 (60 Rod Joiner).f3d
+2020-11-29  06:02 AM           216,410 CurtainRodBracket_F3-01_017 (60 Rod Joiner).step
+2020-11-29  06:02 AM         1,406,184 CurtainRodBracket_F3-01_017 (60 Rod Joiner).stl
+2020-11-29  06:11 AM         7,233,175 CurtainRodBracket_F3-01_018 (60 Rod Joiner).f3d
+2020-11-29  06:12 AM           305,639 CurtainRodBracket_F3-01_018 (60 Rod Joiner).step
+2020-11-29  06:12 AM         1,656,384 CurtainRodBracket_F3-01_018 (60 Rod Joiner).stl
+2020-11-29  08:33 AM         6,626,673 CurtainRodBracket_F3-01_019 (Open Rod Hook).f3d
+2020-11-29  08:34 AM           657,451 CurtainRodBracket_F3-01_019 (Open Rod Hook).step
+2020-11-29  08:35 AM         2,189,184 CurtainRodBracket_F3-01_019 (Open Rod Hook).stl
+2020-11-29  05:51 PM         8,236,328 CurtainRodBracket_F3-01_020 (Open Rod Hook, adjustable).f3d
+2020-11-29  05:53 PM           443,011 CurtainRodBracket_F3-01_020 (Open Rod Hook, adjustable).step
+2020-11-29  05:52 PM         1,852,984 CurtainRodBracket_F3-01_020 (Open Rod Hook, adjustable).stl
+2020-11-29  06:05 PM         8,676,519 CurtainRodBracket_F3-01_021 (Open Rod Hook, adjustable).f3d
+2020-11-29  06:05 PM           493,071 CurtainRodBracket_F3-01_021 (Open Rod Hook, adjustable).step
+2020-11-29  06:05 PM         1,875,784 CurtainRodBracket_F3-01_021 (Open Rod Hook, adjustable).stl
+2020-11-29  06:35 PM         8,359,705 CurtainRodBracket_F3-01_022 (Open Rod Hook, adjustable).f3d
+2020-11-29  06:35 PM           456,486 CurtainRodBracket_F3-01_022 (Open Rod Hook, adjustable).step
+2020-11-29  06:35 PM         1,890,284 CurtainRodBracket_F3-01_022 (Open Rod Hook, adjustable).stl
+2020-11-29  11:27 PM         8,425,640 CurtainRodBracket_F3-01_023 (Open Rod Hook, adjustable).f3d
+2020-11-29  11:28 PM           486,784 CurtainRodBracket_F3-01_023 (Open Rod Hook, adjustable).step
+2020-11-29  11:28 PM         2,033,284 CurtainRodBracket_F3-01_023 (Open Rod Hook, adjustable).stl
+2021-05-09  01:52 AM         6,821,186 E26-BulbBase_F3-01_001.f3d
+2021-05-09  01:52 AM           817,684 E26-BulbBase_F3-01_001.stl
+2021-05-09  02:38 AM         8,583,306 E26-BulbBase_F3-01_002.f3d
+2021-05-09  02:38 AM         1,020,084 E26-BulbBase_F3-01_002.stl
+2021-02-28  04:08 PM               870 index.txt
+2020-11-01  07:14 PM           179,180 LightDisplayBracket_F3-01_001.f3d
+2020-11-01  07:14 PM           170,784 LightDisplayBracket_F3-01_001.step
+2020-11-01  07:14 PM           860,684 LightDisplayBracket_F3-01_001.stl
+2020-09-23  09:13 PM         6,933,850 ScreenClamp_F3-01-Peg_001 (x13).gcode
+2020-09-20  10:30 PM         3,208,313 ScreenClamp_F3-01-Peg_001 (x6).gcode
+2020-09-19  11:13 PM           691,650 ScreenClamp_F3-01-Peg_001.f3d
+2020-09-19  11:13 PM         2,032,884 ScreenClamp_F3-01-Peg_001.stl
+2020-09-18  08:15 PM           418,198 ScreenClamp_F3-01_001.f3d
+2020-09-18  08:16 PM         3,249,884 ScreenClamp_F3-01_001.stl
+2020-09-18  11:57 PM           435,050 ScreenClamp_F3-01_002.f3d
+2020-09-18  11:57 PM         3,159,384 ScreenClamp_F3-01_002.stl
+2020-09-19  01:28 AM           523,778 ScreenClamp_F3-01_003.f3d
+2020-09-19  01:28 AM         2,310,484 ScreenClamp_F3-01_003.stl
+2020-09-19  02:52 AM           519,283 ScreenClamp_F3-01_004.f3d
+2020-09-19  02:52 AM         2,810,884 ScreenClamp_F3-01_004.stl
+2020-09-19  04:05 AM           517,019 ScreenClamp_F3-01_005.f3d
+2020-09-19  04:06 AM         2,815,984 ScreenClamp_F3-01_005.stl
+2020-09-19  05:19 AM           520,120 ScreenClamp_F3-01_006.f3d
+2020-09-19  05:20 AM         2,802,484 ScreenClamp_F3-01_006.stl
+2020-09-23  09:25 PM           840,135 ScreenClamp_F3-01_007-Flat_001.f3d
+2020-09-23  09:26 PM         1,912,684 ScreenClamp_F3-01_007-Flat_001.stl
+2020-09-19  12:36 PM           521,211 ScreenClamp_F3-01_007.f3d
+2020-09-19  12:36 PM         2,802,184 ScreenClamp_F3-01_007.stl
+2020-09-19  01:01 PM           688,017 ScreenClamp_F3-02_001.f3d
+2020-09-19  01:01 PM           790,284 ScreenClamp_F3-02_001.stl
+2020-09-19  01:08 PM           758,219 ScreenClamp_F3-02_002.f3d
+2020-09-19  01:08 PM         1,778,384 ScreenClamp_F3-02_002.stl
+2020-09-20  04:20 PM         9,752,618 ScreenClamp_F3-02_003 (x6).gcode
+2020-09-19  11:02 PM           896,258 ScreenClamp_F3-02_003.f3d
+2020-10-14  08:37 PM           184,152 ScreenClamp_F3-02_003.step
+2020-09-19  11:02 PM         2,062,384 ScreenClamp_F3-02_003.stl
+2020-09-13  06:00 PM            48,648 ScreenDowel_F3-01_001.f3d
+2020-09-13  06:01 PM           454,084 ScreenDowel_F3-01_001.stl
+2020-09-13  06:11 PM            52,143 ScreenDowel_F3-01_002.f3d
+2020-09-13  06:14 PM           438,084 ScreenDowel_F3-01_002.stl
+2020-09-13  06:49 PM            53,657 ScreenDowel_F3-01_003.f3d
+2020-09-13  06:48 PM           513,084 ScreenDowel_F3-01_003.stl
+2021-02-14  02:20 PM            68,609 SideBrace-F3-01_001.f3d
+2021-02-14  02:20 PM            31,015 SideBrace-F3-01_001.step
+2021-02-14  02:20 PM            20,084 SideBrace-F3-01_001.stl
+2021-02-14  03:06 PM            69,795 SideBrace-F3-01_002.f3d
+2021-02-14  03:06 PM            18,484 SideBrace-F3-01_002.stl
+2021-02-14  04:39 PM           213,291 SideBrace-F3-01_003.f3d
+2021-02-14  04:40 PM           106,986 SideBrace-F3-01_003.step
+2021-02-14  04:40 PM           114,284 SideBrace-F3-01_003.stl
+2021-02-14  08:43 PM           862,916 SideBrace-F3-01_004.f3d
+2021-02-14  08:44 PM           380,365 SideBrace-F3-01_004.step
+2021-02-14  08:44 PM         1,250,784 SideBrace-F3-01_004.stl
+2021-02-14  09:04 PM         1,381,996 SideBrace-F3-01_005.f3d
+2021-02-14  09:04 PM         1,252,184 SideBrace-F3-01_005.stl
+2021-02-15  01:01 AM         1,468,159 SideBrace-F3-01_006.f3d
+2021-02-15  01:04 AM           457,942 SideBrace-F3-01_006.step
+2021-02-15  01:01 AM         1,416,484 SideBrace-F3-01_006.stl
+2021-02-15  01:33 AM           203,839 SideBraceRiser-F3-01_001.f3d
+2021-02-15  01:33 AM           138,855 SideBraceRiser-F3-01_001.step
+2021-02-15  01:33 AM           126,284 SideBraceRiser-F3-01_001.stl
+2021-02-15  01:37 PM           294,243 SideBraceRiser-F3-01_002.f3d
+2021-02-15  01:38 PM           172,629 SideBraceRiser-F3-01_002.step
+2021-02-15  01:38 PM           354,484 SideBraceRiser-F3-01_002.stl
+2021-02-15  01:48 PM           490,106 SideBraceRiser-F3-01_003.f3d
+2021-02-15  01:49 PM           336,738 SideBraceRiser-F3-01_003.step
+2021-02-15  01:49 PM           689,684 SideBraceRiser-F3-01_003.stl
+2021-02-15  05:17 PM           137,148 SideBraceRiserPlug-F3-01_001.f3d
+2021-02-15  05:17 PM           125,507 SideBraceRiserPlug-F3-01_001.step
+2021-02-15  05:17 PM           631,484 SideBraceRiserPlug-F3-01_001.stl
+2021-02-15  07:33 PM           139,052 SideBraceRiserPlug-F3-01_002.f3d
+2021-02-15  07:33 PM           125,896 SideBraceRiserPlug-F3-01_002.step
+2021-02-15  07:33 PM           638,484 SideBraceRiserPlug-F3-01_002.stl
+2021-02-15  10:52 PM           260,211 SideBraceRiserPlug-F3-01_003.f3d
+2021-02-15  10:53 PM           195,119 SideBraceRiserPlug-F3-01_003.step
+2021-02-15  10:52 PM           418,684 SideBraceRiserPlug-F3-01_003.stl
+2021-02-16  01:11 AM           286,875 SideBraceRiserPlug-F3-01_004.f3d
+2021-02-16  01:11 AM           196,420 SideBraceRiserPlug-F3-01_004.step
+2021-02-16  01:11 AM           636,884 SideBraceRiserPlug-F3-01_004.stl
+2020-10-03  03:37 AM           284,909 SideFrameBracket_F3-01_001.f3d
+2020-10-03  03:37 AM         1,329,884 SideFrameBracket_F3-01_001.stl
+2020-10-03  04:01 AM           379,598 SideFrameBracket_F3-01_002.f3d
+2020-10-03  04:01 AM           727,384 SideFrameBracket_F3-01_002.stl
+2020-10-03  11:44 AM           716,453 SideFrameBracket_F3-01_003.f3d
+2020-10-03  11:45 AM           765,784 SideFrameBracket_F3-01_003.stl
+2020-10-03  04:08 PM           896,796 SideFrameBracket_F3-01_004.f3d
+2020-10-03  04:08 PM         1,034,784 SideFrameBracket_F3-01_004.stl
+2020-10-03  05:04 PM         2,732,614 SideFrameBracket_F3-01_005.f3d
+2020-10-03  05:05 PM         1,373,784 SideFrameBracket_F3-01_005.stl
+2020-10-03  05:59 PM         3,371,662 SideFrameBracket_F3-01_006.f3d
+2020-10-03  05:59 PM         1,916,484 SideFrameBracket_F3-01_006.stl
+2020-10-03  06:48 PM         3,686,857 SideFrameBracket_F3-01_007.f3d
+2020-10-03  06:48 PM         2,073,384 SideFrameBracket_F3-01_007.stl
+2020-10-04  12:10 AM         3,735,949 SideFrameBracket_F3-01_008.f3d
+2020-10-04  12:10 AM         2,050,384 SideFrameBracket_F3-01_008.stl
+2020-10-04  04:46 AM         4,078,187 SideFrameBracket_F3-01_009.f3d
+2020-10-04  04:47 AM         2,436,784 SideFrameBracket_F3-01_009.stl
+2020-10-04  05:03 AM         4,337,767 SideFrameBracket_F3-01_010.f3d
+2020-10-04  05:03 AM         2,481,184 SideFrameBracket_F3-01_010.stl
+2020-10-04  06:46 AM         6,562,553 SideFrameBracket_F3-01_011.f3d
+2020-10-04  06:46 AM         4,755,084 SideFrameBracket_F3-01_011.stl
+2020-10-04  04:46 PM         7,918,237 SideFrameBracket_F3-01_012.f3d
+2020-10-04  04:46 PM         4,691,284 SideFrameBracket_F3-01_012.stl
+2020-10-04  05:04 PM         9,679,908 SideFrameBracket_F3-01_013.f3d
+2020-10-04  05:05 PM         4,922,484 SideFrameBracket_F3-01_013.stl
+2021-03-07  03:51 AM         1,186,911 SideGangMount-F3-01_001.f3d
+2021-03-07  04:20 AM           245,657 SideGangMount-F3-01_002.f3d
+2021-03-07  04:20 AM            93,204 SideGangMount-F3-01_002.step
+2021-03-07  04:25 AM           279,417 SideGangMount-F3-01_003.f3d
+2021-03-07  04:25 AM           137,391 SideGangMount-F3-01_003.step
+2021-03-07  04:25 AM           379,284 SideGangMount-F3-01_003.stl
+2021-03-07  11:32 AM           433,727 SideGangMount-F3-01_004.f3d
+2021-03-07  11:33 AM           205,816 SideGangMount-F3-01_004.step
+2021-03-07  11:33 AM           427,984 SideGangMount-F3-01_004.stl
+2021-03-07  03:01 PM           474,670 SideGangMount-F3-01_005.f3d
+2021-03-07  03:01 PM           221,985 SideGangMount-F3-01_005.step
+2021-03-07  03:01 PM           447,984 SideGangMount-F3-01_005.stl
+2021-03-07  05:26 PM           573,238 SideGangMount-F3-01_006.f3d
+2021-03-07  05:27 PM           291,973 SideGangMount-F3-01_006.step
+2021-03-07  05:27 PM           795,784 SideGangMount-F3-01_006.stl
+2021-03-07  07:45 PM           607,177 SideGangMount-F3-01_007.f3d
+2021-03-07  07:46 PM           301,834 SideGangMount-F3-01_007.step
+2021-03-07  07:46 PM           777,984 SideGangMount-F3-01_007.stl
+2021-03-07  10:24 PM           611,061 SideGangMount-F3-01_008.f3d
+2021-03-07  10:25 PM           310,309 SideGangMount-F3-01_008.step
+2021-03-07  10:24 PM           822,484 SideGangMount-F3-01_008.stl
+2021-03-09  12:51 AM           618,231 SideGangMount-F3-01_009.f3d
+2021-03-09  12:52 AM           305,222 SideGangMount-F3-01_009.step
+2021-03-09  12:52 AM           856,184 SideGangMount-F3-01_009.stl
+2021-03-09  12:54 AM           658,021 SideGangMount-F3-01_010.f3d
+2021-03-09  12:55 AM           345,364 SideGangMount-F3-01_010.step
+2021-03-09  12:55 AM           896,584 SideGangMount-F3-01_010.stl
+2020-10-25  09:00 PM            82,586 TopMaskBracket_F3-01_001.f3d
+2020-10-25  09:00 PM            51,142 TopMaskBracket_F3-01_001.step
+2020-10-25  09:00 PM            62,884 TopMaskBracket_F3-01_001.stl
+2020-10-25  10:49 PM           127,355 TopMaskBracket_F3-01_002.f3d
+2020-10-25  10:50 PM            64,605 TopMaskBracket_F3-01_002.step
+2020-10-25  10:50 PM            76,684 TopMaskBracket_F3-01_002.stl
+2020-10-26  02:32 AM           393,226 TopMaskBracket_F3-01_003.f3d
+2020-10-26  02:33 AM           287,212 TopMaskBracket_F3-01_003.step
+2020-10-26  02:32 AM         1,748,684 TopMaskBracket_F3-01_003.stl
+2020-10-26  02:43 AM           483,070 TopMaskBracket_F3-01_004.f3d
+2020-10-26  02:43 AM           623,524 TopMaskBracket_F3-01_004.step
+2020-10-26  02:43 AM         2,907,984 TopMaskBracket_F3-01_004.stl
+2020-10-26  08:08 AM           574,371 TopMaskBracket_F3-01_005.f3d
+2020-10-26  08:08 AM           424,723 TopMaskBracket_F3-01_005.step
+2020-10-26  08:08 AM         1,788,984 TopMaskBracket_F3-01_005.stl
+2020-10-26  10:10 PM           616,795 TopMaskBracket_F3-01_006.f3d
+2020-10-26  10:10 PM           293,757 TopMaskBracket_F3-01_006.step
+2020-10-26  10:10 PM           671,784 TopMaskBracket_F3-01_006.stl
+2020-10-27  02:38 AM         1,406,927 TopMaskBracket_F3-01_007.f3d
+2020-10-27  02:38 AM           284,239 TopMaskBracket_F3-01_007.step
+2020-10-27  02:38 AM           534,184 TopMaskBracket_F3-01_007.stl
+2020-10-27  09:39 AM         1,785,207 TopMaskBracket_F3-01_008.f3d
+2020-10-27  09:40 AM           339,242 TopMaskBracket_F3-01_008.step
+2020-10-27  09:39 AM           639,384 TopMaskBracket_F3-01_008.stl
+2020-10-27  02:37 PM         2,082,257 TopMaskBracket_F3-01_009.f3d
+2020-10-27  02:38 PM           551,847 TopMaskBracket_F3-01_009.step
+2020-10-27  02:37 PM         2,285,084 TopMaskBracket_F3-01_009.stl
+2020-10-27  07:00 PM         4,220,479 TopMaskBracket_F3-01_010.f3d
+2020-10-27  07:01 PM         1,339,123 TopMaskBracket_F3-01_010.step
+2020-10-27  07:01 PM         4,711,284 TopMaskBracket_F3-01_010.stl
+2020-10-27  07:23 PM         4,605,950 TopMaskBracket_F3-01_011.f3d
+2020-10-27  07:23 PM         1,803,905 TopMaskBracket_F3-01_011.step
+2020-10-27  07:23 PM         5,006,184 TopMaskBracket_F3-01_011.stl
+2020-10-27  11:26 PM         5,816,514 TopMaskBracket_F3-01_012.f3d
+2020-10-27  11:27 PM         1,480,538 TopMaskBracket_F3-01_012.step
+2020-10-27  11:26 PM         4,936,784 TopMaskBracket_F3-01_012.stl
+2021-02-01  10:24 PM         6,375,903 TopMaskBracket_F3-01_013 (1^ tilt in).f3d
+2021-02-01  10:24 PM         1,532,020 TopMaskBracket_F3-01_013 (1^ tilt in).step
+2021-02-01  10:24 PM         4,909,984 TopMaskBracket_F3-01_013 (1^ tilt in).stl
+2021-02-02  01:40 AM         6,468,469 TopMaskBracket_F3-01_014 (1^ tilt in).f3d
+2021-02-02  01:40 AM         1,510,566 TopMaskBracket_F3-01_014 (1^ tilt in).step
+2021-02-02  01:40 AM         4,877,084 TopMaskBracket_F3-01_014 (1^ tilt in).stl
+2021-02-10  12:11 AM         7,296,453 TopMaskBracket_F3-01_015 (1^ tilt, 2mm pull).f3d
+2021-02-10  12:11 AM         1,515,221 TopMaskBracket_F3-01_015 (1^ tilt, 2mm pull).step
+2021-02-10  12:11 AM         4,838,884 TopMaskBracket_F3-01_015 (1^ tilt, 2mm pull).stl
+             342 File(s)    487,005,783 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20201011 - RPi SPi Touchscreen back mount
+
+2020-10-14  07:49 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-10-11  02:03 AM           285,542 SPiBackMount_F3-01_001.f3d
+2020-10-11  02:03 AM           743,684 SPiBackMount_F3-01_001.stl
+2020-10-11  01:10 PM           548,416 SPiBackMount_F3-01_002.f3d
+2020-10-11  01:10 PM         1,203,584 SPiBackMount_F3-01_002.stl
+2020-10-11  03:37 PM           885,902 SPiBackMount_F3-01_003.f3d
+2020-10-11  03:37 PM         1,962,884 SPiBackMount_F3-01_003.stl
+2020-10-11  08:59 PM         1,839,794 SPiBackMount_F3-01_004.f3d
+2020-10-14  07:49 PM         1,114,837 SPiBackMount_F3-01_004.step
+2020-10-11  08:59 PM         3,038,984 SPiBackMount_F3-01_004.stl
+               9 File(s)     11,623,627 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20201031 - Monitor Mount Accessories
+
+2020-10-31  07:35 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2020-10-31  04:21 PM            51,495 ScrewCollar_F3-01_001.f3d
+2020-10-31  04:21 PM            13,241 ScrewCollar_F3-01_001.step
+2020-10-31  04:22 PM           457,784 ScrewCollar_F3-01_001.stl
+2020-10-31  05:17 PM            50,418 ScrewCollar_F3-01_002.f3d
+2020-10-31  05:17 PM            12,850 ScrewCollar_F3-01_002.step
+2020-10-31  05:17 PM           430,384 ScrewCollar_F3-01_002.stl
+2020-10-31  05:43 PM            52,580 ScrewCollar_F3-01_003.f3d
+2020-10-31  05:44 PM            14,545 ScrewCollar_F3-01_003.step
+2020-10-31  05:43 PM           387,484 ScrewCollar_F3-01_003.stl
+2020-10-31  06:57 PM            52,851 ScrewCollar_F3-01_004.f3d
+2020-10-31  06:58 PM            14,574 ScrewCollar_F3-01_004.step
+2020-10-31  06:57 PM           389,184 ScrewCollar_F3-01_004.stl
+              12 File(s)      1,927,390 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20210116 - Security Camera Mount
+
+2021-01-17  10:31 PM           218,806 (Unsaved).step
+2022-09-23  11:49 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-09-16  07:13 PM            77,545 CamMount-FlangeArm_F3-01_001.3mf
+2022-09-16  07:13 PM           104,291 CamMount-FlangeArm_F3-01_001.f3d
+2022-09-16  07:13 PM            42,186 CamMount-FlangeArm_F3-01_001.step
+2022-09-17  01:18 AM           316,907 CamMount-FlangeArm_F3-01_002.3mf
+2022-09-17  01:18 AM           646,189 CamMount-FlangeArm_F3-01_002.f3d
+2022-09-17  01:18 AM           312,712 CamMount-FlangeArm_F3-01_002.step
+2022-09-17  01:30 AM           317,972 CamMount-FlangeArm_F3-01_003.3mf
+2022-09-17  01:30 AM           694,926 CamMount-FlangeArm_F3-01_003.f3d
+2022-09-17  01:30 AM           332,778 CamMount-FlangeArm_F3-01_003.step
+2022-09-17  02:06 PM           281,798 CamMount-FlangeArm_F3-01_004.3mf
+2022-09-17  02:06 PM           832,999 CamMount-FlangeArm_F3-01_004.f3d
+2022-09-17  02:06 PM           400,277 CamMount-FlangeArm_F3-01_004.step
+2022-09-17  02:15 PM           427,902 CamMount-FlangeArm_F3-01_005.3mf
+2022-09-17  02:15 PM         1,234,176 CamMount-FlangeArm_F3-01_005.f3d
+2022-09-17  02:15 PM           775,803 CamMount-FlangeArm_F3-01_005.step
+2022-09-14  10:50 PM           414,207 CamMount-Flange_F3-01_001.3mf
+2022-09-14  10:50 PM           450,955 CamMount-Flange_F3-01_001.f3d
+2022-09-14  10:50 PM           491,828 CamMount-Flange_F3-01_001.step
+2022-09-15  01:21 AM           427,248 CamMount-Flange_F3-01_002.3mf
+2022-09-15  01:21 AM           498,936 CamMount-Flange_F3-01_002.f3d
+2022-09-15  01:21 AM           514,831 CamMount-Flange_F3-01_002.step
+2022-09-15  01:27 AM           463,361 CamMount-Flange_F3-01_003.3mf
+2022-09-15  01:27 AM           714,415 CamMount-Flange_F3-01_003.f3d
+2022-09-15  01:28 AM           609,987 CamMount-Flange_F3-01_003.step
+2022-09-15  01:35 AM           402,744 CamMount-Flange_F3-01_004.3mf
+2022-09-15  01:35 AM           591,361 CamMount-Flange_F3-01_004.f3d
+2022-09-15  01:35 AM           535,368 CamMount-Flange_F3-01_004.step
+2022-09-15  09:55 PM           417,349 CamMount-Flange_F3-01_005.3mf
+2022-09-15  09:55 PM           688,298 CamMount-Flange_F3-01_005.f3d
+2022-09-15  09:55 PM           606,778 CamMount-Flange_F3-01_005.step
+2022-09-15  10:01 PM           461,985 CamMount-Flange_F3-01_006.3mf
+2022-09-15  10:00 PM           627,552 CamMount-Flange_F3-01_006.f3d
+2022-09-15  10:00 PM           592,467 CamMount-Flange_F3-01_006.step
+2022-09-15  10:07 PM           511,713 CamMount-Flange_F3-01_007.3mf
+2022-09-15  10:07 PM           721,666 CamMount-Flange_F3-01_007.f3d
+2022-09-15  10:07 PM           714,583 CamMount-Flange_F3-01_007.step
+2022-09-18  12:55 AM            51,699 CamMount-PipeHook_F3-01_001.3mf
+2022-09-18  12:55 AM            85,418 CamMount-PipeHook_F3-01_001.f3d
+2022-09-18  12:55 AM            18,855 CamMount-PipeHook_F3-01_001.step
+2022-09-18  01:13 AM           133,360 CamMount-PipeHook_F3-01_002.3mf
+2022-09-18  01:13 AM           250,747 CamMount-PipeHook_F3-01_002.f3d
+2022-09-18  01:13 AM           156,663 CamMount-PipeHook_F3-01_002.step
+2022-09-18  03:08 AM           285,359 CamMount-PipeHook_F3-01_003.3mf
+2022-09-18  03:08 AM           903,241 CamMount-PipeHook_F3-01_003.f3d
+2022-09-18  03:08 AM           527,141 CamMount-PipeHook_F3-01_003.step
+2022-09-18  04:56 AM           279,029 CamMount-PipeHook_F3-01_004.3mf
+2022-09-18  04:56 AM           905,316 CamMount-PipeHook_F3-01_004.f3d
+2022-09-18  04:56 AM           526,407 CamMount-PipeHook_F3-01_004.step
+2022-09-18  05:04 AM           278,353 CamMount-PipeHook_F3-01_005.3mf
+2022-09-18  05:04 AM           917,132 CamMount-PipeHook_F3-01_005.f3d
+2022-09-18  05:04 AM           528,348 CamMount-PipeHook_F3-01_005.step
+2022-09-18  01:51 PM           264,723 CamMount-PipeHook_F3-01_006.3mf
+2022-09-18  01:51 PM           759,426 CamMount-PipeHook_F3-01_006.f3d
+2022-09-18  01:51 PM           521,958 CamMount-PipeHook_F3-01_006.step
+2022-09-18  01:57 PM           286,224 CamMount-PipeHook_F3-01_007.3mf
+2022-09-18  01:57 PM           907,148 CamMount-PipeHook_F3-01_007.f3d
+2022-09-18  01:58 PM           588,739 CamMount-PipeHook_F3-01_007.step
+2022-09-22  12:00 AM           288,265 CamMount-PipeHook_F3-01_008.3mf
+2022-09-22  12:00 AM           985,646 CamMount-PipeHook_F3-01_008.f3d
+2022-09-22  12:00 AM           550,321 CamMount-PipeHook_F3-01_008.step
+2021-01-17  12:21 AM           110,497 CamMount_F3-01_001.f3d
+2021-01-17  12:22 AM            53,212 CamMount_F3-01_001.step
+2021-01-17  12:21 AM           556,684 CamMount_F3-01_001.stl
+2021-01-17  03:24 PM           179,389 CamMount_F3-01_002.f3d
+2021-01-17  03:25 PM           114,527 CamMount_F3-01_002.step
+2021-01-17  03:25 PM         1,443,484 CamMount_F3-01_002.stl
+2021-01-17  07:55 PM           212,821 CamMount_F3-01_003.f3d
+2021-01-17  07:56 PM           129,521 CamMount_F3-01_003.step
+2021-01-17  07:55 PM         1,121,084 CamMount_F3-01_003.stl
+2021-01-17  08:15 PM           309,608 CamMount_F3-01_004.f3d
+2021-01-17  08:16 PM           373,284 CamMount_F3-01_004__test_screw_cavity.stl
+2021-01-17  08:17 PM           362,184 CamMount_F3-01_004__test_screw_cavity_2.stl
+2021-01-17  09:08 PM           380,473 CamMount_F3-01_005.f3d
+2021-01-17  09:08 PM           176,736 CamMount_F3-01_005.step
+2021-01-17  09:08 PM         1,359,084 CamMount_F3-01_005.stl
+2021-01-17  09:09 PM           237,084 CamMount_F3-01_005__test_01.stl
+2021-01-17  09:27 PM           398,263 CamMount_F3-01_006.f3d
+2021-01-17  09:27 PM           169,084 CamMount_F3-01_006__test_01.stl
+2021-01-17  09:54 PM           438,681 CamMount_F3-01_007.f3d
+2021-01-17  09:54 PM         1,307,084 CamMount_F3-01_007.stl
+2021-01-17  09:55 PM           185,084 CamMount_F3-01_007__test_01.stl
+2021-01-17  10:31 PM           558,168 CamMount_F3-01_008.f3d
+2021-01-17  10:31 PM         1,514,584 CamMount_F3-01_008.stl
+2021-01-17  10:41 PM           570,673 CamMount_F3-01_009.f3d
+2021-01-18  03:55 AM           313,948 CamMount_F3-01_009.step
+2021-01-17  10:41 PM         2,102,884 CamMount_F3-01_009.stl
+2021-01-18  03:55 AM           686,146 CamMount_F3-01_010.f3d
+2021-01-18  04:08 AM           678,243 CamMount_F3-01_011.f3d
+2021-01-18  04:09 AM           495,616 CamMount_F3-01_011.stl
+2021-01-18  04:31 AM           697,339 CamMount_F3-01_012.f3d
+2021-01-18  04:29 AM         2,901,584 CamMount_F3-01_012.stl
+2021-01-18  04:34 AM           677,660 CamMount_F3-01_013.f3d
+2021-01-18  04:38 AM           305,050 CamMount_F3-01_013.step
+2021-01-18  04:34 AM         2,953,984 CamMount_F3-01_013.stl
+2021-01-18  02:27 PM           746,191 CamMount_F3-01_014.f3d
+2021-01-18  02:28 PM           332,709 CamMount_F3-01_014.step
+2021-01-18  02:28 PM         2,959,684 CamMount_F3-01_014.stl
+2021-01-18  07:55 PM         1,009,949 CamMount_F3-01_015.f3d
+2021-01-18  07:55 PM           618,174 CamMount_F3-01_015.step
+2021-01-18  07:55 PM         3,826,484 CamMount_F3-01_015.stl
+2021-01-23  12:26 AM         1,172,106 CamMount_F3-01_016.f3d
+2021-01-23  12:28 AM           735,654 CamMount_F3-01_016.step
+2021-01-23  12:28 AM         5,436,084 CamMount_F3-01_016.stl
+2021-01-23  02:49 AM         1,985,731 CamMount_F3-01_017.f3d
+2021-01-23  02:50 AM           986,084 CamMount_F3-01_017__test_extension.stl
+2021-01-23  01:23 PM         1,645,226 CamMount_F3-01_018.f3d
+2021-01-23  01:23 PM         6,170,284 CamMount_F3-01_018.stl
+2021-01-23  01:26 PM         4,977,584 CamMount_F3-01_018__test_plate_01.stl
+2021-01-23  01:30 PM         4,712,184 CamMount_F3-01_018__test_plate_02.stl
+2021-01-24  05:31 PM         2,383,661 CamMount_F3-01_019.f3d
+2021-01-24  05:34 PM         1,207,984 CamMount_F3-01_019__test_conn_access_01.stl
+2021-01-24  11:29 PM         2,899,321 CamMount_F3-01_020.f3d
+2021-01-24  11:29 PM         1,341,184 CamMount_F3-01_020__test_access_panel_01.stl
+2021-01-24  11:40 PM         2,979,613 CamMount_F3-01_021.f3d
+2021-01-24  11:40 PM           480,188 CamMount_F3-01_021.step
+2021-01-25  01:44 AM         1,525,984 CamMount_F3-01_021.stl
+2021-01-25  01:43 AM         3,196,066 CamMount_F3-01_022.f3d
+2021-01-25  01:45 AM         1,525,984 CamMount_F3-01_022.stl
+2021-01-25  01:52 AM         3,166,884 CamMount_F3-01_023.f3d
+2021-01-25  01:54 AM         1,526,184 CamMount_F3-01_023.stl
+2021-01-25  03:30 AM         3,350,678 CamMount_F3-01_024.f3d
+2021-01-25  03:30 AM         1,519,084 CamMount_F3-01_024.stl
+2021-01-25  03:32 AM         3,384,698 CamMount_F3-01_025.f3d
+2021-01-25  03:33 AM         1,840,884 CamMount_F3-01_025.stl
+2021-01-28  03:53 PM         3,549,676 CamMount_F3-01_026.f3d
+2021-01-28  03:53 PM           706,818 CamMount_F3-01_026.step
+2021-01-28  03:54 PM         3,774,084 CamMount_F3-01_026.stl
+2021-01-28  03:56 PM         3,680,734 CamMount_F3-01_027.f3d
+2021-01-28  03:56 PM         3,777,284 CamMount_F3-01_027.stl
+2021-01-30  03:09 PM         3,884,121 CamMount_F3-01_028.f3d
+2021-01-30  03:09 PM         1,103,884 CamMount_F3-01_028.stl
+2021-01-31  12:32 AM         3,967,992 CamMount_F3-01_029.f3d
+2021-01-31  12:32 AM           470,509 CamMount_F3-01_029.step
+2021-01-31  12:32 AM         1,375,284 CamMount_F3-01_029.stl
+2021-01-31  03:11 PM         3,925,567 CamMount_F3-01_030 - Access Panel.f3d
+2021-01-31  03:14 PM           612,809 CamMount_F3-01_030 - Access Panel.step
+2021-01-31  03:11 PM         2,593,884 CamMount_F3-01_030 - Access Panel.stl
+2021-06-27  05:04 PM         4,541,817 CamMount_F3-01_030 - Camera Plate, Vertical.f3d
+2021-06-27  05:04 PM           957,384 CamMount_F3-01_030 - Camera Plate, Vertical.stl
+2022-01-29  01:54 AM           326,404 CamMount_F3-01_031 - Soffit Camera Plate.3mf
+2022-01-28  10:58 PM         5,755,782 CamMount_F3-01_031 - Soffit Camera Plate.f3d
+2022-01-28  10:59 PM           311,030 CamMount_F3-01_031 - Soffit Camera Plate.png
+2022-01-28  10:58 PM           745,715 CamMount_F3-01_031 - Soffit Camera Plate.step
+2022-01-29  03:08 AM           331,532 CamMount_F3-01_032 - Soffit Camera Plate.3mf
+2022-01-29  03:08 AM         5,937,836 CamMount_F3-01_032 - Soffit Camera Plate.f3d
+2022-01-29  03:08 AM           742,518 CamMount_F3-01_032 - Soffit Camera Plate.step
+2022-01-29  01:31 PM            17,196 CamMount_F3-01_033 - Plate Lock only.3mf
+2022-01-29  01:31 PM         5,987,611 CamMount_F3-01_033 - Plate Lock only.f3d
+2022-01-29  01:31 PM            45,055 CamMount_F3-01_033 - Plate Lock only.step
+2022-01-29  02:43 PM            74,277 CamMount_F3-01_034 - Plate Lock only.3mf
+2022-01-29  02:43 PM         6,102,227 CamMount_F3-01_034 - Plate Lock only.f3d
+2022-01-29  02:43 PM           177,982 CamMount_F3-01_034 - Plate Lock only.step
+2022-01-29  03:32 PM            61,733 CamMount_F3-01_035 - Plate Lock only.3mf
+2022-01-29  03:32 PM         6,089,946 CamMount_F3-01_035 - Plate Lock only.f3d
+2022-01-29  03:32 PM           152,991 CamMount_F3-01_035 - Plate Lock only.step
+2022-01-29  03:55 PM            49,198 CamMount_F3-01_036 - Plate Lock only.3mf
+2022-01-29  03:55 PM         6,082,392 CamMount_F3-01_036 - Plate Lock only.f3d
+2022-01-29  03:55 PM           125,407 CamMount_F3-01_036 - Plate Lock only.step
+2022-01-29  04:11 PM            64,333 CamMount_F3-01_037 - Plate Lock only.3mf
+2022-01-29  04:11 PM         6,099,789 CamMount_F3-01_037 - Plate Lock only.f3d
+2022-01-29  04:11 PM           155,776 CamMount_F3-01_037 - Plate Lock only.step
+2022-01-29  05:46 PM           374,065 CamMount_F3-01_038 - Soffit Camera Plate.3mf
+2022-01-29  05:46 PM         6,186,867 CamMount_F3-01_038 - Soffit Camera Plate.f3d
+2022-01-29  05:46 PM           773,777 CamMount_F3-01_038 - Soffit Camera Plate.step
+2022-01-29  06:00 PM           409,735 CamMount_F3-01_039 - Soffit Camera Plate.3mf
+2022-01-29  06:00 PM         6,258,234 CamMount_F3-01_039 - Soffit Camera Plate.f3d
+2022-01-29  06:00 PM           881,117 CamMount_F3-01_039 - Soffit Camera Plate.step
+2022-01-30  05:10 AM           462,833 CamMount_F3-01_040 - Soffit Camera Plate.3mf
+2022-01-30  05:10 AM         6,458,205 CamMount_F3-01_040 - Soffit Camera Plate.f3d
+2022-01-30  05:10 AM         1,001,239 CamMount_F3-01_040 - Soffit Camera Plate.step
+2022-09-18  09:15 PM           385,769 CamMount_F3-01_041 - Soffit Camera Plate - Tabs removed.3mf
+2022-09-18  09:15 PM         5,762,324 CamMount_F3-01_041 - Soffit Camera Plate - Tabs removed.f3d
+2022-09-18  09:14 PM           496,159 CamMount_F3-01_041 - Soffit Camera Plate - Tabs removed.step
+2022-09-18  09:20 PM           473,954 CamMount_F3-01_042 - Soffit Camera Plate - Tabs removed.3mf
+2022-09-18  09:20 PM         5,977,745 CamMount_F3-01_042 - Soffit Camera Plate - Tabs removed.f3d
+2022-09-18  09:21 PM           563,515 CamMount_F3-01_042 - Soffit Camera Plate - Tabs removed.step
+2022-09-20  08:00 AM           408,345 CamMount_F3-01_043 - Soffit Camera Plate - Tabs removed.3mf
+2022-09-20  08:00 AM         6,023,143 CamMount_F3-01_043 - Soffit Camera Plate - Tabs removed.f3d
+2022-09-20  07:59 AM           618,293 CamMount_F3-01_043 - Soffit Camera Plate - Tabs removed.step
+2022-09-20  07:53 PM           508,417 CamMount_F3-01_044 - Soffit Camera Plate.3mf
+2022-09-20  07:53 PM         6,042,084 CamMount_F3-01_044 - Soffit Camera Plate.f3d
+2022-09-20  07:54 PM           634,318 CamMount_F3-01_044 - Soffit Camera Plate.step
+2021-01-31  02:51 PM               194 index.txt
+             184 File(s)    258,249,598 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20210222 - Camera Tripod Mount
+
+2021-02-23  11:49 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2021-02-22  07:57 PM            46,149 Tripod_Mount-F3-01_001.f3d
+2021-02-22  07:58 PM             1,484 Tripod_Mount-F3-01_001.stl
+2021-02-22  08:01 PM            52,834 Tripod_Mount-F3-01_002.f3d
+2021-02-22  08:01 PM             2,084 Tripod_Mount-F3-01_002.stl
+2021-02-22  08:47 PM            52,651 Tripod_Mount-F3-01_003.f3d
+2021-02-22  08:47 PM             2,084 Tripod_Mount-F3-01_003.stl
+2021-02-22  10:16 PM            61,533 Tripod_Mount-F3-01_004.f3d
+2021-02-22  10:16 PM            43,284 Tripod_Mount-F3-01_004.stl
+2021-02-22  11:00 PM            74,857 Tripod_Mount-F3-01_005.f3d
+2021-02-22  11:00 PM            60,784 Tripod_Mount-F3-01_005.stl
+2021-02-22  11:49 PM           100,574 Tripod_Mount-F3-01_006.f3d
+2021-02-22  11:50 PM            55,084 Tripod_Mount-F3-01_006.stl
+2021-02-23  01:03 AM           105,169 Tripod_Mount-F3-01_007.f3d
+2021-02-23  01:04 AM            45,789 Tripod_Mount-F3-01_007.step
+2021-02-23  01:03 AM            82,284 Tripod_Mount-F3-01_007.stl
+2021-02-23  11:49 PM           144,642 Tripod_Mount-F3-01_008.f3d
+2021-02-23  11:49 PM            82,984 Tripod_Mount-F3-01_008.stl
+              17 File(s)      1,014,270 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20210425 - Garage Door Insulation Panel
+
+2021-05-15  12:59 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2021-04-25  11:23 AM             1,684 GDoorSpineBrace_F3-01_001_01.stl
+2021-04-25  11:27 AM             1,684 GDoorSpineBrace_F3-01_001_02.stl
+2021-04-25  11:28 AM             1,684 GDoorSpineBrace_F3-01_001_03.stl
+2021-04-25  11:29 AM             1,684 GDoorSpineBrace_F3-01_001_04.stl
+2021-04-25  11:30 AM             1,684 GDoorSpineBrace_F3-01_001_05.stl
+2021-04-25  12:25 PM             7,884 GDoorSpineBrace_F3-01_001_06.stl
+2021-04-25  02:12 PM            13,284 GDoorSpineBrace_F3-01_002_01.stl
+2021-04-25  05:16 PM           272,451 GDoorSpineBrace_F3-01_002_02.f3d
+2021-04-25  05:16 PM            39,084 GDoorSpineBrace_F3-01_002_02.stl
+2021-04-25  05:22 PM            40,084 GDoorSpineBrace_F3-01_002_03.stl
+2021-04-25  09:07 PM           440,966 GDoorSpineBrace_F3-01_003_01.f3d
+2021-04-25  09:07 PM            60,684 GDoorSpineBrace_F3-01_003_01.stl
+2021-04-26  08:03 AM           459,845 GDoorSpineBrace_F3-01_003_02.f3d
+2021-04-26  08:03 AM            58,884 GDoorSpineBrace_F3-01_003_02.stl
+2021-04-26  05:28 PM           529,483 GDoorSpineBrace_F3-01_004_01.f3d
+2021-04-26  05:41 PM            65,684 GDoorSpineBrace_F3-01_004_02.stl
+2021-04-26  07:40 PM            70,684 GDoorSpineBrace_F3-01_004_03.stl
+2021-04-26  09:51 PM           776,998 GDoorSpineBrace_F3-01_005.f3d
+2021-04-26  09:51 PM           133,684 GDoorSpineBrace_F3-01_005.stl
+2021-04-27  06:46 AM           826,766 GDoorSpineBrace_F3-01_006.f3d
+2021-04-27  06:46 AM           168,884 GDoorSpineBrace_F3-01_006.stl
+2021-04-27  10:21 PM         1,086,366 GDoorSpineBrace_F3-01_007.f3d
+2021-04-27  10:21 PM           177,084 GDoorSpineBrace_F3-01_007.stl
+2021-04-29  12:04 AM         1,584,562 GDoorSpineBrace_F3-01_008.f3d
+2021-04-29  12:04 AM           330,284 GDoorSpineBrace_F3-01_008.stl
+2021-04-29  10:06 AM         1,743,209 GDoorSpineBrace_F3-01_009.f3d
+2021-04-29  10:06 AM           378,984 GDoorSpineBrace_F3-01_009.stl
+2021-04-29  03:35 PM         2,087,233 GDoorSpineBrace_F3-01_010.f3d
+2021-04-29  03:35 PM           571,684 GDoorSpineBrace_F3-01_010.stl
+2021-04-30  01:37 AM         3,381,891 GDoorSpineBrace_F3-01_011.f3d
+2021-04-30  01:37 AM           732,784 GDoorSpineBrace_F3-01_011.stl
+2021-05-02  01:32 PM           104,703 LockPin_F3-01_001.f3d
+2021-05-02  01:33 PM            18,684 LockPin_F3-01_001.stl
+2021-05-02  01:39 PM           156,973 LockPin_F3-01_002.f3d
+2021-05-02  01:39 PM            58,984 LockPin_F3-01_002.stl
+2021-05-02  02:12 PM           202,884 LockPin_F3-01_003.f3d
+2021-05-02  02:12 PM            60,184 LockPin_F3-01_003.stl
+2021-05-02  02:51 PM           269,557 LockPin_F3-01_004.f3d
+2021-05-02  02:51 PM           109,184 LockPin_F3-01_004.stl
+2021-05-02  03:22 PM           277,569 LockPin_F3-01_005.f3d
+2021-05-02  03:23 PM           111,184 LockPin_F3-01_005.stl
+2021-05-02  04:04 PM           235,380 LockPin_F3-01_006.f3d
+2021-05-02  04:04 PM            68,784 LockPin_F3-01_006.stl
+2021-05-02  04:07 PM           271,096 LockPin_F3-01_007.f3d
+2021-05-02  04:07 PM            82,984 LockPin_F3-01_007.stl
+2021-05-02  04:11 PM           325,307 LockPin_F3-01_008.f3d
+2021-05-02  04:11 PM           210,084 LockPin_F3-01_008.stl
+2021-05-02  04:44 PM           498,641 LockPin_F3-01_009.f3d
+2021-05-02  04:44 PM           249,784 LockPin_F3-01_009.stl
+2021-05-02  05:14 PM           511,597 LockPin_F3-01_010.f3d
+2021-05-02  05:14 PM           255,184 LockPin_F3-01_010.stl
+2021-05-02  05:55 PM           436,295 LockPin_F3-01_011.f3d
+2021-05-02  05:55 PM           178,884 LockPin_F3-01_011.stl
+2021-05-02  06:41 PM           376,017 LockPin_F3-01_012.f3d
+2021-05-02  06:41 PM            75,984 LockPin_F3-01_012.stl
+2021-05-02  07:13 PM           340,035 LockPin_F3-01_013.f3d
+2021-05-02  07:14 PM            63,084 LockPin_F3-01_013.stl
+2021-05-02  09:59 PM           307,539 LockPin_F3-01_014.f3d
+2021-05-02  09:59 PM            51,484 LockPin_F3-01_014.stl
+2021-05-02  10:45 PM           338,553 LockPin_F3-01_015.f3d
+2021-05-02  10:46 PM            61,484 LockPin_F3-01_015.stl
+2021-05-04  08:34 PM           390,916 LockPin_F3-01_016.f3d
+2021-05-04  08:34 PM           149,084 LockPin_F3-01_016.stl
+2021-05-04  08:40 PM           390,704 LockPin_F3-01_017.f3d
+2021-05-04  08:40 PM           149,384 LockPin_F3-01_017.stl
+              65 File(s)     23,436,044 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20210425 - Sound Dampening Panel
+
+2021-05-15  01:06 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2021-04-29  10:30 AM           355,637 CeilingHook_F3-01_001.f3d
+2021-04-29  10:30 AM         1,078,784 CeilingHook_F3-01_001.stl
+2021-04-29  04:12 PM           372,740 CeilingHook_F3-01_002.f3d
+2021-04-29  04:12 PM         1,329,784 CeilingHook_F3-01_002.stl
+2021-04-29  06:05 PM           373,112 CeilingHook_F3-01_003.f3d
+2021-04-29  06:05 PM         1,326,384 CeilingHook_F3-01_003.stl
+2021-04-29  06:21 PM           377,312 CeilingHook_F3-01_004.f3d
+2021-04-29  06:21 PM         1,429,184 CeilingHook_F3-01_004.stl
+2021-04-26  07:22 PM           529,394 PanelBack_F3-01_001.f3d
+2021-04-26  07:22 PM         1,173,884 PanelBack_F3-01_001_01.stl
+2021-04-26  09:40 PM           569,696 PanelBack_F3-01_002.f3d
+2021-04-26  09:41 PM         1,238,784 PanelBack_F3-01_002.stl
+2021-04-26  11:25 PM           634,723 PanelBack_F3-01_002_02.f3d
+2021-04-26  11:25 PM         1,246,984 PanelBack_F3-01_002_02.stl
+2021-04-24  09:46 PM            63,284 PanelHanger_F3-01_001_01.stl
+2021-04-24  09:51 PM            64,984 PanelHanger_F3-01_001_02.stl
+2021-04-24  09:52 PM            63,884 PanelHanger_F3-01_001_03.stl
+2021-04-24  09:56 PM            63,984 PanelHanger_F3-01_001_04.stl
+2021-04-24  10:07 PM           482,904 PanelHanger_F3-01_001_05.f3d
+2021-04-24  10:08 PM           337,384 PanelHanger_F3-01_001_05.stl
+2021-04-24  10:10 PM           486,990 PanelHanger_F3-01_002_01.f3d
+2021-04-24  10:10 PM           474,884 PanelHanger_F3-01_002_01.stl
+2021-04-25  07:29 PM            60,910 PanelPin_F3-01_001_01.f3d
+2021-04-25  07:31 PM            69,476 PanelPin_F3-01_001_02.f3d
+2021-04-25  07:32 PM           111,984 PanelPin_F3-01_001_02.stl
+2021-04-26  09:25 PM           372,309 PanelPin_F3-01_002.f3d
+2021-04-26  09:25 PM           491,684 PanelPin_F3-01_002_01.stl
+              27 File(s)     15,181,063 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20210515 - Theater Proscenium Bar
+
+2021-09-18  01:56 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2021-06-06  03:38 PM            51,506 BulbShade_F3-01_001.f3d
+2021-06-06  03:38 PM           205,984 BulbShade_F3-01_001.stl
+2021-06-06  03:41 PM            55,772 BulbShade_F3-01_002.f3d
+2021-06-06  03:41 PM           225,784 BulbShade_F3-01_002.stl
+2021-06-06  04:42 PM           106,272 BulbShade_F3-01_003.f3d
+2021-06-06  04:42 PM           167,084 BulbShade_F3-01_003.stl
+2021-06-06  08:27 PM           135,045 BulbShade_F3-01_004.f3d
+2021-06-06  08:27 PM           296,684 BulbShade_F3-01_004.stl
+2021-06-06  10:09 PM           138,610 BulbShade_F3-01_005.f3d
+2021-06-06  10:09 PM           333,384 BulbShade_F3-01_005.stl
+2021-06-06  11:56 PM           330,482 BulbShade_F3-01_006.f3d
+2021-06-06  11:56 PM           456,284 BulbShade_F3-01_006.stl
+2021-06-06  11:59 PM           334,985 BulbShade_F3-01_007.f3d
+2021-06-06  11:59 PM           563,284 BulbShade_F3-01_007.stl
+2021-06-07  12:08 AM           336,456 BulbShade_F3-01_008.f3d
+2021-06-07  12:08 AM           563,484 BulbShade_F3-01_008.stl
+2021-06-07  08:09 AM           308,740 BulbShade_F3-01_009.f3d
+2021-06-07  08:09 AM           605,184 BulbShade_F3-01_009.stl
+2021-06-07  10:09 PM           570,481 BulbShade_F3-01_010.f3d
+2021-06-07  10:09 PM           598,584 BulbShade_F3-01_010.stl
+2021-05-15  01:24 PM            68,591 RGB-Light-Mount_F3-01_001.f3d
+2021-05-15  01:24 PM             2,684 RGB-Light-Mount_F3-01_001.stl
+2021-05-15  03:01 PM           112,088 RGB-Light-Mount_F3-01_002.f3d
+2021-05-15  03:01 PM           150,184 RGB-Light-Mount_F3-01_002.stl
+2021-05-15  05:30 PM           911,854 RGB-Light-Mount_F3-01_003.f3d
+2021-05-15  05:30 PM           983,884 RGB-Light-Mount_F3-01_003.stl
+2021-05-15  05:37 PM           920,457 RGB-Light-Mount_F3-01_004.f3d
+2021-05-15  05:37 PM           993,684 RGB-Light-Mount_F3-01_004.stl
+2021-05-15  05:49 PM           980,134 RGB-Light-Mount_F3-01_005.f3d
+2021-05-15  05:49 PM         1,108,684 RGB-Light-Mount_F3-01_005.stl
+2021-05-16  12:06 AM         1,615,607 RGB-Light-Mount_F3-01_006.f3d
+2021-05-16  12:06 AM         2,245,584 RGB-Light-Mount_F3-01_006.stl
+2021-05-16  12:30 AM         2,120,271 RGB-Light-Mount_F3-01_007.f3d
+2021-05-16  12:30 AM         2,781,184 RGB-Light-Mount_F3-01_007.stl
+2021-05-16  09:32 AM         2,169,615 RGB-Light-Mount_F3-01_008 - Locking Puck 01.f3d
+2021-05-16  09:32 AM         3,137,984 RGB-Light-Mount_F3-01_008 - Locking Puck 01.stl
+2021-05-16  09:33 AM           357,284 RGB-Light-Mount_F3-01_008 - Locking Puck 02.stl
+2021-05-16  11:12 AM         2,354,984 RGB-Light-Mount_F3-01_009 - Locking Puck 01.f3d
+2021-05-16  11:12 AM           452,584 RGB-Light-Mount_F3-01_009 - Locking Puck 01.stl
+2021-05-16  12:39 PM         3,776,661 RGB-Light-Mount_F3-01_010 - Spring Foot 01.f3d
+2021-05-16  12:39 PM           406,484 RGB-Light-Mount_F3-01_010 - Spring Foot 01.stl
+2021-05-16  12:55 PM         3,817,019 RGB-Light-Mount_F3-01_010 - Spring Foot 02.f3d
+2021-05-16  12:55 PM           610,884 RGB-Light-Mount_F3-01_010 - Spring Foot 02.stl
+2021-05-16  04:10 PM         4,339,040 RGB-Light-Mount_F3-01_011 - Sleeve 01.f3d
+2021-05-16  04:10 PM         3,438,584 RGB-Light-Mount_F3-01_011 - Sleeve 01.stl
+2021-05-16  05:15 PM         4,479,495 RGB-Light-Mount_F3-01_012 - Locking Puck 03.f3d
+2021-05-16  05:15 PM           477,484 RGB-Light-Mount_F3-01_012 - Locking Puck 03.stl
+2021-05-16  07:23 PM         4,490,324 RGB-Light-Mount_F3-01_013 - Spring Foot 03.f3d
+2021-05-16  07:23 PM           619,984 RGB-Light-Mount_F3-01_013 - Spring Foot 03.stl
+2021-05-16  10:52 PM         4,517,661 RGB-Light-Mount_F3-01_014 - Sleeve 02.f3d
+2021-05-16  10:52 PM         2,585,784 RGB-Light-Mount_F3-01_014 - Sleeve 02.stl
+2021-05-17  08:33 PM         4,480,646 RGB-Light-Mount_F3-01_015 - Locking Puck 04.f3d
+2021-05-17  08:33 PM           367,184 RGB-Light-Mount_F3-01_015 - Locking Puck 04.stl
+2021-05-17  09:25 PM         4,989,780 RGB-Light-Mount_F3-01_016 - Spring Foot 04.f3d
+2021-05-17  09:25 PM           360,884 RGB-Light-Mount_F3-01_016 - Spring Foot 04.stl
+2021-05-18  09:08 PM         5,434,669 RGB-Light-Mount_F3-01_017 - Spring Foot 05.f3d
+2021-05-18  09:08 PM           475,884 RGB-Light-Mount_F3-01_017 - Spring Foot 05.stl
+2021-05-18  09:15 PM         5,449,987 RGB-Light-Mount_F3-01_018 - Spring Foot 06.f3d
+2021-05-18  09:15 PM           491,884 RGB-Light-Mount_F3-01_018 - Spring Foot 06.stl
+2021-05-23  02:38 PM         5,561,546 RGB-Light-Mount_F3-01_019 - Spring Foot 07.f3d
+2021-05-23  02:39 PM           533,884 RGB-Light-Mount_F3-01_019 - Spring Foot 07.stl
+              61 File(s)     91,557,182 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20210530 - Theater Base Bar
+
+2021-09-18  01:55 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2021-05-30  07:06 PM           146,513 Bar-MaskBracket_F3-01_001.f3d
+2021-05-30  07:06 PM            61,284 Bar-MaskBracket_F3-01_001.stl
+2021-05-30  07:29 PM           265,642 Bar-MaskBracket_F3-01_002.f3d
+2021-05-30  07:30 PM            74,940 Bar-MaskBracket_F3-01_002.step
+2021-05-30  07:30 PM            56,884 Bar-MaskBracket_F3-01_002.stl
+2021-05-30  11:51 PM           305,431 Bar-MaskBracket_F3-01_003.f3d
+2021-05-30  11:51 PM            46,084 Bar-MaskBracket_F3-01_003.stl
+2021-05-31  12:53 AM           303,008 Bar-MaskBracket_F3-01_004.f3d
+2021-05-31  12:53 AM            73,296 Bar-MaskBracket_F3-01_004.step
+2021-05-31  12:53 AM            34,884 Bar-MaskBracket_F3-01_004.stl
+2021-05-31  12:56 AM            58,884 Bar-MaskBracket_F3-01_005.stl
+2021-05-31  04:06 PM           662,517 Bar-MaskBracket_F3-01_006.f3d
+2021-05-31  04:07 PM           176,761 Bar-MaskBracket_F3-01_006.step
+2021-05-31  04:07 PM           183,484 Bar-MaskBracket_F3-01_006.stl
+2021-05-31  06:28 PM           952,466 Bar-MaskBracket_F3-01_007.f3d
+2021-05-31  06:28 PM           561,729 Bar-MaskBracket_F3-01_007.step
+2021-05-31  06:28 PM           768,484 Bar-MaskBracket_F3-01_007.stl
+2021-05-31  09:37 PM         1,124,468 Bar-MaskBracket_F3-01_008.f3d
+2021-05-31  09:37 PM           561,523 Bar-MaskBracket_F3-01_008.step
+2021-05-31  09:37 PM           768,484 Bar-MaskBracket_F3-01_008.stl
+2021-05-29  02:35 PM            54,015 BarMount_F3-01_001.f3d
+2021-05-29  02:35 PM             3,684 BarMount_F3-01_001.stl
+2021-05-29  03:48 PM            60,043 BarMount_F3-01_002.f3d
+2021-05-29  03:48 PM             4,484 BarMount_F3-01_002.stl
+2021-05-29  06:28 PM           939,291 BarMount_F3-01_003.f3d
+2021-05-29  06:28 PM           765,784 BarMount_F3-01_003.stl
+2021-05-29  06:38 PM           993,007 BarMount_F3-01_004.f3d
+2021-05-29  06:38 PM           769,584 BarMount_F3-01_004.stl
+2021-05-29  06:46 PM         1,280,254 BarMount_F3-01_005.f3d
+2021-05-29  06:46 PM         1,019,784 BarMount_F3-01_005.stl
+2021-05-30  02:11 AM         1,499,423 BarMount_F3-01_006.f3d
+2021-05-30  02:11 AM           930,684 BarMount_F3-01_006.stl
+2021-05-30  05:04 AM         1,528,358 BarMount_F3-01_007.f3d
+2021-05-30  05:04 AM         1,000,484 BarMount_F3-01_007.stl
+2021-05-30  05:34 AM         1,586,729 BarMount_F3-01_008.f3d
+2021-05-30  05:35 AM         1,024,584 BarMount_F3-01_008.stl
+2021-05-30  06:01 AM         1,913,028 BarMount_F3-01_009.f3d
+2021-05-30  06:01 AM         1,121,184 BarMount_F3-01_009.stl
+2021-05-30  06:16 AM           684,684 BarMount_F3-01_010.stl
+2021-05-30  06:55 AM         1,659,823 BarMount_F3-01_011.f3d
+2021-05-30  06:52 AM         1,085,484 BarMount_F3-01_011.stl
+2021-05-30  06:22 PM         3,042,784 BarMount_F3-01_012.f3d
+2021-05-30  06:22 PM         1,204,469 BarMount_F3-01_012.step
+2021-05-30  06:22 PM         1,154,584 BarMount_F3-01_012.stl
+2021-05-30  06:37 PM         3,541,611 BarMount_F3-01_013.f3d
+2021-05-30  06:38 PM         1,271,929 BarMount_F3-01_013.step
+2021-05-30  06:38 PM         1,234,884 BarMount_F3-01_013.stl
+2021-05-30  10:01 PM         3,755,760 BarMount_F3-01_014.f3d
+2021-05-30  10:01 PM         1,389,798 BarMount_F3-01_014.step
+2021-05-30  10:01 PM         1,487,684 BarMount_F3-01_014.stl
+              50 File(s)     45,194,664 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20210610 - Kitchen Faucet Extension
+
+2021-06-20  05:28 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2021-06-10  08:24 PM            56,005 FaucetExtension_F3-01_001.f3d
+2021-06-10  08:25 PM            56,984 FaucetExtension_F3-01_001.stl
+2021-06-10  09:07 PM            57,844 FaucetExtension_F3-01_002.f3d
+2021-06-10  09:07 PM            61,184 FaucetExtension_F3-01_002.stl
+2021-06-10  10:26 PM            93,325 FaucetExtension_F3-01_003.f3d
+2021-06-10  10:26 PM           181,884 FaucetExtension_F3-01_003.stl
+2021-06-10  11:44 PM            99,219 FaucetExtension_F3-01_004.f3d
+2021-06-10  11:44 PM           217,084 FaucetExtension_F3-01_004.stl
+2021-06-11  08:12 AM           147,894 FaucetExtension_F3-01_005.f3d
+2021-06-11  08:12 AM           434,984 FaucetExtension_F3-01_005.stl
+2021-06-11  09:26 PM           320,464 FaucetExtension_F3-01_006.f3d
+2021-06-11  09:26 PM           669,584 FaucetExtension_F3-01_006.stl
+2021-06-11  11:50 PM           438,229 FaucetExtension_F3-01_007.f3d
+2021-06-11  11:50 PM           806,484 FaucetExtension_F3-01_007.stl
+2021-06-12  02:12 AM           420,855 FaucetExtension_F3-01_008.f3d
+2021-06-12  02:12 AM           803,884 FaucetExtension_F3-01_008.stl
+2021-06-18  10:09 AM           421,901 FaucetExtension_F3-01_009.f3d
+2021-06-18  10:09 AM           800,984 FaucetExtension_F3-01_009.stl
+2021-06-19  01:03 PM           491,570 FaucetExtension_F3-01_010.f3d
+2021-06-19  01:03 PM           842,384 FaucetExtension_F3-01_010.stl
+2021-06-19  04:14 PM           460,127 FaucetExtension_F3-01_011.f3d
+2021-06-19  04:15 PM           860,284 FaucetExtension_F3-01_011.stl
+2021-06-19  07:17 PM           481,565 FaucetExtension_F3-01_012.f3d
+2021-06-19  07:17 PM           860,784 FaucetExtension_F3-01_012.stl
+2021-06-19  10:43 PM           490,156 FaucetExtension_F3-01_013.f3d
+2021-06-19  10:43 PM           865,884 FaucetExtension_F3-01_013.stl
+2021-06-20  01:35 AM           813,983 FaucetExtension_F3-01_014.f3d
+2021-06-20  01:36 AM         1,340,684 FaucetExtension_F3-01_014.stl
+              28 File(s)     13,596,213 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20210627 - Front Door Camera
+
+2021-06-27  04:41 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2021-06-26  02:08 PM            54,870 BridgePlate_F3-01_001.f3d
+2021-06-26  02:11 PM             3,084 BridgePlate_F3-01_001.stl
+2021-06-26  02:53 PM            65,178 BridgePlate_F3-01_002.f3d
+2021-06-26  02:53 PM            20,284 BridgePlate_F3-01_002.stl
+2021-06-26  03:45 PM            65,129 BridgePlate_F3-01_003.f3d
+2021-06-26  03:45 PM            21,084 BridgePlate_F3-01_003.stl
+2021-06-26  05:10 PM            92,885 BridgePlate_F3-01_004.f3d
+2021-06-26  05:10 PM            30,884 BridgePlate_F3-01_004.stl
+2021-06-26  07:27 PM           200,355 BridgePlate_F3-01_005.f3d
+2021-06-26  07:27 PM           307,184 BridgePlate_F3-01_005.stl
+2021-06-26  09:34 PM           341,348 BridgePlate_F3-01_006.f3d
+2021-06-26  09:34 PM           506,084 BridgePlate_F3-01_006.stl
+2021-06-26  11:36 PM           361,751 BridgePlate_F3-01_007.f3d
+2021-06-26  11:36 PM           555,584 BridgePlate_F3-01_007.stl
+2021-06-27  05:34 AM           374,053 BridgePlate_F3-01_008.f3d
+2021-06-27  05:34 AM           572,784 BridgePlate_F3-01_008.stl
+              16 File(s)      3,572,541 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20210918 - Rack Tray Mounts
+
+2021-09-30  10:40 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2021-09-20  09:38 PM               397 notes.txt
+2021-09-11  04:16 AM            32,777 PowerRecep-3P_F3-01_001.3mf
+2021-09-11  04:12 AM           159,946 PowerRecep-3P_F3-01_001.f3d
+2021-09-11  04:13 AM           115,121 PowerRecep-3P_F3-01_001.step
+2021-09-11  09:47 AM            48,237 PowerRecep-3P_F3-01_002.3mf
+2021-09-11  09:47 AM           282,020 PowerRecep-3P_F3-01_002.f3d
+2021-09-11  09:47 AM           201,777 PowerRecep-3P_F3-01_002.step
+2021-09-11  11:14 AM            53,719 PowerRecep-3P_F3-01_003.3mf
+2021-09-11  11:13 AM           346,344 PowerRecep-3P_F3-01_003.f3d
+2021-09-11  11:14 AM           252,319 PowerRecep-3P_F3-01_003.step
+2021-09-11  11:15 AM            50,775 PowerRecep-3P_F3-01_004.3mf
+2021-09-11  11:15 AM           376,158 PowerRecep-3P_F3-01_004.f3d
+2021-09-11  01:12 PM            51,018 PowerRecep-3P_F3-01_005.3mf
+2021-09-11  01:12 PM           388,586 PowerRecep-3P_F3-01_005.f3d
+2021-09-11  01:12 PM           235,438 PowerRecep-3P_F3-01_005.step
+2021-09-11  03:21 PM            50,203 PowerRecep-3P_F3-01_006.3mf
+2021-09-11  03:21 PM           447,391 PowerRecep-3P_F3-01_006.f3d
+2021-09-11  05:07 PM            65,527 PowerRecep-3P_F3-01_007.3mf
+2021-09-11  05:07 PM           557,161 PowerRecep-3P_F3-01_007.f3d
+2021-09-11  05:06 PM           394,608 PowerRecep-3P_F3-01_007.step
+2021-09-11  07:09 PM            73,100 PowerRecep-3P_F3-01_008.3mf
+2021-09-11  07:08 PM           615,108 PowerRecep-3P_F3-01_008.f3d
+2021-09-11  07:09 PM           459,570 PowerRecep-3P_F3-01_008.step
+2021-09-11  07:15 PM            72,857 PowerRecep-3P_F3-01_009.3mf
+2021-09-12  12:03 PM           160,923 PowerRecep-3P_F3-01_010-01.png
+2021-09-12  12:10 PM           207,585 PowerRecep-3P_F3-01_010-02.png
+2021-09-12  12:11 PM           252,496 PowerRecep-3P_F3-01_010-03.png
+2021-09-11  07:26 PM            72,879 PowerRecep-3P_F3-01_010.3mf
+2021-09-11  07:25 PM           622,595 PowerRecep-3P_F3-01_010.f3d
+2021-09-11  07:26 PM           451,806 PowerRecep-3P_F3-01_010.step
+2021-09-12  02:44 PM           101,272 PowerRecep-3P_F3-01_011.3mf
+2021-09-12  02:44 PM         1,200,284 PowerRecep-3P_F3-01_011.f3d
+2021-09-12  02:46 PM            41,098 PowerRecep-3P_F3-01_011.jpg
+2021-09-12  02:45 PM           622,411 PowerRecep-3P_F3-01_011.step
+2021-09-12  04:32 PM           103,747 PowerRecep-3P_F3-01_012.3mf
+2021-09-12  04:32 PM         1,219,249 PowerRecep-3P_F3-01_012.f3d
+2021-09-12  04:33 PM            46,320 PowerRecep-3P_F3-01_012.jpg
+2021-09-12  04:32 PM           615,804 PowerRecep-3P_F3-01_012.step
+2021-09-12  04:42 PM           102,026 PowerRecep-3P_F3-01_013.3mf
+2021-09-12  04:42 PM         1,230,717 PowerRecep-3P_F3-01_013.f3d
+2021-09-12  04:42 PM           581,502 PowerRecep-3P_F3-01_013.step
+2021-09-12  06:34 PM           108,550 PowerRecep-3P_F3-01_014.3mf
+2021-09-12  06:34 PM         1,395,738 PowerRecep-3P_F3-01_014.f3d
+2021-09-12  06:38 PM           273,673 PowerRecep-3P_F3-01_014.png
+2021-09-12  06:34 PM           621,884 PowerRecep-3P_F3-01_014.step
+2021-09-18  03:19 PM             1,794 USB-Power_F3-01_001.3mf
+2021-09-18  03:18 PM            54,679 USB-Power_F3-01_001.f3d
+2021-09-18  03:38 PM             2,857 USB-Power_F3-01_002.3mf
+2021-09-18  03:38 PM            59,528 USB-Power_F3-01_002.f3d
+2021-09-18  04:00 PM             2,836 USB-Power_F3-01_003.3mf
+2021-09-18  04:00 PM            60,012 USB-Power_F3-01_003.f3d
+2021-09-18  04:31 PM             3,661 USB-Power_F3-01_004.3mf
+2021-09-18  04:31 PM            88,837 USB-Power_F3-01_004.f3d
+2021-09-18  05:16 PM            35,007 USB-Power_F3-01_005.3mf
+2021-09-18  05:16 PM           268,340 USB-Power_F3-01_005.f3d
+2021-09-18  05:16 PM           149,102 USB-Power_F3-01_005.step
+2021-09-18  07:24 PM            86,992 USB-Power_F3-01_006.3mf
+2021-09-18  07:24 PM           550,841 USB-Power_F3-01_006.f3d
+2021-09-18  07:24 PM           405,970 USB-Power_F3-01_006.step
+2021-09-18  07:29 PM            46,590 USB-Power_F3-01_006_01.jpg
+2021-09-18  07:30 PM            47,448 USB-Power_F3-01_006_02.jpg
+2021-09-19  01:17 AM           102,784 USB-Power_F3-01_007.3mf
+2021-09-19  01:17 AM           792,604 USB-Power_F3-01_007.f3d
+2021-09-19  01:18 AM           268,526 USB-Power_F3-01_007.png
+2021-09-19  01:17 AM           531,880 USB-Power_F3-01_007.step
+2021-09-19  11:43 AM            91,119 USB-Power_F3-01_008.3mf
+2021-09-19  11:43 AM           734,722 USB-Power_F3-01_008.f3d
+2021-09-19  11:44 AM           203,914 USB-Power_F3-01_008.png
+2021-09-19  11:44 AM           442,879 USB-Power_F3-01_008.step
+2021-09-25  02:28 PM           116,940 USB-Power_F3-01_009.3mf
+2021-09-25  02:28 PM         1,087,565 USB-Power_F3-01_009.f3d
+2021-09-25  02:28 PM           540,224 USB-Power_F3-01_009.step
+2021-09-25  04:17 PM           123,192 USB-Power_F3-01_010.3mf
+2021-09-25  04:17 PM         1,128,802 USB-Power_F3-01_010.f3d
+2021-09-25  04:17 PM           577,336 USB-Power_F3-01_010.step
+2021-09-25  07:56 PM           117,740 USB-Power_F3-01_011.3mf
+2021-09-25  07:55 PM           999,688 USB-Power_F3-01_011.f3d
+2021-09-25  07:56 PM           548,405 USB-Power_F3-01_011.step
+2021-09-28  02:48 PM           160,418 USB-Power_F3-01_012.3mf
+2021-09-28  02:48 PM         1,145,227 USB-Power_F3-01_012.f3d
+2021-09-28  02:48 PM           673,157 USB-Power_F3-01_012.step
+              81 File(s)     27,614,332 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20211212 - Door Hook
+
+2022-05-16  09:22 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2021-12-12  03:38 PM            87,628 Door-Hook_F3-01_001.3mf
+2021-12-12  03:38 PM           639,545 Door-Hook_F3-01_001.f3d
+2021-12-12  03:38 PM           428,416 Door-Hook_F3-01_001.step
+2021-12-13  12:26 AM            99,148 Door-Hook_F3-01_002.3mf
+2021-12-13  12:26 AM           829,932 Door-Hook_F3-01_002.f3d
+2021-12-13  12:26 AM           435,927 Door-Hook_F3-01_002.step
+2021-12-14  11:51 PM            99,032 Door-Hook_F3-01_003.3mf
+2021-12-14  11:51 PM           822,364 Door-Hook_F3-01_003.f3d
+2021-12-14  11:51 PM           437,549 Door-Hook_F3-01_003.step
+2021-12-13  12:30 AM               108 notes.txt
+              10 File(s)      3,879,649 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20211224 - Partition Shelf Brace
+
+2022-01-28  09:22 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2021-12-29  10:14 AM               679 notes.txt
+2021-12-25  12:05 AM           232,542 Partition-Shelf-Brace_F3-01_001.f3d
+2021-12-25  12:12 AM            79,173 Partition-Shelf-Brace_F3-01_002.3mf
+2021-12-25  12:12 AM           269,369 Partition-Shelf-Brace_F3-01_002.f3d
+2021-12-25  12:12 AM           208,499 Partition-Shelf-Brace_F3-01_002.step
+2021-12-26  12:26 PM            78,520 Partition-Shelf-Brace_F3-01_003.3mf
+2021-12-26  12:26 PM           270,323 Partition-Shelf-Brace_F3-01_003.f3d
+2021-12-26  12:26 PM           203,032 Partition-Shelf-Brace_F3-01_003.step
+2021-12-28  12:55 AM            77,124 Partition-Shelf-Brace_F3-01_004.3mf
+2021-12-28  12:55 AM           266,672 Partition-Shelf-Brace_F3-01_004.f3d
+2021-12-28  12:55 AM           199,936 Partition-Shelf-Brace_F3-01_004.step
+2021-12-29  12:35 AM           266,802 Partition-Shelf-Brace_F3-02_001.f3d
+2021-12-29  12:35 AM           199,936 Partition-Shelf-Brace_F3-02_001.step
+2021-12-29  12:54 AM            77,688 Partition-Shelf-Brace_F3-02_002.3mf
+2021-12-29  12:54 AM           494,884 Partition-Shelf-Brace_F3-02_002.f3d
+2021-12-29  12:54 AM           310,937 Partition-Shelf-Brace_F3-02_002.step
+2021-12-29  08:38 PM            86,129 Partition-Shelf-Brace_F3-02_003.3mf
+2021-12-29  08:38 PM           555,221 Partition-Shelf-Brace_F3-02_003.f3d
+2021-12-29  08:38 PM           341,628 Partition-Shelf-Brace_F3-02_003.step
+2021-12-29  08:46 AM            89,024 Partition-Shelf-Brace_F3-03_001.3mf
+2021-12-29  08:46 AM           128,374 Partition-Shelf-Brace_F3-03_001.f3d
+2021-12-29  08:46 AM            91,756 Partition-Shelf-Brace_F3-03_001.step
+              22 File(s)      4,528,248 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20220107 - BST-2 Sactional Mount, related accessories
+
+2022-09-20  09:15 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-03-19  09:28 PM           108,490 Anchor-Foot_F3-01_001.3mf
+2022-03-19  09:28 PM            77,089 Anchor-Foot_F3-01_001.f3d
+2022-03-19  09:28 PM            21,729 Anchor-Foot_F3-01_001.step
+2022-03-19  09:50 PM            86,736 Anchor-Foot_F3-01_002.3mf
+2022-03-19  09:50 PM            98,019 Anchor-Foot_F3-01_002.f3d
+2022-03-19  09:50 PM            58,668 Anchor-Foot_F3-01_002.step
+2022-03-19  09:51 PM            82,758 Anchor-Foot_F3-01_003.3mf
+2022-03-19  09:51 PM            96,199 Anchor-Foot_F3-01_003.f3d
+2022-03-19  09:51 PM            58,683 Anchor-Foot_F3-01_003.step
+2022-03-19  10:18 PM            82,723 Anchor-Foot_F3-01_004.3mf
+2022-03-19  10:18 PM            84,251 Anchor-Foot_F3-01_004.f3d
+2022-03-19  10:18 PM            58,686 Anchor-Foot_F3-01_004.step
+2022-03-18  10:45 PM            30,081 Bolt-Cap_F3-01_001.3mf
+2022-03-18  10:45 PM            57,385 Bolt-Cap_F3-01_001.f3d
+2022-03-18  11:00 PM            38,516 Bolt-Cap_F3-01_002.3mf
+2022-03-18  11:00 PM            60,303 Bolt-Cap_F3-01_002.f3d
+2022-03-18  11:00 PM            19,924 Bolt-Cap_F3-01_002.step
+2022-03-18  11:13 PM            43,543 Bolt-Cap_F3-01_003.3mf
+2022-03-18  11:13 PM            62,719 Bolt-Cap_F3-01_003.f3d
+2022-03-18  11:12 PM            28,634 Bolt-Cap_F3-01_003.step
+2022-03-18  11:24 PM            45,686 Bolt-Cap_F3-01_004.3mf
+2022-03-18  11:24 PM            61,295 Bolt-Cap_F3-01_004.f3d
+2022-03-18  11:24 PM            14,033 Bolt-Cap_F3-01_004.step
+2022-03-18  11:38 PM            45,676 Bolt-Cap_F3-01_005.3mf
+2022-03-18  11:38 PM            61,436 Bolt-Cap_F3-01_005.f3d
+2022-03-18  11:37 PM            14,025 Bolt-Cap_F3-01_005.step
+2022-03-18  11:56 PM            44,432 Bolt-Cap_F3-01_006.3mf
+2022-03-18  11:56 PM            61,584 Bolt-Cap_F3-01_006.f3d
+2022-03-18  11:56 PM            14,016 Bolt-Cap_F3-01_006.step
+2022-03-19  12:20 AM            44,363 Bolt-Cap_F3-01_007.3mf
+2022-03-19  12:20 AM            61,700 Bolt-Cap_F3-01_007.f3d
+2022-03-19  12:20 AM            14,028 Bolt-Cap_F3-01_007.step
+2022-03-19  12:36 AM            43,072 Bolt-Cap_F3-01_008.3mf
+2022-03-19  12:36 AM            62,277 Bolt-Cap_F3-01_008.f3d
+2022-03-19  12:36 AM            28,558 Bolt-Cap_F3-01_008.step
+2022-01-07  04:36 PM            33,126 Tactile-Transducer-Mount_F3-01_001.3mf
+2022-01-07  04:36 PM           139,920 Tactile-Transducer-Mount_F3-01_001.f3d
+2022-01-07  04:37 PM            86,621 Tactile-Transducer-Mount_F3-01_001.step
+2022-01-07  04:40 PM            23,145 Tactile-Transducer-Mount_F3-01_002.3mf
+2022-01-07  06:47 PM            25,998 Tactile-Transducer-Mount_F3-01_003.3mf
+2022-01-07  06:48 PM           179,927 Tactile-Transducer-Mount_F3-01_003.f3d
+2022-01-07  06:48 PM            75,701 Tactile-Transducer-Mount_F3-01_003.step
+2022-01-07  07:59 PM            57,583 Tactile-Transducer-Mount_F3-01_004.3mf
+2022-01-07  08:00 PM            57,512 Tactile-Transducer-Mount_F3-01_005.3mf
+2022-01-07  10:48 PM           259,938 Tactile-Transducer-Mount_F3-01_006.3mf
+2022-01-07  10:48 PM         1,033,260 Tactile-Transducer-Mount_F3-01_006.f3d
+2022-01-07  10:48 PM           637,438 Tactile-Transducer-Mount_F3-01_006.step
+2022-01-08  06:56 AM           288,083 Tactile-Transducer-Mount_F3-01_007.3mf
+2022-01-08  06:56 AM           998,512 Tactile-Transducer-Mount_F3-01_007.f3d
+2022-01-08  06:56 AM           646,071 Tactile-Transducer-Mount_F3-01_007.step
+2022-01-08  02:02 PM           367,715 Tactile-Transducer-Mount_F3-01_008.3mf
+2022-01-08  02:02 PM         1,326,421 Tactile-Transducer-Mount_F3-01_008.f3d
+2022-01-08  02:02 PM           987,244 Tactile-Transducer-Mount_F3-01_008.step
+              53 File(s)      9,095,532 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20220109 - Remote Control Holder
+
+2022-01-28  09:16 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-01-22  02:11 PM               231 notes.txt
+2022-01-17  04:16 PM           142,006 Remote-Control-Holder-Shallow_F3-02_006.3mf
+2022-01-17  04:15 PM           490,451 Remote-Control-Holder-Shallow_F3-02_006.f3d
+2022-01-17  04:16 PM           326,574 Remote-Control-Holder-Shallow_F3-02_006.step
+2022-01-17  06:06 PM           197,092 Remote-Control-Holder-Shallow_F3-02_007.3mf
+2022-01-17  06:06 PM           798,378 Remote-Control-Holder-Shallow_F3-02_007.f3d
+2022-01-17  06:07 PM           460,241 Remote-Control-Holder-Shallow_F3-02_007.step
+2022-01-17  06:55 PM           206,129 Remote-Control-Holder-Shallow_F3-02_008.3mf
+2022-01-17  06:55 PM           874,206 Remote-Control-Holder-Shallow_F3-02_008.f3d
+2022-01-17  06:55 PM           494,266 Remote-Control-Holder-Shallow_F3-02_008.step
+2022-01-17  07:17 PM           203,255 Remote-Control-Holder-Shallow_F3-02_009.3mf
+2022-01-17  07:18 PM         1,046,914 Remote-Control-Holder-Shallow_F3-02_009.f3d
+2022-01-17  07:17 PM           530,031 Remote-Control-Holder-Shallow_F3-02_009.step
+2022-01-17  11:14 PM           216,362 Remote-Control-Holder-Shallow_F3-02_010.3mf
+2022-01-17  11:14 PM           821,849 Remote-Control-Holder-Shallow_F3-02_010.f3d
+2022-01-17  11:15 PM           506,332 Remote-Control-Holder-Shallow_F3-02_010.step
+2022-01-18  09:34 AM           219,948 Remote-Control-Holder-Shallow_F3-02_011.3mf
+2022-01-18  09:34 AM           798,130 Remote-Control-Holder-Shallow_F3-02_011.f3d
+2022-01-18  09:34 AM           514,826 Remote-Control-Holder-Shallow_F3-02_011.step
+2022-01-18  10:09 PM           217,922 Remote-Control-Holder-Shallow_F3-02_012.3mf
+2022-01-18  10:09 PM           797,281 Remote-Control-Holder-Shallow_F3-02_012.f3d
+2022-01-18  10:08 PM           517,206 Remote-Control-Holder-Shallow_F3-02_012.step
+2022-01-22  02:27 PM           190,367 Remote-Control-Holder-Shallow_F3-03_015.3mf
+2022-01-22  02:26 PM           767,626 Remote-Control-Holder-Shallow_F3-03_015.f3d
+2022-01-22  02:26 PM           484,051 Remote-Control-Holder-Shallow_F3-03_015.step
+2022-01-22  03:58 PM           193,537 Remote-Control-Holder-Shallow_F3-03_016.3mf
+2022-01-22  03:58 PM           787,724 Remote-Control-Holder-Shallow_F3-03_016.f3d
+2022-01-22  03:58 PM           493,928 Remote-Control-Holder-Shallow_F3-03_016.step
+2022-01-22  04:33 PM           200,243 Remote-Control-Holder-Shallow_F3-03_017.3mf
+2022-01-22  04:33 PM           823,286 Remote-Control-Holder-Shallow_F3-03_017.f3d
+2022-01-22  04:33 PM           523,853 Remote-Control-Holder-Shallow_F3-03_017.step
+2022-01-22  06:59 PM           283,379 Remote-Control-Holder-Shallow_F3-03_018.3mf
+2022-01-22  06:59 PM         1,195,318 Remote-Control-Holder-Shallow_F3-03_018.f3d
+2022-01-22  07:00 PM           811,852 Remote-Control-Holder-Shallow_F3-03_018.step
+2022-01-22  08:29 PM           296,046 Remote-Control-Holder-Shallow_F3-03_019.3mf
+2022-01-22  08:29 PM         1,239,416 Remote-Control-Holder-Shallow_F3-03_019.f3d
+2022-01-22  08:29 PM           866,467 Remote-Control-Holder-Shallow_F3-03_019.step
+2022-01-22  10:38 PM           303,311 Remote-Control-Holder-Shallow_F3-03_020.3mf
+2022-01-22  10:38 PM         1,425,800 Remote-Control-Holder-Shallow_F3-03_020.f3d
+2022-01-22  10:39 PM           898,473 Remote-Control-Holder-Shallow_F3-03_020.step
+2022-01-09  04:22 PM            75,563 Remote-Control-Holder_F3-01_001.3mf
+2022-01-09  04:21 PM           198,659 Remote-Control-Holder_F3-01_001.f3d
+2022-01-09  04:22 PM           169,754 Remote-Control-Holder_F3-01_001.step
+2022-01-09  06:30 PM           109,359 Remote-Control-Holder_F3-01_002.3mf
+2022-01-09  06:30 PM           344,095 Remote-Control-Holder_F3-01_002.f3d
+2022-01-09  06:30 PM           227,638 Remote-Control-Holder_F3-01_002.step
+2022-01-09  08:21 PM           130,093 Remote-Control-Holder_F3-01_003.3mf
+2022-01-09  08:21 PM           712,752 Remote-Control-Holder_F3-01_003.f3d
+2022-01-09  08:21 PM           327,734 Remote-Control-Holder_F3-01_003.step
+2022-01-09  08:52 PM           152,724 Remote-Control-Holder_F3-01_004.3mf
+2022-01-09  08:52 PM           784,176 Remote-Control-Holder_F3-01_004.f3d
+2022-01-09  08:53 PM           380,387 Remote-Control-Holder_F3-01_004.step
+2022-01-10  08:59 AM           151,192 Remote-Control-Holder_F3-01_005.3mf
+2022-01-10  08:59 AM           786,770 Remote-Control-Holder_F3-01_005.f3d
+2022-01-10  08:59 AM           378,890 Remote-Control-Holder_F3-01_005.step
+              55 File(s)     27,094,093 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20220126 - Monitor Stand
+
+2022-05-16  09:28 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-01-16  10:55 PM           145,731 Monitor-Stand_F3-01_001.3mf
+2022-01-16  10:54 PM           223,819 Monitor-Stand_F3-01_001.f3d
+2022-01-17  03:22 PM            58,022 Monitor-Stand_F3-01_001.jpg
+2022-01-16  10:55 PM           185,684 Monitor-Stand_F3-01_001.step
+2022-01-19  08:02 PM           195,130 Monitor-Stand_F3-01_002.3mf
+2022-01-19  08:02 PM           603,226 Monitor-Stand_F3-01_002.f3d
+2022-01-19  08:02 PM           490,181 Monitor-Stand_F3-01_002.step
+2022-01-19  08:10 PM           259,637 Monitor-Stand_F3-01_003.3mf
+2022-01-19  08:09 PM           617,008 Monitor-Stand_F3-01_003.f3d
+2022-01-19  08:09 PM           530,353 Monitor-Stand_F3-01_003.step
+2022-01-20  08:58 PM           460,265 Monitor-Stand_F3-01_004.3mf
+2022-01-20  08:58 PM         1,582,905 Monitor-Stand_F3-01_004.f3d
+2022-01-20  08:58 PM         1,148,134 Monitor-Stand_F3-01_004.step
+2022-01-21  09:01 PM           543,671 Monitor-Stand_F3-01_005.3mf
+2022-01-21  09:01 PM         2,005,413 Monitor-Stand_F3-01_005.f3d
+2022-01-21  09:11 PM           543,345 Monitor-Stand_F3-01_006.3mf
+2022-01-21  09:11 PM         2,290,283 Monitor-Stand_F3-01_006.f3d
+2022-01-21  09:12 PM         1,439,580 Monitor-Stand_F3-01_006.step
+2022-01-22  02:10 AM           548,668 Monitor-Stand_F3-01_007.3mf
+2022-01-22  02:10 AM         2,160,777 Monitor-Stand_F3-01_007.f3d
+2022-01-22  02:10 AM         1,530,758 Monitor-Stand_F3-01_007.step
+2022-01-24  08:40 PM           555,729 Monitor-Stand_F3-01_008.3mf
+2022-01-24  08:40 PM         2,301,268 Monitor-Stand_F3-01_008.f3d
+2022-01-24  08:40 PM         1,586,526 Monitor-Stand_F3-01_008.step
+2022-01-24  08:49 PM           555,465 Monitor-Stand_F3-01_009.3mf
+2022-01-24  08:48 PM         2,301,870 Monitor-Stand_F3-01_009.f3d
+2022-01-24  08:48 PM         1,586,660 Monitor-Stand_F3-01_009.step
+2022-01-25  08:41 PM           662,319 Monitor-Stand_F3-01_010.3mf
+2022-01-25  08:42 PM         2,712,024 Monitor-Stand_F3-01_010.f3d
+2022-01-25  08:42 PM         1,803,859 Monitor-Stand_F3-01_010.step
+2022-01-25  08:56 PM           570,904 Monitor-Stand_F3-01_011.3mf
+2022-01-25  08:55 PM         2,474,903 Monitor-Stand_F3-01_011.f3d
+2022-01-25  08:55 PM         1,693,056 Monitor-Stand_F3-01_011.step
+2022-01-25  09:01 PM           564,529 Monitor-Stand_F3-01_012.3mf
+2022-01-25  09:01 PM         2,467,819 Monitor-Stand_F3-01_012.f3d
+2022-01-25  09:01 PM         1,677,529 Monitor-Stand_F3-01_012.step
+2022-01-26  11:13 PM           598,488 Monitor-Stand_F3-01_013.3mf
+2022-01-26  11:13 PM         2,564,315 Monitor-Stand_F3-01_013.f3d
+2022-01-26  11:13 PM         1,760,407 Monitor-Stand_F3-01_013.step
+2022-01-26  11:25 PM           615,331 Monitor-Stand_F3-01_014.3mf
+2022-01-26  11:26 PM         2,545,223 Monitor-Stand_F3-01_014.f3d
+2022-01-26  11:26 PM         1,771,803 Monitor-Stand_F3-01_014.step
+2022-01-27  09:49 PM           671,394 Monitor-Stand_F3-01_015.3mf
+2022-01-27  09:49 PM         3,196,297 Monitor-Stand_F3-01_015.f3d
+2022-01-27  09:49 PM         2,001,899 Monitor-Stand_F3-01_015.step
+2022-01-28  09:04 PM           652,472 Monitor-Stand_F3-01_016.3mf
+2022-01-28  09:04 PM         2,938,496 Monitor-Stand_F3-01_016.f3d
+2022-01-28  10:06 PM            48,617 Monitor-Stand_F3-01_016.jpg
+2022-01-28  09:05 PM         1,970,951 Monitor-Stand_F3-01_016.step
+2022-02-02  08:17 PM           621,663 Monitor-Stand_F3-01_017.3mf
+2022-02-02  08:17 PM         3,258,983 Monitor-Stand_F3-01_017.f3d
+2022-02-02  08:17 PM         1,863,083 Monitor-Stand_F3-01_017.step
+2022-02-05  10:12 AM           689,251 Monitor-Stand_F3-01_018.3mf
+2022-02-05  10:12 AM         3,562,701 Monitor-Stand_F3-01_018.f3d
+2022-02-05  10:13 AM         2,063,462 Monitor-Stand_F3-01_018.step
+2022-02-05  10:19 PM           714,381 Monitor-Stand_F3-01_019.3mf
+2022-02-05  10:20 PM         3,596,684 Monitor-Stand_F3-01_019.f3d
+2022-02-05  10:19 PM         2,226,809 Monitor-Stand_F3-01_019.step
+2022-02-10  03:50 PM         2,300,984 Monitor-Stand_F3-01_019.stl
+2022-02-11  09:01 PM           748,331 Monitor-Stand_F3-01_020.3mf
+2022-02-11  09:01 PM         3,998,260 Monitor-Stand_F3-01_020.f3d
+2022-02-11  09:01 PM         2,425,570 Monitor-Stand_F3-01_020.step
+2022-02-11  09:11 PM           758,692 Monitor-Stand_F3-01_021.3mf
+2022-02-11  09:11 PM         4,452,682 Monitor-Stand_F3-01_021.f3d
+2022-02-11  09:10 PM         2,555,755 Monitor-Stand_F3-01_021.step
+2022-02-11  09:18 PM           760,475 Monitor-Stand_F3-01_022.3mf
+2022-02-11  09:18 PM         4,468,922 Monitor-Stand_F3-01_022.f3d
+2022-02-11  09:18 PM         2,590,884 Monitor-Stand_F3-01_022.step
+2022-02-14  08:22 PM           763,798 Monitor-Stand_F3-01_023.3mf
+2022-02-14  08:22 PM         4,430,797 Monitor-Stand_F3-01_023.f3d
+2022-02-14  08:22 PM         2,605,549 Monitor-Stand_F3-01_023.step
+              71 File(s)    113,870,459 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20220300 - IR-Illuminator
+
+2022-05-16  09:27 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-02-28  10:10 PM            57,219 IR-Illuminator-Alignment-Ring_F3-02_001.3mf
+2022-02-28  10:10 PM            68,819 IR-Illuminator-Alignment-Ring_F3-02_001.f3d
+2022-02-28  10:11 PM            34,006 IR-Illuminator-Alignment-Ring_F3-02_001.step
+2022-03-01  12:14 AM            82,813 IR-Illuminator-Alignment-Ring_F3-02_002.3mf
+2022-03-01  12:13 AM            58,514 IR-Illuminator-Alignment-Ring_F3-02_002.f3d
+2022-03-01  12:13 AM            18,116 IR-Illuminator-Alignment-Ring_F3-02_002.step
+2022-02-21  05:46 PM            98,643 IR-Illuminator-Base_F3-01_001.3mf
+2022-02-21  05:46 PM           493,317 IR-Illuminator-Base_F3-01_001.f3d
+2022-02-21  05:46 PM           222,995 IR-Illuminator-Base_F3-01_001.step
+2022-02-21  05:53 PM           104,334 IR-Illuminator-Base_F3-01_002.3mf
+2022-02-21  05:53 PM           559,763 IR-Illuminator-Base_F3-01_002.f3d
+2022-02-21  05:52 PM           249,176 IR-Illuminator-Base_F3-01_002.step
+2022-02-21  08:57 PM           177,868 IR-Illuminator-Base_F3-01_003.3mf
+2022-02-21  08:57 PM           984,973 IR-Illuminator-Base_F3-01_003.f3d
+2022-02-21  08:57 PM           350,933 IR-Illuminator-Base_F3-01_003.step
+2022-02-21  11:59 PM           207,116 IR-Illuminator-Base_F3-01_004.3mf
+2022-02-21  11:59 PM         1,192,515 IR-Illuminator-Base_F3-01_004.f3d
+2022-02-21  11:59 PM           544,184 IR-Illuminator-Base_F3-01_004.step
+2022-02-22  12:08 AM           208,327 IR-Illuminator-Base_F3-01_005.3mf
+2022-02-22  12:08 AM         1,198,836 IR-Illuminator-Base_F3-01_005.f3d
+2022-02-22  12:08 AM           553,754 IR-Illuminator-Base_F3-01_005.step
+2022-02-22  10:58 PM           194,416 IR-Illuminator-Base_F3-01_006.3mf
+2022-02-22  10:58 PM         1,479,589 IR-Illuminator-Base_F3-01_006.f3d
+2022-02-22  10:58 PM           640,407 IR-Illuminator-Base_F3-01_006.step
+2022-02-23  08:49 PM           301,000 IR-Illuminator-Base_F3-01_007.3mf
+2022-02-23  08:49 PM         2,266,673 IR-Illuminator-Base_F3-01_007.f3d
+2022-02-23  08:49 PM         1,045,217 IR-Illuminator-Base_F3-01_007.step
+2022-02-23  09:03 PM           312,107 IR-Illuminator-Base_F3-01_008.3mf
+2022-02-23  09:03 PM         2,298,555 IR-Illuminator-Base_F3-01_008.f3d
+2022-02-23  09:03 PM         1,116,489 IR-Illuminator-Base_F3-01_008.step
+2022-02-26  01:18 PM           367,381 IR-Illuminator-Base_F3-01_009.3mf
+2022-02-26  01:18 PM         2,543,663 IR-Illuminator-Base_F3-01_009.f3d
+2022-02-26  01:18 PM         1,060,025 IR-Illuminator-Base_F3-01_009.step
+2022-02-27  02:52 PM           288,495 IR-Illuminator-Base_F3-01_010 (rear port).3mf
+2022-02-27  02:52 PM         2,442,142 IR-Illuminator-Base_F3-01_010 (rear port).f3d
+2022-02-27  02:52 PM           995,429 IR-Illuminator-Base_F3-01_010 (rear port).step
+2022-02-27  03:01 PM           309,316 IR-Illuminator-Base_F3-01_011 (rear port).3mf
+2022-02-27  03:01 PM         2,434,987 IR-Illuminator-Base_F3-01_011 (rear port).f3d
+2022-02-27  03:01 PM         1,033,636 IR-Illuminator-Base_F3-01_011 (rear port).step
+2022-02-27  08:11 PM           306,457 IR-Illuminator-Base_F3-01_012 (rear port).3mf
+2022-02-27  08:11 PM         2,424,536 IR-Illuminator-Base_F3-01_012 (rear port).f3d
+2022-02-27  08:12 PM            42,944 IR-Illuminator-Base_F3-01_012 (rear port).jpg
+2022-02-27  08:11 PM         1,033,897 IR-Illuminator-Base_F3-01_012 (rear port).step
+2022-02-20  11:30 PM            50,704 IR-Illuminator-Mount_F3-01_001.3mf
+2022-02-20  11:29 PM            49,806 IR-Illuminator-Mount_F3-01_001.f3d
+2022-02-21  01:36 AM            99,731 IR-Illuminator-Mount_F3-01_002.3mf
+2022-02-21  01:36 AM           135,608 IR-Illuminator-Mount_F3-01_002.f3d
+2022-02-21  01:37 AM           180,930 IR-Illuminator-Mount_F3-01_002.step
+2022-02-21  03:44 AM           199,297 IR-Illuminator-Mount_F3-01_003.3mf
+2022-02-21  03:44 AM           378,296 IR-Illuminator-Mount_F3-01_003.f3d
+2022-02-21  03:44 AM           349,008 IR-Illuminator-Mount_F3-01_003.step
+2022-02-21  11:50 AM           275,827 IR-Illuminator-Mount_F3-01_004.3mf
+2022-02-21  11:50 AM           615,394 IR-Illuminator-Mount_F3-01_004.f3d
+2022-02-21  11:50 AM           556,681 IR-Illuminator-Mount_F3-01_004.step
+2022-02-21  02:41 PM           222,699 IR-Illuminator-Mount_F3-01_005.3mf
+2022-02-21  02:41 PM           663,053 IR-Illuminator-Mount_F3-01_005.f3d
+2022-02-21  02:41 PM           591,220 IR-Illuminator-Mount_F3-01_005.step
+2022-02-22  09:24 AM           269,183 IR-Illuminator-Mount_F3-01_006.3mf
+2022-02-22  09:24 AM           768,912 IR-Illuminator-Mount_F3-01_006.f3d
+2022-02-22  09:24 AM           724,803 IR-Illuminator-Mount_F3-01_006.step
+2022-02-23  09:46 AM           214,328 IR-Illuminator-Mount_F3-01_007.3mf
+2022-02-23  09:46 AM         1,571,756 IR-Illuminator-Mount_F3-01_007.f3d
+2022-02-23  09:46 AM           726,753 IR-Illuminator-Mount_F3-01_007.step
+2022-02-23  09:48 AM           217,881 IR-Illuminator-Mount_F3-01_008.3mf
+2022-02-24  12:20 AM           334,894 IR-Illuminator-Mount_F3-01_009.3mf
+2022-02-24  12:20 AM         1,099,584 IR-Illuminator-Mount_F3-01_009.f3d
+2022-02-27  08:20 PM            42,594 IR-Illuminator-Mount_F3-01_009.jpg
+2022-02-24  12:20 AM         1,016,384 IR-Illuminator-Mount_F3-01_009.step
+2022-02-24  08:27 PM           173,950 IR-Illuminator-Plate_F3-01_001.3mf
+2022-02-24  08:27 PM           239,840 IR-Illuminator-Plate_F3-01_001.f3d
+2022-02-24  08:27 PM           138,555 IR-Illuminator-Plate_F3-01_001.step
+2022-02-24  11:56 PM           285,102 IR-Illuminator-Plate_F3-01_002.3mf
+2022-02-24  11:56 PM         1,088,500 IR-Illuminator-Plate_F3-01_002.f3d
+2022-02-24  11:56 PM           539,355 IR-Illuminator-Plate_F3-01_002.step
+2022-02-25  09:33 AM           263,283 IR-Illuminator-Plate_F3-01_003.3mf
+2022-02-25  09:33 AM         1,054,643 IR-Illuminator-Plate_F3-01_003.f3d
+2022-02-25  09:33 AM           546,796 IR-Illuminator-Plate_F3-01_003.step
+2022-02-25  10:10 PM           356,022 IR-Illuminator-Plate_F3-01_004.3mf
+2022-02-25  10:11 PM         1,237,320 IR-Illuminator-Plate_F3-01_004.f3d
+2022-02-25  10:11 PM           685,616 IR-Illuminator-Plate_F3-01_004.step
+2022-02-26  01:59 AM           345,432 IR-Illuminator-Plate_F3-01_005.3mf
+2022-02-26  01:59 AM         1,248,663 IR-Illuminator-Plate_F3-01_005.f3d
+2022-02-27  08:21 PM           377,268 IR-Illuminator-Plate_F3-01_005.png
+2022-02-26  01:59 AM           688,553 IR-Illuminator-Plate_F3-01_005.step
+2022-03-05  01:09 AM           398,588 IR-Illuminator-Plate_F3-01_006 (version 3).3mf
+2022-03-05  01:09 AM         3,940,837 IR-Illuminator-Plate_F3-01_006 (version 3).f3d
+2022-03-05  01:09 AM           827,803 IR-Illuminator-Plate_F3-01_006 (version 3).step
+2022-03-05  02:20 PM           356,873 IR-Illuminator-Plate_F3-01_007 (version 3).3mf
+2022-03-05  02:20 PM         4,035,124 IR-Illuminator-Plate_F3-01_007 (version 3).f3d
+2022-03-05  02:20 PM           805,295 IR-Illuminator-Plate_F3-01_007 (version 3).step
+              90 File(s)     63,392,326 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20220503 - Storage Trays
+
+2022-09-23  11:53 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-05-14  08:37 PM        10,545,950 Caddy-B_F3-01_050 (ear-base).f3d
+2022-03-05  08:52 PM           164,107 Caddy-A_F3-01_005.step
+2022-03-11  08:52 AM           335,519 Caddy-A_F3-01_023.3mf
+2022-03-08  10:35 PM         1,360,242 Caddy-A_F3-01_018.f3d
+2022-06-04  08:16 PM           313,985 Caddy-B_F3-01_065 (ear-cab-A).step
+2022-05-04  11:42 PM         4,301,416 Caddy-B_F3-01_022 (ear, left).f3d
+2022-05-16  10:19 PM        11,016,593 Caddy-B_F3-01_060 (tray-right).f3d
+2022-03-06  12:10 AM            52,312 Caddy-A_F3-01_006.3mf
+2022-06-11  02:12 PM           174,221 CB-Stencil_F3-01_009 (B3 - bottom)).3mf
+2022-05-01  11:28 AM           184,169 Caddy-B_F3-01_008.3mf
+2022-05-03  08:10 PM           596,163 Caddy-B_F3-01_014.3mf
+2022-04-15  06:48 PM           521,117 Caddy-A_F3-01_035_03 (bin).step
+2022-06-08  07:55 PM           202,679 CB-Stencil_F3-01_005 (bottom).step
+2022-03-08  11:29 PM           284,495 Caddy-A_F3-01_019.3mf
+2022-03-06  08:33 PM           695,468 Caddy-A_F3-01_010.step
+2022-06-08  07:54 PM           416,892 CB-Stencil_F3-01_005 (bottom).f3d
+2022-05-07  12:20 PM         1,605,247 Caddy-B_F3-01_033 (left).step
+2022-06-07  07:48 PM           131,488 CB-Stencil_F3-01_002.3mf
+2022-05-14  08:37 PM            76,267 Caddy-B_F3-01_050 (ear-base).3mf
+2022-03-26  01:51 PM           266,469 Caddy-A_F3-01_046 (right ear, surface).step
+2022-03-26  12:20 AM           142,910 Caddy-A_F3-01_040 (right ear, surface).step
+2022-05-11  08:41 PM         1,815,552 Caddy-B_F3-01_044 (left).step
+2022-05-08  11:53 AM         6,773,504 Caddy-B_F3-01_037 (pins).f3d
+2022-05-04  10:22 PM            67,850 Caddy-B_F3-01_020 (ear, left).step
+2022-06-08  07:54 PM           153,584 CB-Stencil_F3-01_005 (bottom).3mf
+2022-03-20  07:23 PM        11,453,414 Caddy-A_F3-01_036 (joiner).f3d
+2022-05-08  02:13 PM            34,447 Caddy-B_F3-01_038 (pins).3mf
+2022-04-30  01:08 AM            40,966 Caddy-B_F3-01_001.step
+2022-03-05  07:28 PM           185,030 Caddy-A_F3-01_004.f3d
+2022-03-12  11:09 PM           378,099 Caddy-A_F3-01_029 (ears).step
+2022-05-05  08:57 PM         4,467,811 Caddy-B_F3-01_026 (tray, right).f3d
+2022-06-19  12:19 AM         3,810,553 D3_Caddy-B_F3-01_056 (top-right).gcode
+2022-06-04  08:17 PM        11,136,757 Caddy-B_F3-01_065 (ear-cab-A).f3d
+2022-05-11  08:40 PM         7,703,719 Caddy-B_F3-01_044 (left).f3d
+2022-05-15  08:05 PM           143,744 Caddy-B_F3-01_056 (top-right).step
+2022-04-12  08:23 PM           215,725 Caddy-A_F3-01_033-05 (top).3mf
+2022-05-04  08:32 AM         4,242,162 Caddy-B_F3-01_016 (tray,right).f3d
+2022-05-14  10:13 PM           937,684 Caddy-B_F3-01_052 (binder, ear-base).step
+2022-03-07  09:00 PM         1,319,011 Caddy-A_F3-01_015.f3d
+2022-06-11  08:02 PM           183,633 CB-Stencil_F3-01_011 (side).3mf
+2022-03-06  01:34 PM           675,401 Caddy-A_F3-01_008.f3d
+2022-04-30  12:44 PM           175,023 Caddy-B_F3-01_004.step
+2022-03-13  12:13 AM         6,975,682 Caddy-A_F3-01_031 (ears).f3d
+2022-06-04  11:19 PM           441,195 Caddy-B_F3-01_067 (ear-cab-A).step
+2022-03-09  07:29 PM         1,517,532 Caddy-A_F3-01_022.f3d
+2022-03-13  10:37 PM         8,292,666 Caddy-A_F3-01_035 (tray).f3d
+2022-05-15  11:01 PM         1,817,381 Caddy-B_F3-01_057 (tray-left).step
+2022-05-02  08:36 AM         1,787,316 Caddy-B_F3-01_011 (tray,right).step
+2022-04-30  04:28 PM           445,548 Caddy-B_F3-01_005.f3d
+2022-03-06  01:27 PM           679,406 Caddy-A_F3-01_007.f3d
+2022-06-07  07:49 PM           105,706 CB-Stencil_F3-01_003.step
+2022-03-09  09:37 AM           289,915 Caddy-A_F3-01_021.3mf
+2022-05-14  09:24 PM           267,097 Caddy-B_F3-01_051 (binder).3mf
+2022-04-14  08:45 PM           167,118 Caddy-A_F3-01_035_02 (bin).3mf
+2022-06-05  03:20 PM           194,684 Caddy-B_F3-01_072 (ear-cab-A).3mf
+2022-05-04  09:14 PM            58,677 Caddy-B_F3-01_019 (ear, left).step
+2022-05-02  11:50 PM         4,234,048 Caddy-B_F3-01_012 (tray,right).f3d
+2022-05-28  04:38 PM         1,837,998 Caddy-B_F3-01_062 (tray-middle).step
+2022-03-05  07:13 PM           174,673 Caddy-A_F3-01_001.f3d
+2022-05-01  05:59 PM           266,730 Caddy-B_F3-01_009.3mf
+2022-03-06  01:34 PM            58,531 Caddy-A_F3-01_008.3mf
+2022-06-11  07:13 PM           172,573 CB-Stencil_F3-01_010 (B3 - side).3mf
+2022-03-12  06:19 PM         4,477,271 Caddy-A_F3-01_026 (left ear).f3d
+2022-05-05  08:57 PM         1,170,064 Caddy-B_F3-01_026 (tray, right).step
+2022-05-18  10:50 PM        10,035,246 Caddy-B_F3-01_061 (ear).f3d
+2022-05-11  08:46 PM         8,537,975 Caddy-B_F3-01_045 (left).f3d
+2022-06-05  03:34 PM           307,273 Caddy-B_F3-01_073 (ear-cab-A).3mf
+2022-04-06  11:28 PM           163,969 Caddy-A_F3-01_033-02 (top).3mf
+2022-03-13  02:36 PM         8,303,232 Caddy-A_F3-01_033 (top).f3d
+2022-05-02  12:20 AM         1,206,205 Caddy-B_F3-01_010.step
+2022-03-22  06:57 PM        12,647,754 Caddy-A_F3-01_038 (ears).f3d
+2022-03-05  08:52 PM           265,844 Caddy-A_F3-01_005.f3d
+2022-06-05  04:42 AM        12,253,858 Caddy-B_F3-01_069 (ear-cab-A).f3d
+2022-03-07  08:52 PM         1,310,086 Caddy-A_F3-01_014.f3d
+2022-06-04  08:12 PM           130,610 Caddy-B_F3-01_064 (ear-cab-A).3mf
+2022-05-07  11:57 AM         4,965,287 Caddy-B_F3-01_032.f3d
+2022-05-02  12:20 AM           296,931 Caddy-B_F3-01_010.3mf
+2022-04-30  12:44 PM           331,370 Caddy-B_F3-01_004.f3d
+2022-03-07  02:16 AM         1,001,572 Caddy-A_F3-01_013.step
+2022-06-04  11:20 PM        12,344,310 Caddy-B_F3-01_067 (ear-cab-A).f3d
+2022-03-13  10:37 PM         2,371,558 Caddy-A_F3-01_035 (tray).step
+2022-05-08  11:08 AM         6,758,416 Caddy-B_F3-01_035 (pins).f3d
+2022-03-26  03:42 AM            40,673 Caddy-A_F3-01_041 (right ear, surface).3mf
+2022-04-12  09:53 AM           192,912 Caddy-A_F3-01_033-03 (top).3mf
+2022-05-04  07:43 PM         4,187,372 Caddy-B_F3-01_017 (ear, left).f3d
+2022-03-05  07:14 PM           130,556 Caddy-A_F3-01_001.step
+2022-06-11  08:01 PM         1,010,993 CB-Stencil_F3-01_011 (side).f3d
+2022-03-05  07:29 PM            15,765 Caddy-A_F3-01_004.3mf
+2022-03-26  12:14 AM            22,845 Caddy-A_F3-01_039 (right ear, surface).3mf
+2022-06-04  06:00 PM        11,594,363 Caddy-B_F3-01_063 (ear-cab-A).f3d
+2022-05-07  10:57 AM         4,908,804 Caddy-B_F3-01_031 (test).f3d
+2022-03-06  01:27 PM           445,046 Caddy-A_F3-01_007.step
+2022-05-15  08:05 PM            19,703 Caddy-B_F3-01_056 (top-right).3mf
+2022-06-04  09:43 PM           154,161 Caddy-B_F3-01_066 (ear-cab-A).3mf
+2022-04-30  08:55 PM           511,741 Caddy-B_F3-01_006.f3d
+2022-03-12  06:19 PM            53,202 Caddy-A_F3-01_026 (left ear).3mf
+2022-03-26  12:41 PM            59,967 Caddy-A_F3-01_044 (right ear, surface).3mf
+2022-06-05  05:56 AM           474,552 Caddy-B_F3-01_070 (ear-cab-A).step
+2022-03-12  08:11 PM            53,863 Caddy-A_F3-01_027 (left ear).3mf
+2022-06-18  01:08 PM        14,289,175 Caddy-B_F3-01_073 (ear-cab-A).gcode
+2022-04-30  04:28 PM            51,866 Caddy-B_F3-01_005.3mf
+2022-06-10  09:44 PM           175,547 CB-Stencil_F3-01_006 (B3 - bottom).step
+2022-05-14  01:46 PM           788,146 Caddy-B_F3-01_049 (binder).step
+2022-06-10  09:44 PM           161,125 CB-Stencil_F3-01_006 (B3 - bottom).3mf
+2022-05-04  11:42 PM            11,462 Caddy-B_F3-01_022 (ear, left).3mf
+2022-05-08  08:59 PM           351,010 Caddy-B_F3-01_040 (left).3mf
+2022-05-15  05:19 PM        10,396,222 Caddy-B_F3-01_054 (top-left).f3d
+2022-03-13  12:13 AM            73,707 Caddy-A_F3-01_031 (ears).3mf
+2022-04-15  10:53 PM           180,546 Caddy-A_F3-01_035_04 (bin).3mf
+2022-06-05  01:37 AM           363,495 Caddy-B_F3-01_068 (ear-cab-A).step
+2022-03-12  09:42 PM         6,164,799 Caddy-A_F3-01_028 (both ears).f3d
+2022-03-06  01:34 PM           432,882 Caddy-A_F3-01_008.step
+2022-05-16  07:54 PM            13,036 Caddy-B_F3-01_059 (ear-short).3mf
+2022-06-05  03:20 PM           558,512 Caddy-B_F3-01_072 (ear-cab-A).step
+2022-03-26  01:51 PM        11,413,674 Caddy-A_F3-01_046 (right ear, surface).f3d
+2022-05-10  08:20 AM         1,675,902 Caddy-B_F3-01_041 (right).step
+2022-05-06  11:18 PM         1,322,181 Caddy-B_F3-01_029 (tray, right).step
+2022-04-06  11:28 PM         1,059,854 Caddy-A_F3-01_033-02 (top).step
+2022-04-16  02:03 PM        12,476,059 Caddy-A_F3-01_035_07 (bin).f3d
+2022-03-13  10:37 PM           573,677 Caddy-A_F3-01_035 (tray).3mf
+2022-05-01  11:28 AM         1,606,662 Caddy-B_F3-01_008.f3d
+2022-05-08  11:54 AM            82,372 Caddy-B_F3-01_037 (pins).step
+2022-05-11  08:49 PM           363,371 Caddy-B_F3-01_046 (left).3mf
+2022-04-12  09:53 AM         9,285,117 Caddy-A_F3-01_033-03 (top).f3d
+2022-05-04  11:47 PM            11,460 Caddy-B_F3-01_024 (ear, left).3mf
+2022-03-11  08:52 AM         1,381,925 Caddy-A_F3-01_023.step
+2022-04-16  03:18 AM        11,472,642 Caddy-A_F3-01_035_05 (bin).f3d
+2022-03-11  07:09 PM         1,765,476 Caddy-A_F3-01_024.step
+2022-03-20  07:25 PM         1,557,693 Caddy-A_F3-01_037 (joiner).step
+2022-05-14  10:56 AM         8,226,411 Caddy-B_F3-01_048 (left).f3d
+2022-03-06  12:09 AM           342,942 Caddy-A_F3-01_006.step
+2022-04-14  08:45 PM        11,434,676 Caddy-A_F3-01_035_02 (bin).f3d
+2022-04-30  08:54 PM           247,215 Caddy-B_F3-01_006.step
+2022-04-15  10:53 PM         9,561,853 Caddy-A_F3-01_035_04 (bin).f3d
+2022-03-13  09:35 PM            81,198 Caddy-A_F3-01_034 (ears).3mf
+2022-05-15  08:06 PM        11,869,719 Caddy-B_F3-01_056 (top-right).f3d
+2022-06-04  08:13 PM           313,709 Caddy-B_F3-01_064 (ear-cab-A).step
+2022-03-12  06:18 PM           150,818 Caddy-A_F3-01_026 (left ear).step
+2022-03-07  02:16 AM         1,284,237 Caddy-A_F3-01_013.f3d
+2022-03-06  05:47 PM           208,107 Caddy-A_F3-01_009.3mf
+2022-03-05  07:13 PM            24,418 Caddy-A_F3-01_001.3mf
+2022-05-14  01:46 PM           265,890 Caddy-B_F3-01_049 (binder).3mf
+2022-04-14  08:36 PM           129,963 Caddy-A_F3-01_035_01 (bin).3mf
+2022-05-04  10:22 PM             9,658 Caddy-B_F3-01_020 (ear, left).3mf
+2022-06-07  07:52 PM           206,930 CB-Stencil_F3-01_004.3mf
+2022-05-10  08:19 AM         8,028,758 Caddy-B_F3-01_041 (right).f3d
+2022-05-14  08:37 PM           127,120 Caddy-B_F3-01_050 (ear-base).step
+2022-05-08  11:53 AM            24,419 Caddy-B_F3-01_037 (pins).3mf
+2022-06-04  09:43 PM           346,582 Caddy-B_F3-01_066 (ear-cab-A).step
+2022-05-08  11:10 AM            78,537 Caddy-B_F3-01_036 (pins).step
+2022-05-28  04:37 PM           394,207 Caddy-B_F3-01_062 (tray-middle).3mf
+2022-05-15  05:19 PM            18,302 Caddy-B_F3-01_054 (top-left).3mf
+2022-04-16  03:18 AM           686,853 Caddy-A_F3-01_035_05 (bin).step
+2022-06-05  06:02 AM           466,408 Caddy-B_F3-01_071 (ear-cab-A).step
+2022-05-05  08:27 AM         4,358,910 Caddy-B_F3-01_025 (ear, left).f3d
+2022-03-12  08:11 PM           171,548 Caddy-A_F3-01_027 (left ear).step
+2022-05-15  05:18 PM           153,149 Caddy-B_F3-01_054 (top-left).step
+2022-03-07  09:08 PM           288,147 Caddy-A_F3-01_016.3mf
+2022-06-05  03:33 PM           848,803 Caddy-B_F3-01_073 (ear-cab-A).step
+2022-05-08  02:13 PM         7,726,933 Caddy-B_F3-01_038 (pins).f3d
+2022-04-16  02:03 PM           915,013 Caddy-A_F3-01_035_07 (bin).step
+2022-05-04  08:39 PM             5,001 Caddy-B_F3-01_018 (ear, left).3mf
+2022-03-26  05:08 AM            52,212 Caddy-A_F3-01_043 (right ear, surface).3mf
+2022-03-07  09:00 PM           296,993 Caddy-A_F3-01_015.3mf
+2022-04-16  01:48 PM        12,324,250 Caddy-A_F3-01_035_06 (bin).f3d
+2022-03-05  07:20 PM           209,847 Caddy-A_F3-01_002.f3d
+2022-03-07  09:00 PM           978,872 Caddy-A_F3-01_015.step
+2022-05-04  08:32 AM           295,449 Caddy-B_F3-01_016 (tray,right).3mf
+2022-03-12  05:51 PM         4,316,994 Caddy-A_F3-01_025.f3d
+2022-04-12  03:43 PM         1,101,781 Caddy-A_F3-01_033-04 (top).step
+2022-05-16  08:20 AM           371,156 Caddy-B_F3-01_058 (tray-right).3mf
+2022-03-22  06:56 PM            79,417 Caddy-A_F3-01_038 (ears).3mf
+2022-05-05  08:27 AM           146,982 Caddy-B_F3-01_025 (ear, left).step
+2022-06-11  07:14 PM           231,683 CB-Stencil_F3-01_010 (B3 - side).step
+2022-04-12  09:53 AM         1,075,924 Caddy-A_F3-01_033-03 (top).step
+2022-03-08  10:36 PM           949,533 Caddy-A_F3-01_018.step
+2022-05-02  11:50 PM         1,179,167 Caddy-B_F3-01_012 (tray,right).step
+2022-03-12  11:55 PM           769,272 Caddy-A_F3-01_030 (top).step
+2022-03-05  07:20 PM           187,694 Caddy-A_F3-01_002.step
+2022-03-26  05:08 AM           264,746 Caddy-A_F3-01_043 (right ear, surface).step
+2022-05-08  11:08 AM            23,083 Caddy-B_F3-01_035 (pins).3mf
+2022-05-01  02:28 AM           163,347 Caddy-B_F3-01_007.3mf
+2022-06-04  09:43 PM        11,190,459 Caddy-B_F3-01_066 (ear-cab-A).f3d
+2022-03-09  07:29 PM         1,088,356 Caddy-A_F3-01_022.step
+2022-05-07  12:19 PM         5,526,752 Caddy-B_F3-01_033 (left).f3d
+2022-06-05  04:42 AM           166,036 Caddy-B_F3-01_069 (ear-cab-A).3mf
+2022-03-26  01:15 PM        11,395,184 Caddy-A_F3-01_045 (right ear, surface).f3d
+2022-05-11  08:24 PM         8,232,103 Caddy-B_F3-01_043 (left).f3d
+2022-03-26  01:52 PM            43,503 Caddy-A_F3-01_046 (right ear, surface).3mf
+2022-04-12  08:23 PM         1,106,527 Caddy-A_F3-01_033-05 (top).step
+2022-06-05  03:34 PM        11,937,178 Caddy-B_F3-01_073 (ear-cab-A).f3d
+2022-05-04  08:39 PM            58,688 Caddy-B_F3-01_018 (ear, left).step
+2022-06-13  10:54 PM           880,072 Caddy-B_F3-01_075 (ear-cab-A).step
+2022-05-07  11:14 PM           355,891 Caddy-B_F3-01_034 (left).3mf
+2022-05-04  11:47 PM         4,301,954 Caddy-B_F3-01_024 (ear, left).f3d
+2022-05-07  11:14 PM         1,632,485 Caddy-B_F3-01_034 (left).step
+2022-06-11  02:12 PM           230,249 CB-Stencil_F3-01_009 (B3 - bottom)).step
+2022-04-12  08:23 PM         9,428,433 Caddy-A_F3-01_033-05 (top).f3d
+2022-03-08  11:29 PM         1,376,871 Caddy-A_F3-01_019.f3d
+2022-05-11  08:47 PM           363,380 Caddy-B_F3-01_045 (left).3mf
+2022-05-04  07:43 PM             4,578 Caddy-B_F3-01_017 (ear, left).3mf
+2022-06-11  09:50 PM           268,356 CB-Stencil_F3-01_012 (side).step
+2022-05-01  05:59 PM         1,030,945 Caddy-B_F3-01_009.step
+2022-03-12  05:51 PM           431,866 Caddy-A_F3-01_025.3mf
+2022-05-01  02:29 AM         1,133,700 Caddy-B_F3-01_007.f3d
+2022-06-05  01:37 AM        12,353,175 Caddy-B_F3-01_068 (ear-cab-A).f3d
+2022-05-15  11:00 PM         9,898,463 Caddy-B_F3-01_057 (tray-left).f3d
+2022-05-12  10:26 PM           356,913 Caddy-B_F3-01_047 (right).3mf
+2022-05-14  10:48 PM        11,735,323 Caddy-B_F3-01_053 (binder).f3d
+2022-04-16  01:48 PM           862,881 Caddy-A_F3-01_035_06 (bin).step
+2022-03-06  08:56 PM           747,564 Caddy-A_F3-01_011.step
+2022-03-26  12:20 AM            22,917 Caddy-A_F3-01_040 (right ear, surface).3mf
+2022-03-06  09:03 PM           665,891 Caddy-A_F3-01_012.step
+2022-05-02  08:36 AM         4,046,409 Caddy-B_F3-01_011 (tray,right).f3d
+2022-06-11  09:50 PM           188,479 CB-Stencil_F3-01_012 (side).3mf
+2022-05-16  07:54 PM           148,544 Caddy-B_F3-01_059 (ear-short).step
+2022-03-12  11:09 PM            94,283 Caddy-A_F3-01_029 (ears).3mf
+2022-05-10  11:16 PM         8,269,882 Caddy-B_F3-01_042 (right).f3d
+2022-03-20  07:23 PM           489,862 Caddy-A_F3-01_036 (joiner).3mf
+2022-06-05  06:02 AM        12,275,928 Caddy-B_F3-01_071 (ear-cab-A).f3d
+2022-04-16  02:03 PM           214,994 Caddy-A_F3-01_035_07 (bin).3mf
+2022-05-10  11:15 PM         1,719,159 Caddy-B_F3-01_042 (right).step
+2022-06-13  10:54 PM        15,058,341 Caddy-B_F3-01_075 (ear-cab-A).f3d
+2022-05-04  11:47 PM           127,421 Caddy-B_F3-01_024 (ear, left).step
+2022-05-04  10:22 PM         4,225,663 Caddy-B_F3-01_020 (ear, left).f3d
+2022-05-16  07:54 PM         9,823,035 Caddy-B_F3-01_059 (ear-short).f3d
+2022-04-30  12:44 PM            47,195 Caddy-B_F3-01_004.3mf
+2022-04-30  01:10 AM            15,357 Caddy-B_F3-01_001.3mf
+2022-06-04  08:17 PM           132,268 Caddy-B_F3-01_065 (ear-cab-A).3mf
+2022-05-14  10:12 PM         9,129,686 Caddy-B_F3-01_052 (binder, ear-base).f3d
+2022-05-03  08:06 AM           295,252 Caddy-B_F3-01_013 (tray,left).3mf
+2022-04-15  06:48 PM         9,521,465 Caddy-A_F3-01_035_03 (bin).f3d
+2022-03-11  07:09 PM           410,636 Caddy-A_F3-01_024.3mf
+2022-03-26  01:15 PM           272,272 Caddy-A_F3-01_045 (right ear, surface).step
+2022-03-07  09:09 PM           972,781 Caddy-A_F3-01_016.step
+2022-05-04  09:15 PM             5,007 Caddy-B_F3-01_019 (ear, left).3mf
+2022-04-30  04:19 AM            39,242 Caddy-B_F3-01_003.3mf
+2022-05-01  11:28 AM           697,709 Caddy-B_F3-01_008.step
+2022-05-16  10:19 PM           371,041 Caddy-B_F3-01_060 (tray-right).3mf
+2022-03-22  06:57 PM           387,910 Caddy-A_F3-01_038 (ears).step
+2022-05-08  08:59 PM         1,727,035 Caddy-B_F3-01_040 (left).step
+2022-03-09  09:38 AM         1,397,934 Caddy-A_F3-01_021.f3d
+2022-04-30  02:40 AM           110,429 Caddy-B_F3-01_002.f3d
+2022-05-04  11:44 PM            79,948 Caddy-B_F3-01_023 (ear, left).step
+2022-03-09  09:38 AM           982,696 Caddy-A_F3-01_021.step
+2022-05-04  11:45 PM            11,463 Caddy-B_F3-01_023 (ear, left).3mf
+2022-06-06  12:11 AM         9,810,314 D3_Caddy-B_F3-01_073 (ear-cab-A).gcode
+2022-03-07  09:16 PM           966,242 Caddy-A_F3-01_017.step
+2022-03-26  12:14 AM        11,080,974 Caddy-A_F3-01_039 (right ear, surface).f3d
+2022-03-26  01:15 PM            44,710 Caddy-A_F3-01_045 (right ear, surface).3mf
+2022-06-07  07:16 PM               730 notes - Caddy-B.txt
+2022-05-08  08:59 PM         7,269,933 Caddy-B_F3-01_040 (left).f3d
+2022-06-11  09:55 PM           268,391 CB-Stencil_F3-01_013 (side).step
+2022-05-06  10:07 PM         1,342,779 Caddy-B_F3-01_028 (tray, right).step
+2022-05-03  08:50 PM           298,547 Caddy-B_F3-01_015 (tray,left).3mf
+2022-03-13  09:35 PM           389,940 Caddy-A_F3-01_034 (ears).step
+2022-05-08  11:10 AM         6,778,244 Caddy-B_F3-01_036 (pins).f3d
+2022-06-11  07:13 PM           978,439 CB-Stencil_F3-01_010 (B3 - side).f3d
+2022-06-05  06:02 AM           162,434 Caddy-B_F3-01_071 (ear-cab-A).3mf
+2022-06-04  06:00 PM           304,412 Caddy-B_F3-01_063 (ear-cab-A).step
+2022-03-05  07:24 PM           209,720 Caddy-A_F3-01_003.f3d
+2022-06-07  07:52 PM           211,949 CB-Stencil_F3-01_004.f3d
+2022-04-14  08:36 PM        11,068,750 Caddy-A_F3-01_035_01 (bin).f3d
+2022-05-15  11:00 PM           379,175 Caddy-B_F3-01_057 (tray-left).3mf
+2022-05-03  08:50 PM         1,200,478 Caddy-B_F3-01_015 (tray,left).step
+2022-06-11  09:55 PM           189,548 CB-Stencil_F3-01_013 (side).3mf
+2022-03-20  07:26 PM           491,229 Caddy-A_F3-01_037 (joiner).3mf
+2022-05-04  11:40 PM            11,353 Caddy-B_F3-01_021 (ear, left).3mf
+2022-05-14  10:56 AM         1,908,542 Caddy-B_F3-01_048 (left).step
+2022-05-04  11:40 PM         4,283,906 Caddy-B_F3-01_021 (ear, left).f3d
+2022-06-05  05:56 AM           161,943 Caddy-B_F3-01_070 (ear-cab-A).3mf
+2022-05-04  11:40 PM           121,500 Caddy-B_F3-01_021 (ear, left).step
+2022-04-14  08:36 PM           371,421 Caddy-A_F3-01_035_01 (bin).step
+2022-05-12  10:26 PM         8,573,815 Caddy-B_F3-01_047 (right).f3d
+2022-03-12  11:55 PM         7,269,245 Caddy-A_F3-01_030 (top).f3d
+2022-05-11  08:40 PM           363,416 Caddy-B_F3-01_044 (left).3mf
+2022-06-19  12:36 AM         3,723,291 D3_Caddy-B_F3-01_054 (top-left).gcode
+2022-03-20  07:26 PM        12,790,103 Caddy-A_F3-01_037 (joiner).f3d
+2022-03-13  02:41 AM           382,792 Caddy-A_F3-01_032 (ears).step
+2022-06-13  10:54 PM           311,668 Caddy-B_F3-01_075 (ear-cab-A).3mf
+2022-04-14  08:45 PM           497,873 Caddy-A_F3-01_035_02 (bin).step
+2022-04-15  06:48 PM           175,177 Caddy-A_F3-01_035_03 (bin).3mf
+2022-03-13  02:36 PM           871,002 Caddy-A_F3-01_033 (top).step
+2022-03-13  12:13 AM           355,416 Caddy-A_F3-01_031 (ears).step
+2022-06-11  09:50 PM         1,063,049 CB-Stencil_F3-01_012 (side).f3d
+2022-03-09  09:33 AM         1,387,987 Caddy-A_F3-01_020.f3d
+2022-06-20  08:22 AM        14,033,291 D3_Caddy-B_F3-01_057 (tray-left) (thin-34.62m).gcode
+2022-05-02  11:50 PM           295,261 Caddy-B_F3-01_012 (tray,right).3mf
+2022-03-06  12:10 AM           547,052 Caddy-A_F3-01_006.f3d
+2022-04-30  01:08 AM            82,605 Caddy-B_F3-01_001.f3d
+2022-03-09  09:33 AM           288,932 Caddy-A_F3-01_020.3mf
+2022-05-04  11:42 PM           127,421 Caddy-B_F3-01_022 (ear, left).step
+2022-06-13  12:13 AM           908,368 Caddy-B_F3-01_074 (ear-cab-A).step
+2022-05-06  10:07 PM         5,180,990 Caddy-B_F3-01_028 (tray, right).f3d
+2022-06-11  12:07 AM           197,544 CB-Stencil_F3-01_007 (B3 - bottom).step
+2022-03-06  08:55 PM           237,134 Caddy-A_F3-01_011.3mf
+2022-05-14  10:48 PM           314,457 Caddy-B_F3-01_053 (binder).3mf
+2022-06-07  07:47 PM           105,670 CB-Stencil_F3-01_002.step
+2022-05-14  10:56 AM           376,440 Caddy-B_F3-01_048 (left).3mf
+2022-05-15  08:01 PM        11,858,343 Caddy-B_F3-01_055 (top-right).f3d
+2022-04-30  02:40 AM            48,270 Caddy-B_F3-01_002.step
+2022-03-26  03:42 AM           196,816 Caddy-A_F3-01_041 (right ear, surface).step
+2022-04-12  03:43 PM           216,053 Caddy-A_F3-01_033-04 (top).3mf
+2022-03-05  08:52 PM            31,677 Caddy-A_F3-01_005.3mf
+2022-03-26  12:41 PM           312,240 Caddy-A_F3-01_044 (right ear, surface).step
+2022-05-16  08:20 AM         1,747,940 Caddy-B_F3-01_058 (tray-right).step
+2022-06-11  02:12 PM           882,690 CB-Stencil_F3-01_009 (B3 - bottom)).f3d
+2022-06-11  12:08 AM           542,801 CB-Stencil_F3-01_007 (B3 - bottom).f3d
+2022-05-08  11:08 AM            75,313 Caddy-B_F3-01_035 (pins).step
+2022-05-18  10:50 PM            33,943 Caddy-B_F3-01_061 (ear).3mf
+2022-05-04  08:39 PM         4,190,828 Caddy-B_F3-01_018 (ear, left).f3d
+2022-03-12  09:42 PM            89,330 Caddy-A_F3-01_028 (both ears).3mf
+2022-05-11  08:50 PM         8,538,994 Caddy-B_F3-01_046 (left).f3d
+2022-05-01  02:29 AM           632,147 Caddy-B_F3-01_007.step
+2022-03-12  09:42 PM           340,454 Caddy-A_F3-01_028 (both ears).step
+2022-03-12  11:09 PM         6,202,355 Caddy-A_F3-01_029 (ears).f3d
+2022-05-08  05:59 PM            40,059 Caddy-B_F3-01_039 (pins).3mf
+2022-05-03  08:10 PM         3,937,210 Caddy-B_F3-01_014.f3d
+2022-06-07  07:52 PM           142,585 CB-Stencil_F3-01_004.step
+2022-04-30  04:28 PM           213,318 Caddy-B_F3-01_005.step
+2022-06-11  02:12 PM           267,207 CB-Stencil_F3-01_008 (B3 - bottom)).step
+2022-03-12  05:51 PM         1,883,803 Caddy-A_F3-01_025.step
+2022-03-11  07:09 PM         4,135,137 Caddy-A_F3-01_024.f3d
+2022-05-05  08:59 PM           306,007 Caddy-B_F3-01_026 (tray, right).3mf
+2022-05-07  11:58 AM           678,751 Caddy-B_F3-01_032.3mf
+2022-03-05  07:24 PM           149,748 Caddy-A_F3-01_003.step
+2022-03-20  07:23 PM         1,480,343 Caddy-A_F3-01_036 (joiner).step
+2022-03-09  09:33 AM           974,912 Caddy-A_F3-01_020.step
+2022-03-13  09:35 PM         8,310,515 Caddy-A_F3-01_034 (ears).f3d
+2022-06-11  02:11 PM           872,631 CB-Stencil_F3-01_008 (B3 - bottom)).f3d
+2022-05-06  11:18 PM           337,969 Caddy-B_F3-01_029 (tray, right).3mf
+2022-03-12  11:55 PM           156,425 Caddy-A_F3-01_030 (top).3mf
+2022-06-04  11:20 PM           212,802 Caddy-B_F3-01_067 (ear-cab-A).3mf
+2022-06-10  09:43 PM           559,211 CB-Stencil_F3-01_006 (B3 - bottom).f3d
+2022-06-07  07:17 PM            72,650 CB-Stencil_F3-01_001.step
+2022-03-06  05:47 PM           630,049 Caddy-A_F3-01_009.step
+2022-03-11  08:52 AM         1,825,922 Caddy-A_F3-01_023.f3d
+2022-04-16  01:48 PM           189,196 Caddy-A_F3-01_035_06 (bin).3mf
+2022-06-06  12:06 AM        19,766,982 D3_Caddy-B_F3-01_057 (tray-left).gcode
+2022-04-06  11:28 PM         8,473,383 Caddy-A_F3-01_033-02 (top).f3d
+2022-06-07  07:17 PM           147,034 CB-Stencil_F3-01_001.f3d
+2022-05-02  12:20 AM         2,800,836 Caddy-B_F3-01_010.f3d
+2022-05-28  04:38 PM        12,246,434 Caddy-B_F3-01_062 (tray-middle).f3d
+2022-04-30  08:55 PM            59,107 Caddy-B_F3-01_006.3mf
+2022-03-26  03:42 AM        11,078,876 Caddy-A_F3-01_041 (right ear, surface).f3d
+2022-06-07  07:48 PM           190,051 CB-Stencil_F3-01_002.f3d
+2022-05-18  10:50 PM           241,246 Caddy-B_F3-01_061 (ear).step
+2022-03-26  04:23 AM           269,936 Caddy-A_F3-01_042 (right ear, surface).step
+2022-03-07  09:16 PM         1,337,533 Caddy-A_F3-01_017.f3d
+2022-04-12  03:43 PM         9,409,484 Caddy-A_F3-01_033-04 (top).f3d
+2022-05-10  11:16 PM           346,568 Caddy-B_F3-01_042 (right).3mf
+2022-03-08  10:36 PM           283,344 Caddy-A_F3-01_018.3mf
+2022-03-26  12:14 AM           142,552 Caddy-A_F3-01_039 (right ear, surface).step
+2022-06-13  12:12 AM           322,621 Caddy-B_F3-01_074 (ear-cab-A).3mf
+2022-03-05  07:24 PM            26,317 Caddy-A_F3-01_003.3mf
+2022-05-04  11:45 PM         4,301,863 Caddy-B_F3-01_023 (ear, left).f3d
+2022-05-08  06:00 PM         7,781,638 Caddy-B_F3-01_039 (pins).f3d
+2022-05-04  09:15 PM         4,193,011 Caddy-B_F3-01_019 (ear, left).f3d
+2022-05-07  12:19 PM           362,371 Caddy-B_F3-01_033 (left).3mf
+2022-05-03  08:06 AM         1,181,760 Caddy-B_F3-01_013 (tray,left).step
+2022-05-06  10:07 PM           337,020 Caddy-B_F3-01_028 (tray, right).3mf
+2022-03-26  04:23 AM        11,207,870 Caddy-A_F3-01_042 (right ear, surface).f3d
+2022-03-13  02:36 PM           128,912 Caddy-A_F3-01_033 (top).3mf
+2022-06-05  05:56 AM        12,251,974 Caddy-B_F3-01_070 (ear-cab-A).f3d
+2022-06-07  07:49 PM           132,342 CB-Stencil_F3-01_003.3mf
+2022-06-07  07:17 PM           121,779 CB-Stencil_F3-01_001.3mf
+2022-05-06  11:18 PM         5,158,125 Caddy-B_F3-01_029 (tray, right).f3d
+2022-03-06  05:47 PM           833,413 Caddy-A_F3-01_009.f3d
+2022-06-11  02:11 PM           181,641 CB-Stencil_F3-01_008 (B3 - bottom)).3mf
+2022-04-15  10:53 PM           558,846 Caddy-A_F3-01_035_04 (bin).step
+2022-06-04  06:00 PM            16,208 Caddy-B_F3-01_063 (ear-cab-A).3mf
+2022-06-05  04:42 AM           471,470 Caddy-B_F3-01_069 (ear-cab-A).step
+2022-06-18  12:23 AM         6,833,447 Caddy-B_F3-01_039 (pins).gcode
+2022-05-08  11:10 AM            23,307 Caddy-B_F3-01_036 (pins).3mf
+2022-03-07  02:16 AM           302,454 Caddy-A_F3-01_013.3mf
+2022-04-30  04:18 AM           229,009 Caddy-B_F3-01_003.f3d
+2022-04-30  02:40 AM            18,414 Caddy-B_F3-01_002.3mf
+2022-05-04  08:33 AM         1,184,625 Caddy-B_F3-01_016 (tray,right).step
+2022-05-10  08:19 AM           351,467 Caddy-B_F3-01_041 (right).3mf
+2022-03-06  09:03 PM           954,052 Caddy-A_F3-01_012.f3d
+2022-05-07  11:14 PM         7,037,301 Caddy-B_F3-01_034 (left).f3d
+2022-03-26  04:23 AM            56,092 Caddy-A_F3-01_042 (right ear, surface).3mf
+2022-05-15  08:01 PM            19,635 Caddy-B_F3-01_055 (top-right).3mf
+2022-05-02  08:36 AM           437,502 Caddy-B_F3-01_011 (tray,right).3mf
+2022-05-08  06:00 PM           160,714 Caddy-B_F3-01_039 (pins).step
+2022-05-15  08:02 PM           143,726 Caddy-B_F3-01_055 (top-right).step
+2022-03-06  01:27 PM            57,965 Caddy-A_F3-01_007.3mf
+2022-03-07  08:52 PM           296,568 Caddy-A_F3-01_014.3mf
+2022-05-12  10:26 PM         1,771,107 Caddy-B_F3-01_047 (right).step
+2022-03-26  12:20 AM        11,026,893 Caddy-A_F3-01_040 (right ear, surface).f3d
+2022-06-13  12:13 AM        12,070,073 Caddy-B_F3-01_074 (ear-cab-A).f3d
+2022-05-14  09:24 PM        10,553,238 Caddy-B_F3-01_051 (binder).f3d
+2022-05-14  01:46 PM        10,300,400 Caddy-B_F3-01_049 (binder).f3d
+2022-06-04  08:12 PM        11,135,727 Caddy-B_F3-01_064 (ear-cab-A).f3d
+2022-05-08  02:13 PM           127,263 Caddy-B_F3-01_038 (pins).step
+2022-05-05  09:44 PM         4,641,082 Caddy-B_F3-01_027 (tray, left).f3d
+2022-06-11  08:01 PM           242,133 CB-Stencil_F3-01_011 (side).step
+2022-03-06  08:55 PM         1,017,606 Caddy-A_F3-01_011.f3d
+2022-03-06  08:33 PM           204,746 Caddy-A_F3-01_010.3mf
+2022-04-16  03:18 AM           203,651 Caddy-A_F3-01_035_05 (bin).3mf
+2022-03-13  02:41 AM            80,522 Caddy-A_F3-01_032 (ears).3mf
+2022-03-09  07:29 PM           303,075 Caddy-A_F3-01_022.3mf
+2022-05-11  08:46 PM         1,815,765 Caddy-B_F3-01_045 (left).step
+2022-03-26  05:08 AM        11,222,622 Caddy-A_F3-01_043 (right ear, surface).f3d
+2022-05-07  09:23 AM           261,880 Caddy-B_F3-01_030 (ear).step
+2022-06-11  12:08 AM           163,621 CB-Stencil_F3-01_007 (B3 - bottom).3mf
+2022-05-11  08:50 PM         1,815,765 Caddy-B_F3-01_046 (left).step
+2022-05-16  08:20 AM        10,896,137 Caddy-B_F3-01_058 (tray-right).f3d
+2022-03-05  07:28 PM            84,639 Caddy-A_F3-01_004.step
+2022-06-19  08:52 PM        14,023,724 D3_Caddy-B_F3-01_060 (tray-right) (thin-34.83m).gcode
+2022-06-11  09:55 PM         1,067,517 CB-Stencil_F3-01_013 (side).f3d
+2022-06-05  03:20 PM        11,504,272 Caddy-B_F3-01_072 (ear-cab-A).f3d
+2022-03-08  11:29 PM           965,178 Caddy-A_F3-01_019.step
+2022-05-03  08:50 PM         3,833,827 Caddy-B_F3-01_015 (tray,left).f3d
+2022-05-16  10:19 PM         1,744,828 Caddy-B_F3-01_060 (tray-right).step
+2022-05-03  08:10 PM         2,426,244 Caddy-B_F3-01_014.step
+2022-03-06  09:04 PM           215,540 Caddy-A_F3-01_012.3mf
+2022-05-05  09:44 PM         1,283,262 Caddy-B_F3-01_027 (tray, left).step
+2022-03-07  09:16 PM           287,434 Caddy-A_F3-01_017.3mf
+2022-05-03  08:06 AM         3,874,532 Caddy-B_F3-01_013 (tray,left).f3d
+2022-06-06  12:02 AM        19,953,900 D3_Caddy-B_F3-01_060 (tray-right).gcode
+2022-03-07  08:53 PM           969,280 Caddy-A_F3-01_014.step
+2022-03-05  07:20 PM            42,431 Caddy-A_F3-01_002.3mf
+2022-05-07  10:57 AM           346,413 Caddy-B_F3-01_031 (test).3mf
+2022-05-07  11:58 AM         2,767,124 Caddy-B_F3-01_032.step
+2022-05-14  10:49 PM           820,752 Caddy-B_F3-01_053 (binder).step
+2022-05-01  05:59 PM         2,570,881 Caddy-B_F3-01_009.f3d
+2022-03-13  02:41 AM         7,305,286 Caddy-A_F3-01_032 (ears).f3d
+2022-05-14  10:14 PM           376,919 Caddy-B_F3-01_052 (binder, ear-base).3mf
+2022-06-05  01:36 AM           155,527 Caddy-B_F3-01_068 (ear-cab-A).3mf
+2022-03-07  09:08 PM         1,328,610 Caddy-A_F3-01_016.f3d
+2022-06-07  07:49 PM           189,988 CB-Stencil_F3-01_003.f3d
+2022-05-04  07:43 PM            55,244 Caddy-B_F3-01_017 (ear, left).step
+2022-04-30  04:19 AM           149,820 Caddy-B_F3-01_003.step
+2022-05-14  09:24 PM           788,119 Caddy-B_F3-01_051 (binder).step
+2022-03-26  12:41 PM        11,445,380 Caddy-A_F3-01_044 (right ear, surface).f3d
+2022-03-06  08:33 PM           962,082 Caddy-A_F3-01_010.f3d
+2022-03-12  08:11 PM         4,534,859 Caddy-A_F3-01_027 (left ear).f3d
+2022-05-05  09:44 PM           318,231 Caddy-B_F3-01_027 (tray, left).3mf
+             439 File(s)  1,112,827,873 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20220716 - Battery Charger Mount
+
+2022-09-20  09:12 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-07-10  03:36 PM            78,210 Charger-Mount_F3-01_001.3mf
+2022-07-10  03:36 PM            92,004 Charger-Mount_F3-01_001.f3d
+2022-07-10  03:36 PM            30,294 Charger-Mount_F3-01_001.step
+2022-07-10  04:09 PM            78,415 Charger-Mount_F3-01_002.3mf
+2022-07-10  04:08 PM            94,825 Charger-Mount_F3-01_002.f3d
+2022-07-10  04:08 PM            30,308 Charger-Mount_F3-01_002.step
+2022-07-10  04:36 PM            78,502 Charger-Mount_F3-01_003.3mf
+2022-07-10  04:36 PM            96,353 Charger-Mount_F3-01_003.f3d
+2022-07-10  04:36 PM            30,308 Charger-Mount_F3-01_003.step
+2022-07-10  05:12 PM           146,546 Charger-Mount_F3-01_004.3mf
+2022-07-10  05:12 PM           234,775 Charger-Mount_F3-01_004.f3d
+2022-07-10  05:12 PM           147,274 Charger-Mount_F3-01_004.step
+2022-07-10  06:06 PM           198,473 Charger-Mount_F3-01_005.3mf
+2022-07-10  06:07 PM           336,089 Charger-Mount_F3-01_005.f3d
+2022-07-10  06:07 PM           349,074 Charger-Mount_F3-01_005.step
+2022-07-10  08:00 PM           260,020 Charger-Mount_F3-01_006.3mf
+2022-07-10  08:00 PM           451,522 Charger-Mount_F3-01_006.f3d
+2022-07-10  08:00 PM           419,604 Charger-Mount_F3-01_006.step
+2022-07-10  09:27 PM           268,320 Charger-Mount_F3-01_007.3mf
+2022-07-10  09:27 PM           436,001 Charger-Mount_F3-01_007.f3d
+2022-07-10  09:27 PM           417,101 Charger-Mount_F3-01_007.step
+2022-07-10  11:20 PM           301,644 Charger-Mount_F3-01_008.3mf
+2022-07-10  11:20 PM           504,080 Charger-Mount_F3-01_008.f3d
+2022-07-10  11:20 PM           524,127 Charger-Mount_F3-01_008.step
+2022-07-11  08:01 PM           301,383 Charger-Mount_F3-01_009.3mf
+2022-07-11  08:02 PM           498,543 Charger-Mount_F3-01_009.f3d
+2022-07-11  08:02 PM           511,116 Charger-Mount_F3-01_009.step
+2022-07-14  12:33 AM           356,840 Charger-Mount_F3-01_010.3mf
+2022-07-14  12:33 AM           772,885 Charger-Mount_F3-01_010.f3d
+2022-07-14  12:33 AM           783,734 Charger-Mount_F3-01_010.step
+2022-07-16  12:52 AM           326,360 Charger-Mount_F3-01_011.3mf
+2022-07-16  12:51 AM           697,866 Charger-Mount_F3-01_011.f3d
+2022-07-16  12:51 AM           642,794 Charger-Mount_F3-01_011.step
+2022-07-16  03:53 AM           337,674 Charger-Mount_F3-01_012.3mf
+2022-07-16  03:54 AM           776,896 Charger-Mount_F3-01_012.f3d
+2022-07-16  03:54 AM           700,510 Charger-Mount_F3-01_012.step
+2022-07-16  01:25 PM           351,527 Charger-Mount_F3-01_013.3mf
+2022-07-16  01:25 PM           818,021 Charger-Mount_F3-01_013.f3d
+2022-07-16  01:25 PM           737,377 Charger-Mount_F3-01_013.step
+2022-07-16  03:35 PM           348,265 Charger-Mount_F3-01_014.3mf
+2022-07-16  03:35 PM           817,442 Charger-Mount_F3-01_014.f3d
+2022-07-16  03:35 PM           731,708 Charger-Mount_F3-01_014.step
+              42 File(s)     16,114,810 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20220918 - Window Shutter Accessories
+
+2022-09-20  09:14 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-06-30  07:51 PM           301,385 Hook-A_F3-01_001.3mf
+2022-06-30  07:51 PM           251,030 Hook-A_F3-01_001.f3d
+2022-06-30  07:52 PM           220,135 Hook-A_F3-01_001.step
+2022-06-30  08:00 PM           334,855 Hook-A_F3-01_002.3mf
+2022-06-30  08:00 PM           349,362 Hook-A_F3-01_002.f3d
+2022-06-30  07:59 PM           308,438 Hook-A_F3-01_002.step
+2022-06-30  09:06 PM           345,061 Hook-A_F3-01_003.3mf
+2022-06-30  09:06 PM           386,248 Hook-A_F3-01_003.f3d
+2022-06-30  09:06 PM           348,473 Hook-A_F3-01_003.step
+2022-06-30  10:29 PM           429,649 Hook-A_F3-01_004.3mf
+2022-06-30  10:29 PM           661,624 Hook-A_F3-01_004.f3d
+2022-06-30  10:29 PM           605,315 Hook-A_F3-01_004.step
+2022-07-01  08:29 PM           466,730 Hook-A_F3-01_005.3mf
+2022-07-01  08:29 PM           689,359 Hook-A_F3-01_005.f3d
+2022-07-01  08:29 PM           562,681 Hook-A_F3-01_005.step
+2022-07-01  08:39 PM           471,834 Hook-A_F3-01_006.3mf
+2022-07-01  08:39 PM           760,105 Hook-A_F3-01_006.f3d
+2022-07-01  08:39 PM           594,146 Hook-A_F3-01_006.step
+2022-07-18  06:01 PM           115,437 Pin-Removal-Wedge_F3-01_001.3mf
+2022-07-18  06:01 PM           119,419 Pin-Removal-Wedge_F3-01_001.f3d
+2022-07-18  06:01 PM            76,541 Pin-Removal-Wedge_F3-01_001.step
+2022-07-18  07:19 PM           116,395 Pin-Removal-Wedge_F3-01_002.3mf
+2022-07-18  07:19 PM           132,083 Pin-Removal-Wedge_F3-01_002.f3d
+2022-07-18  07:20 PM            76,556 Pin-Removal-Wedge_F3-01_002.step
+2022-07-18  07:53 PM           115,688 Pin-Removal-Wedge_F3-01_003.3mf
+2022-07-18  07:53 PM           132,800 Pin-Removal-Wedge_F3-01_003.f3d
+2022-07-18  07:53 PM            76,553 Pin-Removal-Wedge_F3-01_003.step
+2022-05-17  08:42 PM            78,765 WindowSpikes_F3-01_001.3mf
+2022-05-17  08:42 PM           312,370 WindowSpikes_F3-01_001.f3d
+2022-05-17  08:42 PM           214,878 WindowSpikes_F3-01_001.step
+2022-05-17  10:14 PM           490,081 WindowSpikes_F3-01_002.3mf
+2022-05-17  10:14 PM           963,238 WindowSpikes_F3-01_002.f3d
+2022-05-17  10:14 PM           767,634 WindowSpikes_F3-01_002.step
+2022-05-17  10:41 PM           318,227 WindowSpikes_F3-01_003.3mf
+2022-05-17  10:42 PM           663,824 WindowSpikes_F3-01_003.f3d
+2022-05-17  10:42 PM           586,942 WindowSpikes_F3-01_003.step
+2022-05-19  11:00 PM           356,532 WindowSpikes_F3-01_004.3mf
+2022-05-19  11:00 PM           963,667 WindowSpikes_F3-01_004.f3d
+2022-05-19  11:01 PM           659,083 WindowSpikes_F3-01_004.step
+              39 File(s)     15,423,143 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20220920 - 3D Printer Accessories
+
+2022-09-23  11:48 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-09-18  03:56 PM           183,084 Printer-FilamentTubeArm_F3-01_001.3mf
+2022-09-18  03:56 PM           167,847 Printer-FilamentTubeArm_F3-01_001.f3d
+2022-09-18  03:56 PM           121,442 Printer-FilamentTubeArm_F3-01_001.step
+2022-09-18  05:01 PM           188,062 Printer-FilamentTubeArm_F3-01_002.3mf
+2022-09-18  05:01 PM           221,879 Printer-FilamentTubeArm_F3-01_002.f3d
+2022-09-18  05:01 PM           132,106 Printer-FilamentTubeArm_F3-01_002.step
+2022-09-18  06:16 PM           245,404 Printer-FilamentTubeArm_F3-01_003.3mf
+2022-09-18  06:16 PM           224,910 Printer-FilamentTubeArm_F3-01_003.f3d
+2022-09-18  06:16 PM           181,590 Printer-FilamentTubeArm_F3-01_003.step
+2022-09-18  06:59 PM           255,591 Printer-FilamentTubeArm_F3-01_004.3mf
+2022-09-18  06:59 PM           255,737 Printer-FilamentTubeArm_F3-01_004.f3d
+2022-09-18  06:59 PM           192,058 Printer-FilamentTubeArm_F3-01_004.step
+2022-09-18  07:27 PM           283,194 Printer-FilamentTubeArm_F3-01_005.3mf
+2022-09-18  07:27 PM           317,215 Printer-FilamentTubeArm_F3-01_005.f3d
+2022-09-18  07:27 PM           232,826 Printer-FilamentTubeArm_F3-01_005.step
+2022-09-18  08:18 PM           272,817 Printer-FilamentTubeArm_F3-01_006.3mf
+2022-09-18  08:18 PM           319,742 Printer-FilamentTubeArm_F3-01_006.f3d
+2022-09-18  08:18 PM           213,799 Printer-FilamentTubeArm_F3-01_006.step
+2022-09-22  12:30 AM           473,059 Printer-FilamentTubeArm_F3-01_007.3mf
+2022-09-22  12:30 AM           885,276 Printer-FilamentTubeArm_F3-01_007.f3d
+2022-09-22  12:31 AM           530,970 Printer-FilamentTubeArm_F3-01_007.step
+              21 File(s)      5,898,608 bytes
+
+ Directory of <share>\Files\3D Printing\Print Projects\20220920 - Small Device Mount
+
+2022-09-20  09:10 PM    <DIR>          .
+2022-09-24  12:45 AM    <DIR>          ..
+2022-08-27  03:33 PM           467,319 Small-Device-Mount_F3-01_001.3mf
+2022-08-27  03:33 PM           510,636 Small-Device-Mount_F3-01_001.f3d
+2022-08-27  03:34 PM           682,771 Small-Device-Mount_F3-01_001.step
+2022-08-27  05:25 PM           482,518 Small-Device-Mount_F3-01_002.3mf
+2022-08-27  05:25 PM           527,561 Small-Device-Mount_F3-01_002.f3d
+2022-08-27  05:25 PM           658,000 Small-Device-Mount_F3-01_002.step
+2022-08-28  12:16 AM           476,790 Small-Device-Mount_F3-01_003.3mf
+2022-08-28  12:16 AM           559,276 Small-Device-Mount_F3-01_003.f3d
+2022-08-28  12:17 AM           711,675 Small-Device-Mount_F3-01_003.step
+               9 File(s)      5,076,546 bytes
+
+     Total Files Listed:
+            2617 File(s) 27,214,530,959 bytes
+             188 Dir(s)  11,015,244,107,776 bytes free
